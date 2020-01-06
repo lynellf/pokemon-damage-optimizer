@@ -1,194 +1,245 @@
-import { pokemon } from "./utils/mockData";
-// const solver = require("javascript-lp-solver");
+/**
+ * EV Optimizer
+ * 1. Determine objective function based on match-up
+ *   a. Am I faster than my opponent?
+ *   b. Can I withstand multiple attacks from my opponent?
+ *   c. Can I defeat my opponent within 2 turns?
+ * 2. If the answer is yes, pass.
+ * 3. If the answer is no, solve to make the answer a yes.
+ * 4. If I fail, pass.
+ * 5. Resulting EV values are starting values for next evaluation.
+ */
+import dataSource from "./data/output.json";
+import { getAttacks, performDamageCalculation } from "./battle/battle";
+import Monster from "./pokemon/pokemon";
+import Variable from "./solver/variable/variable";
+import { optimizer } from "./pokeEvaluator/pokeEvaluator";
 
+type Moves = typeof dataSource["moves"];
+type MoveKeys = keyof Moves;
+type MonsterKeys = keyof typeof dataSource["pokemon"];
 
-function getStatValue({
-  iv,
-  baseStat,
-  ev,
-  level
-}: {
-  iv: number;
-  baseStat: number;
-  ev: number;
-  level: number;
-}) {
-  return (iv + 2) * (baseStat + ev / 4) * (level / 100) + 5;
+type TBST = {
+  baseHP: string;
+  baseAtk: string;
+  baseDef: string;
+  baseSpa: string;
+  baseSpd: string;
+  baseSpeed: string;
+};
+
+type TBaseStats = {
+  normal: TBST;
+  alolan: TBST | null;
+  galarian: TBST | null;
+};
+
+export type TMove = {
+  moveName: string;
+  moveAccuracy: string;
+  moveEffectPct: string;
+  movePower: string;
+  movePowerPoints: string;
+  moveType: string;
+};
+
+type TMoveFormatted = {
+  name: string;
+  power: number;
+  type: string;
+  category: string | undefined;
+};
+
+export type TPokemon = {
+  abilities: string[];
+  baseStats: TBaseStats;
+  dexNumber: string;
+  forms: { form: string; types: string[] }[];
+  moves: { [key: string]: string[] };
+  name: string;
+};
+
+export type TOutput = {
+  pokemon: { [key: string]: TPokemon };
+  moves: { [key: string]: TMove };
+  abilities: string[];
+  _tempMoves?: { [key: string]: string[] };
+};
+
+type OptimizeMon = {
+  canKo: boolean;
+  canOutlast: boolean;
+  canOutspeed: boolean;
+};
+
+type OptimizePower = {
+  stat: "atk" | "spa";
+  move: TMoveFormatted;
+  query: Monster;
+  opponent: Monster;
+};
+
+type OptimizeDef = {
+  stat: "def" | "spd";
+  move: TMoveFormatted;
+  query: Monster;
+  opponent: Monster;
+};
+
+type TBattle = {
+  category: string;
+  defenderName: string;
+  defenderHp: number;
+  movePct: number;
+  name: string;
+  totalDmg: number;
+  evs: number[];
+};
+
+const compare = (a: any, b: any) => (a.movePct > b.movePct ? -1 : 1);
+
+function getMonsterList() {
+  const { pokemon: rawData } = dataSource;
+  const pokemonNames = Object.keys(rawData) as MonsterKeys[];
+  return pokemonNames
+    .map(n => new Monster({ name: n }))
+    .filter(m => m.attackList.length !== 0);
 }
 
-function getNat(nature: TNatureOptions, stat: TStatOptions, value: number) {
-  const neutral = ["hardy", "docile", "serious", "bashful", "quirky"];
-  const positiveNatures = {
-    atk: ["lonely", "brave", "adamant", "naughty"].includes(nature),
-    def: ["bold", "relaxed", "impish", "lax"].includes(nature),
-    spa: ["modest", "mild", "quiet", "rash"].includes(nature),
-    spd: ["calm", "gentle", "sassy", "careful"].includes(nature),
-    speed: ["timid", "hasty", "jolly", "naive"].includes(nature)
+export function optimizePwr({ stat, move, query, opponent }: OptimizePower) {
+  const powerConst = (...evs: Variable[]) => {
+    query.effortValues = [...evs];
+    const output = performDamageCalculation({
+      attacker: query,
+      defender: opponent,
+      move,
+      cse: "worst"
+    });
+    const didWin = output.movePct >= 0.5;
+    return didWin;
   };
 
-  const negativeNatures = {
-    atk: ["bold", "timid", "modest", "calm"].includes(nature),
-    def: ["lonely", "hasty", "mild", "gentle"].includes(nature),
-    spa: ["adamant", "impish", "jolly", "careful"].includes(nature),
-    spd: ["naughty", "lax", "naive", "rash"].includes(nature),
-    speed: ["brave", "relaxed", "quiet", "sassy"].includes(nature)
-  };
-
-  const isNeutral = neutral.find(x => x === nature) !== undefined;
-  if (isNeutral) {
-    return value;
-  }
-
-  const isPositive = positiveNatures[stat];
-  const isNegative = negativeNatures[stat];
-
-  if (isNegative) {
-    return value * 0.9;
-  }
-
-  if (isPositive) {
-    return value * 1.1;
-  }
-
-  return value;
+  const output = optimizer({
+    baseMonster: query,
+    query: stat,
+    cons: [powerConst]
+  });
+  return output;
 }
 
-function getStatTotals({ baseStats, nature, EV, IV, level }: TGetStatTotals) {
-  const { baseHP, baseAtk, baseDef, baseSpa, baseSpd, baseSpeed } = baseStats;
-  const { hpEV, atkEV, defEV, spaEV, spdEV, speedEV } = EV;
-  const { hpIV, atkIV, defIV, spaIV, spdIV, speedIV } = IV;
-
-  const hp = (hpIV + 2) * (baseHP + hpEV / 4) * (level / 100) + 10 + level;
-  const atk = getNat(
-    nature,
-    "atk",
-    getStatValue({ iv: atkIV, ev: atkEV, level, baseStat: baseAtk })
-  );
-  const def = getNat(
-    nature,
-    "def",
-    getStatValue({ iv: defIV, ev: defEV, level, baseStat: baseDef })
-  );
-  const spa = getNat(
-    nature,
-    "spa",
-    getStatValue({ iv: spaIV, ev: spaEV, level, baseStat: baseSpa })
-  );
-  const spd = getNat(
-    nature,
-    "spd",
-    getStatValue({ iv: spdIV, ev: spdEV, level, baseStat: baseSpd })
-  );
-  const speed = getNat(
-    nature,
-    "speed",
-    getStatValue({ iv: speedIV, ev: speedEV, level, baseStat: baseSpeed })
-  );
-  return {
-    hp,
-    atk,
-    def,
-    spa,
-    spd,
-    speed
-  };
-}
-
-function getMinAtk() {
-  const { 0: bulbasaur, 3: charmander } = pokemon;
-  const bulbaBase = {
-    baseHP: Number(bulbasaur.baseStats.baseHP),
-    baseAtk: Number(bulbasaur.baseStats.baseAtk),
-    baseDef: Number(bulbasaur.baseStats.baseDef),
-    baseSpa: Number(bulbasaur.baseStats.baseSpa),
-    baseSpd: Number(bulbasaur.baseStats.baseSpd),
-    baseSpeed: Number(bulbasaur.baseStats.baseSpeed)
+function optimizeDef({ stat, move, query, opponent }: OptimizeDef) {
+  const defConst = (...evs: Variable[]) => {
+    query.effortValues = [...evs];
+    const output = performDamageCalculation({
+      attacker: opponent,
+      defender: query,
+      move,
+      cse: "best"
+    });
+    return output.movePct < 0.5;
   };
 
-  const bulbaEV = {
-    hpEV: 0,
-    atkEV: 0,
-    defEV: 0,
-    spaEV: 0,
-    spdEV: 0,
-    speedEV: 0
-  };
-  const bulbaIV = {
-    hpIV: 0,
-    atkIV: 0,
-    defIV: 0,
-    spaIV: 0,
-    spdIV: 0,
-    speedIV: 0
-  };
-
-  const bulbaTest = getStatTotals({
-    baseStats: bulbaBase,
-    nature: "bold",
-    EV: bulbaEV,
-    IV: bulbaIV,
-    level: 50
+  return optimizer({
+    baseMonster: query,
+    query: stat,
+    cons: [defConst]
   });
 }
 
-export function App() {
-  return getMinAtk();
+function optimizeSpeed(query: Monster, opponent: Monster) {
+  const speedConst = (...evs: Variable[]) => {
+    query.effortValues = [...evs];
+    const output = query.stats.speed > opponent.stats.speed;
+    return output;
+  };
+
+  return optimizer({
+    baseMonster: query,
+    query: "speed",
+    cons: [speedConst]
+  });
 }
 
-type TGetStatTotals = {
-  baseStats: {
-    baseHP: number;
-    baseAtk: number;
-    baseDef: number;
-    baseSpa: number;
-    baseSpd: number;
-    baseSpeed: number;
-  };
-  nature: TNatureOptions;
-  level: number;
-  EV: {
-    hpEV: number;
-    atkEV: number;
-    defEV: number;
-    spaEV: number;
-    spdEV: number;
-    speedEV: number;
-  };
-  IV: {
-    hpIV: number;
-    atkIV: number;
-    defIV: number;
-    spaIV: number;
-    spdIV: number;
-    speedIV: number;
-  };
-};
+export function optimizeMon(query: Monster, opponent: Monster) {
+  query.battleOpponent(opponent, "worst");
+  opponent.battleOpponent(query, "best");
+  const attackResults = query.lastBattle;
+  const defResults = opponent.lastBattle;
+  const isValid = attackResults !== undefined && defResults !== undefined;
+  if (isValid) {
+    const isFaster =
+      query.stats.speed > opponent.stats.speed
+        ? true
+        : optimizeSpeed(query, opponent);
+    const canOHKO = attackResults.movePct >= 1;
+    const canKo =
+      attackResults.movePct >= 0.5
+        ? true
+        : optimizePwr({
+            stat: attackResults.category === "physical move" ? "atk" : "spa",
+            move: query.attackList.find(m => m.name === attackResults.name)!,
+            opponent,
+            query
+          });
+    const canOutlast =
+      defResults.movePct < 0.5
+        ? true
+        : optimizeDef({
+            query,
+            opponent,
+            stat: defResults.category === "physical move" ? "def" : "spd",
+            move: opponent.attackList.find(m => m.name === defResults.name)!
+          });
+    const canSweep = isFaster && canOHKO;
+    const canOutPace = isFaster && canOutlast && canKo;
+    const canBully = canOutlast && canKo;
+    const canWin = canSweep || canBully || canOutPace;
+    if (canWin) {
+      query.lastWinEvs = [...query.evs];
+      query.wins.push({
+        opponent: opponent.name,
+        move: attackResults,
+        evs: query.evs.map(ev => ev.currentVal)
+      });
+    } else {
+      query.losses.push({
+        opponent: opponent.name,
+        move: defResults,
+        evs: query.evs.map(ev => ev.currentVal)
+      });
+    }
+  } else {
+    console.error("Undefined battle result data");
+  }
+}
 
-type TNatureOptions =
-  | "hardy"
-  | "lonely"
-  | "brave"
-  | "adamant"
-  | "naughty"
-  | "bold"
-  | "docile"
-  | "relaxed"
-  | "impish"
-  | "lax"
-  | "timid"
-  | "hasty"
-  | "serious"
-  | "jolly"
-  | "naive"
-  | "modest"
-  | "mild"
-  | "quiet"
-  | "bashful"
-  | "rash"
-  | "calm"
-  | "gentle"
-  | "sassy"
-  | "careful"
-  | "quirky";
+export function Main(monsters: Monster[] = getMonsterList()) {
+  let canContinue = true;
+  let index = 0;
+  const results = monsters.reduce((o, m) => {
+    o[m.name] = m.lastBattle;
+    return o;
+  }, {} as any);
 
-type TStatOptions = "atk" | "def" | "spa" | "spd" | "speed";
+  const limit = monsters.length;
+
+  while (canContinue && index < limit) {
+    const query = monsters[index];
+    const equalState =
+      JSON.stringify(query.lastBattle) === JSON.stringify(results[query.name]);
+
+    if (!equalState || index === 0) {
+      const opponents = monsters.filter(m => m.name !== query.name);
+      opponents.forEach(o => {
+        const opponent = o;
+        optimizeMon(query, opponent);
+        results[query.name] = {
+          wins: query.wins,
+          losses: query.losses
+        };
+      });
+      index += 1;
+    }
+  }
+  return results;
+}

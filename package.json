@@ -1,27 +1,24 @@
 {
-  "name": "poke-rank",
+  "name": "pokeRank",
   "version": "1.0.0",
-  "description": "Let's find and evaluate every possible pokemon on the planet",
+  "description": "",
   "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
+    "test": "jest",
     "build": "tsc",
-    "start": "npm run build && cd example && node --max-old-space-size=8192 app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "debug": "npm run build && cd app && node --inspect-brk=9229 app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/underscore": "^1.9.4",
-    "typescript": "^3.7.2"
+    "@types/jest": "^24.0.25",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.2.0",
+    "typescript": "^3.7.4"
   },
   "dependencies": {
-    "@types/node": "^12.12.14",
-    "javascript-lp-solver": "^0.4.24",
-    "simple-statistics": "^7.0.7",
-    "underscore": "^1.9.1"
+    "threads": "^1.0.0",
+    "tiny-worker": "^2.3.0"
   }
 }

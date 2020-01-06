@@ -1,0 +1,5204 @@
+{
+  "evs": [0, 0, 0, 0, 0, 0],
+  "wins": [
+    {
+      "opponent": "Bulbasaur",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Bulbasaur",
+        "defenderHp": 120,
+        "movePct": 1.37,
+        "name": "Icicle Crash",
+        "totalDmg": 164
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ivysaur",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Ivysaur",
+        "defenderHp": 135,
+        "movePct": 1.01,
+        "name": "Icicle Crash",
+        "totalDmg": 137
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Charmander",
+      "move": {
+        "category": "special move",
+        "defenderName": "Charmander",
+        "defenderHp": 114,
+        "movePct": 1.67,
+        "name": "Hydro Pump",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Caterpie",
+      "move": {
+        "category": "special move",
+        "defenderName": "Caterpie",
+        "defenderHp": 120,
+        "movePct": 1.37,
+        "name": "Hydro Pump",
+        "totalDmg": 164
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Metapod",
+      "move": {
+        "category": "special move",
+        "defenderName": "Metapod",
+        "defenderHp": 125,
+        "movePct": 1.17,
+        "name": "Hydro Pump",
+        "totalDmg": 146
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Butterfree",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Butterfree",
+        "defenderHp": 135,
+        "movePct": 1.19,
+        "name": "Icicle Crash",
+        "totalDmg": 161,
+        "evs": [133, 7, 85, 45, 88, 152]
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vulpix",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Vulpix",
+        "defenderHp": 113,
+        "movePct": 1.65,
+        "name": "Liquidation",
+        "totalDmg": 187
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Oddish",
+      "move": {
+        "category": "special move",
+        "defenderName": "Oddish",
+        "defenderHp": 120,
+        "movePct": 1.31,
+        "name": "Blizzard",
+        "totalDmg": 157
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gloom",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gloom",
+        "defenderHp": 135,
+        "movePct": 1.04,
+        "name": "Blizzard",
+        "totalDmg": 141
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Diglett",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Diglett",
+        "defenderHp": 85,
+        "movePct": 2.92,
+        "name": "Icicle Crash",
+        "totalDmg": 248
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dugtrio",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Dugtrio",
+        "defenderHp": 110,
+        "movePct": 1.46,
+        "name": "Icicle Crash",
+        "totalDmg": 161,
+        "evs": [59, 155, 39, 4, 120, 133]
+      },
+      "evs": [59, 155, 39, 4, 120, 133]
+    },
+    {
+      "opponent": "Meowth",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Meowth",
+        "defenderHp": 115,
+        "movePct": 1.03,
+        "name": "Icicle Crash",
+        "totalDmg": 118,
+        "evs": [251, 22, 23, 95, 117, 2]
+      },
+      "evs": [251, 22, 23, 95, 117, 2]
+    },
+    {
+      "opponent": "Growlithe",
+      "move": {
+        "category": "special move",
+        "defenderName": "Growlithe",
+        "defenderHp": 130,
+        "movePct": 1.46,
+        "name": "Hydro Pump",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Arcanine",
+      "move": {
+        "category": "special move",
+        "defenderName": "Arcanine",
+        "defenderHp": 165,
+        "movePct": 0.81,
+        "name": "Hydro Pump",
+        "totalDmg": 134
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Farfetch'd",
+      "move": {
+        "category": "special move",
+        "defenderName": "Farfetch'd",
+        "defenderHp": 127,
+        "movePct": 1.28,
+        "name": "Blizzard",
+        "totalDmg": 163,
+        "evs": [5, 96, 183, 38, 153, 35]
+      },
+      "evs": [5, 96, 183, 38, 153, 35]
+    },
+    {
+      "opponent": "Shellder",
+      "move": {
+        "category": "special move",
+        "defenderName": "Shellder",
+        "defenderHp": 105,
+        "movePct": 0.72,
+        "name": "Hydro Pump",
+        "totalDmg": 76
+      },
+      "evs": [5, 96, 183, 38, 153, 35]
+    },
+    {
+      "opponent": "Onix",
+      "move": {
+        "category": "special move",
+        "defenderName": "Onix",
+        "defenderHp": 110,
+        "movePct": 3.71,
+        "name": "Hydro Pump",
+        "totalDmg": 408,
+        "evs": [84, 48, 114, 203, 45, 16]
+      },
+      "evs": [84, 48, 114, 203, 45, 16]
+    },
+    {
+      "opponent": "Krabby",
+      "move": {
+        "category": "special move",
+        "defenderName": "Krabby",
+        "defenderHp": 105,
+        "movePct": 0.86,
+        "name": "Hydro Pump",
+        "totalDmg": 90
+      },
+      "evs": [84, 48, 114, 203, 45, 16]
+    },
+    {
+      "opponent": "Rhyhorn",
+      "move": {
+        "category": "special move",
+        "defenderName": "Rhyhorn",
+        "defenderHp": 155,
+        "movePct": 3.41,
+        "name": "Hydro Pump",
+        "totalDmg": 528,
+        "evs": [85, 109, 73, 3, 152, 88]
+      },
+      "evs": [85, 109, 73, 3, 152, 88]
+    },
+    {
+      "opponent": "Rhydon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Rhydon",
+        "defenderHp": 180,
+        "movePct": 2.27,
+        "name": "Hydro Pump",
+        "totalDmg": 408
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Magikarp",
+      "move": {
+        "category": "special move",
+        "defenderName": "Magikarp",
+        "defenderHp": 95,
+        "movePct": 0.86,
+        "name": "Hydro Pump",
+        "totalDmg": 82
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Eevee",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Eevee",
+        "defenderHp": 130,
+        "movePct": 0.62,
+        "name": "Icicle Crash",
+        "totalDmg": 80
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Jolteon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Jolteon",
+        "defenderHp": 140,
+        "movePct": 0.51,
+        "name": "Icicle Crash",
+        "totalDmg": 71
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Flareon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Flareon",
+        "defenderHp": 140,
+        "movePct": 1.01,
+        "name": "Liquidation",
+        "totalDmg": 142
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hoothoot",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Hoothoot",
+        "defenderHp": 135,
+        "movePct": 1.66,
+        "name": "Icicle Crash",
+        "totalDmg": 224,
+        "evs": [26, 45, 167, 17, 207, 48]
+      },
+      "evs": [26, 45, 167, 17, 207, 48]
+    },
+    {
+      "opponent": "Pichu",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Pichu",
+        "defenderHp": 95,
+        "movePct": 1.67,
+        "name": "Icicle Crash",
+        "totalDmg": 159
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cleffa",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cleffa",
+        "defenderHp": 125,
+        "movePct": 1.17,
+        "name": "Poison Jab",
+        "totalDmg": 146
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Togepi",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Togepi",
+        "defenderHp": 110,
+        "movePct": 0.76,
+        "name": "Poison Jab",
+        "totalDmg": 84
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sudowoodo",
+      "move": {
+        "category": "special move",
+        "defenderName": "Sudowoodo",
+        "defenderHp": 145,
+        "movePct": 1.08,
+        "name": "Hydro Pump",
+        "totalDmg": 157
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Wooper",
+      "move": {
+        "category": "special move",
+        "defenderName": "Wooper",
+        "defenderHp": 130,
+        "movePct": 1.12,
+        "name": "Hydro Pump",
+        "totalDmg": 146
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Espeon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Espeon",
+        "defenderHp": 140,
+        "movePct": 0.51,
+        "name": "Icicle Crash",
+        "totalDmg": 71
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Steelix",
+      "move": {
+        "category": "special move",
+        "defenderName": "Steelix",
+        "defenderHp": 150,
+        "movePct": 1.05,
+        "name": "Hydro Pump",
+        "totalDmg": 157,
+        "evs": [42, 103, 28, 6, 250, 81]
+      },
+      "evs": [42, 103, 28, 6, 250, 81]
+    },
+    {
+      "opponent": "Shuckle",
+      "move": {
+        "category": "special move",
+        "defenderName": "Shuckle",
+        "defenderHp": 95,
+        "movePct": 0.59,
+        "name": "Hydro Pump",
+        "totalDmg": 56
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sneasel",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Sneasel",
+        "defenderHp": 130,
+        "movePct": 0.64,
+        "name": "Smart Strike",
+        "totalDmg": 83
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Swinub",
+      "move": {
+        "category": "special move",
+        "defenderName": "Swinub",
+        "defenderHp": 125,
+        "movePct": 2.11,
+        "name": "Hydro Pump",
+        "totalDmg": 264
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Piloswine",
+      "move": {
+        "category": "special move",
+        "defenderName": "Piloswine",
+        "defenderHp": 175,
+        "movePct": 0.95,
+        "name": "Hydro Pump",
+        "totalDmg": 167,
+        "evs": [135, 1, 112, 83, 145, 34]
+      },
+      "evs": [135, 1, 112, 83, 145, 34]
+    },
+    {
+      "opponent": "Remoraid",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Remoraid",
+        "defenderHp": 110,
+        "movePct": 0.58,
+        "name": "Poison Jab",
+        "totalDmg": 64,
+        "evs": [183, 44, 97, 122, 55, 9]
+      },
+      "evs": [183, 44, 97, 122, 55, 9]
+    },
+    {
+      "opponent": "Delibird",
+      "move": {
+        "category": "special move",
+        "defenderName": "Delibird",
+        "defenderHp": 120,
+        "movePct": 0.85,
+        "name": "Hydro Pump",
+        "totalDmg": 102,
+        "evs": [225, 1, 19, 79, 160, 26]
+      },
+      "evs": [225, 1, 19, 79, 160, 26]
+    },
+    {
+      "opponent": "Tyrogue",
+      "move": {
+        "category": "special move",
+        "defenderName": "Tyrogue",
+        "defenderHp": 110,
+        "movePct": 1.09,
+        "name": "Hydro Pump",
+        "totalDmg": 120
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Larvitar",
+      "move": {
+        "category": "special move",
+        "defenderName": "Larvitar",
+        "defenderHp": 125,
+        "movePct": 3.04,
+        "name": "Hydro Pump",
+        "totalDmg": 380
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pupitar",
+      "move": {
+        "category": "special move",
+        "defenderName": "Pupitar",
+        "defenderHp": 145,
+        "movePct": 2.06,
+        "name": "Hydro Pump",
+        "totalDmg": 298
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lotad",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Lotad",
+        "defenderHp": 115,
+        "movePct": 1.23,
+        "name": "Poison Jab",
+        "totalDmg": 141
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Seedot",
+      "move": {
+        "category": "special move",
+        "defenderName": "Seedot",
+        "defenderHp": 115,
+        "movePct": 2.3,
+        "name": "Blizzard",
+        "totalDmg": 264
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Nuzleaf",
+      "move": {
+        "category": "special move",
+        "defenderName": "Nuzleaf",
+        "defenderHp": 145,
+        "movePct": 1.52,
+        "name": "Blizzard",
+        "totalDmg": 221
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ralts",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Ralts",
+        "defenderHp": 103,
+        "movePct": 1.51,
+        "name": "Poison Jab",
+        "totalDmg": 156
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Kirlia",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Kirlia",
+        "defenderHp": 113,
+        "movePct": 1.13,
+        "name": "Poison Jab",
+        "totalDmg": 128
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Nincada",
+      "move": {
+        "category": "special move",
+        "defenderName": "Nincada",
+        "defenderHp": 106,
+        "movePct": 2.49,
+        "name": "Hydro Pump",
+        "totalDmg": 264
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ninjask",
+      "move": {
+        "category": "special move",
+        "defenderName": "Ninjask",
+        "defenderHp": 136,
+        "movePct": 1.4,
+        "name": "Blizzard",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Shedinja",
+      "move": {
+        "category": "special move",
+        "defenderName": "Shedinja",
+        "defenderHp": 76,
+        "movePct": 1.74,
+        "name": "Hydro Pump",
+        "totalDmg": 132
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mawile",
+      "move": {
+        "category": "special move",
+        "defenderName": "Mawile",
+        "defenderHp": 125,
+        "movePct": 0.7,
+        "name": "Hydro Pump",
+        "totalDmg": 88,
+        "evs": [55, 174, 10, 152, 33, 86]
+      },
+      "evs": [55, 174, 10, 152, 33, 86]
+    },
+    {
+      "opponent": "Electrike",
+      "move": {
+        "category": "special move",
+        "defenderName": "Electrike",
+        "defenderHp": 115,
+        "movePct": 1.13,
+        "name": "Hydro Pump",
+        "totalDmg": 130
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Roselia",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Roselia",
+        "defenderHp": 125,
+        "movePct": 1.38,
+        "name": "Icicle Crash",
+        "totalDmg": 173
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Torkoal",
+      "move": {
+        "category": "special move",
+        "defenderName": "Torkoal",
+        "defenderHp": 145,
+        "movePct": 1.03,
+        "name": "Hydro Pump",
+        "totalDmg": 149
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Trapinch",
+      "move": {
+        "category": "special move",
+        "defenderName": "Trapinch",
+        "defenderHp": 120,
+        "movePct": 1.7,
+        "name": "Hydro Pump",
+        "totalDmg": 204,
+        "evs": [90, 68, 109, 83, 86, 74]
+      },
+      "evs": [90, 68, 109, 83, 86, 74]
+    },
+    {
+      "opponent": "Vibrava",
+      "move": {
+        "category": "special move",
+        "defenderName": "Vibrava",
+        "defenderHp": 125,
+        "movePct": 3.32,
+        "name": "Blizzard",
+        "totalDmg": 415
+      },
+      "evs": [90, 68, 109, 83, 86, 74]
+    },
+    {
+      "opponent": "Barboach",
+      "move": {
+        "category": "special move",
+        "defenderName": "Barboach",
+        "defenderHp": 125,
+        "movePct": 0.86,
+        "name": "Hydro Pump",
+        "totalDmg": 108,
+        "evs": [5, 221, 20, 69, 36, 159]
+      },
+      "evs": [5, 221, 20, 69, 36, 159]
+    },
+    {
+      "opponent": "Corphish",
+      "move": {
+        "category": "special move",
+        "defenderName": "Corphish",
+        "defenderHp": 118,
+        "movePct": 0.51,
+        "name": "Hydro Pump",
+        "totalDmg": 60
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Baltoy",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Baltoy",
+        "defenderHp": 115,
+        "movePct": 1.31,
+        "name": "Icicle Crash",
+        "totalDmg": 151
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Feebas",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Feebas",
+        "defenderHp": 95,
+        "movePct": 0.92,
+        "name": "Poison Jab",
+        "totalDmg": 87,
+        "evs": [19, 51, 76, 110, 163, 91]
+      },
+      "evs": [19, 51, 76, 110, 163, 91]
+    },
+    {
+      "opponent": "Duskull",
+      "move": {
+        "category": "special move",
+        "defenderName": "Duskull",
+        "defenderHp": 95,
+        "movePct": 0.64,
+        "name": "Hydro Pump",
+        "totalDmg": 61
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Snorunt",
+      "move": {
+        "category": "special move",
+        "defenderName": "Snorunt",
+        "defenderHp": 125,
+        "movePct": 0.94,
+        "name": "Hydro Pump",
+        "totalDmg": 118
+      },
+      "evs": [13, 43, 40, 218, 108, 88]
+    },
+    {
+      "opponent": "Glalie",
+      "move": {
+        "category": "special move",
+        "defenderName": "Glalie",
+        "defenderHp": 155,
+        "movePct": 0.54,
+        "name": "Hydro Pump",
+        "totalDmg": 84
+      },
+      "evs": [13, 43, 40, 218, 108, 88]
+    },
+    {
+      "opponent": "Budew",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Budew",
+        "defenderHp": 115,
+        "movePct": 1.77,
+        "name": "Icicle Crash",
+        "totalDmg": 204
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Combee",
+      "move": {
+        "category": "special move",
+        "defenderName": "Combee",
+        "defenderHp": 105,
+        "movePct": 2.04,
+        "name": "Blizzard",
+        "totalDmg": 214,
+        "evs": [88, 127, 68, 79, 52, 96]
+      },
+      "evs": [88, 127, 68, 79, 52, 96]
+    },
+    {
+      "opponent": "Cherubi",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cherubi",
+        "defenderHp": 120,
+        "movePct": 1.52,
+        "name": "Blizzard",
+        "totalDmg": 182
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drifloon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Drifloon",
+        "defenderHp": 165,
+        "movePct": 1.26,
+        "name": "Icicle Crash",
+        "totalDmg": 208,
+        "evs": [83, 138, 4, 109, 124, 52]
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Stunky",
+      "move": {
+        "category": "special move",
+        "defenderName": "Stunky",
+        "defenderHp": 138,
+        "movePct": 0.78,
+        "name": "Hydro Pump",
+        "totalDmg": 108,
+        "evs": [96, 16, 78, 69, 62, 189]
+      },
+      "evs": [96, 16, 78, 69, 62, 189]
+    },
+    {
+      "opponent": "Skuntank",
+      "move": {
+        "category": "special move",
+        "defenderName": "Skuntank",
+        "defenderHp": 178,
+        "movePct": 0.5,
+        "name": "Hydro Pump",
+        "totalDmg": 89
+      },
+      "evs": [96, 16, 78, 69, 62, 189]
+    },
+    {
+      "opponent": "Bronzor",
+      "move": {
+        "category": "special move",
+        "defenderName": "Bronzor",
+        "defenderHp": 132,
+        "movePct": 0.52,
+        "name": "Hydro Pump",
+        "totalDmg": 68
+      },
+      "evs": [96, 16, 78, 69, 62, 189]
+    },
+    {
+      "opponent": "Bonsly",
+      "move": {
+        "category": "special move",
+        "defenderName": "Bonsly",
+        "defenderHp": 125,
+        "movePct": 1.63,
+        "name": "Hydro Pump",
+        "totalDmg": 204
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mime Jr.",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Mime Jr.",
+        "defenderHp": 95,
+        "movePct": 1.15,
+        "name": "Poison Jab",
+        "totalDmg": 109
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hippopotas",
+      "move": {
+        "category": "special move",
+        "defenderName": "Hippopotas",
+        "defenderHp": 143,
+        "movePct": 1.5,
+        "name": "Hydro Pump",
+        "totalDmg": 214
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Skorupi",
+      "move": {
+        "category": "special move",
+        "defenderName": "Skorupi",
+        "defenderHp": 115,
+        "movePct": 0.77,
+        "name": "Hydro Pump",
+        "totalDmg": 88
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drapion",
+      "move": {
+        "category": "special move",
+        "defenderName": "Drapion",
+        "defenderHp": 145,
+        "movePct": 0.48,
+        "name": "Hydro Pump",
+        "totalDmg": 70,
+        "evs": [144, 107, 3, 75, 134, 47]
+      },
+      "evs": [144, 107, 3, 75, 134, 47]
+    },
+    {
+      "opponent": "Mantyke",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Mantyke",
+        "defenderHp": 120,
+        "movePct": 0.67,
+        "name": "Icicle Crash",
+        "totalDmg": 80,
+        "evs": [25, 85, 121, 172, 101, 6]
+      },
+      "evs": [25, 85, 121, 172, 101, 6]
+    },
+    {
+      "opponent": "Rhyperior",
+      "move": {
+        "category": "special move",
+        "defenderName": "Rhyperior",
+        "defenderHp": 190,
+        "movePct": 1.87,
+        "name": "Hydro Pump",
+        "totalDmg": 355
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Leafeon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Leafeon",
+        "defenderHp": 140,
+        "movePct": 1.12,
+        "name": "Blizzard",
+        "totalDmg": 157
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Purrloin",
+      "move": {
+        "category": "special move",
+        "defenderName": "Purrloin",
+        "defenderHp": 116,
+        "movePct": 1,
+        "name": "Hydro Pump",
+        "totalDmg": 116
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pidove",
+      "move": {
+        "category": "special move",
+        "defenderName": "Pidove",
+        "defenderHp": 125,
+        "movePct": 2.11,
+        "name": "Blizzard",
+        "totalDmg": 264
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Tranquill",
+      "move": {
+        "category": "special move",
+        "defenderName": "Tranquill",
+        "defenderHp": 137,
+        "movePct": 1.56,
+        "name": "Blizzard",
+        "totalDmg": 214
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Roggenrola",
+      "move": {
+        "category": "special move",
+        "defenderName": "Roggenrola",
+        "defenderHp": 130,
+        "movePct": 2.25,
+        "name": "Hydro Pump",
+        "totalDmg": 293
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Boldore",
+      "move": {
+        "category": "special move",
+        "defenderName": "Boldore",
+        "defenderHp": 145,
+        "movePct": 1.52,
+        "name": "Hydro Pump",
+        "totalDmg": 221
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Woobat",
+      "move": {
+        "category": "special move",
+        "defenderName": "Woobat",
+        "defenderHp": 140,
+        "movePct": 1.5,
+        "name": "Blizzard",
+        "totalDmg": 210,
+        "evs": [5, 78, 168, 19, 19, 221]
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drilbur",
+      "move": {
+        "category": "special move",
+        "defenderName": "Drilbur",
+        "defenderHp": 135,
+        "movePct": 1.51,
+        "name": "Hydro Pump",
+        "totalDmg": 204
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Timburr",
+      "move": {
+        "category": "special move",
+        "defenderName": "Timburr",
+        "defenderHp": 150,
+        "movePct": 0.8,
+        "name": "Hydro Pump",
+        "totalDmg": 120
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gurdurr",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gurdurr",
+        "defenderHp": 160,
+        "movePct": 0.59,
+        "name": "Hydro Pump",
+        "totalDmg": 95
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Conkeldurr",
+      "move": {
+        "category": "special move",
+        "defenderName": "Conkeldurr",
+        "defenderHp": 180,
+        "movePct": 0.43,
+        "name": "Hydro Pump",
+        "totalDmg": 78,
+        "evs": [12, 39, 75, 178, 157, 49]
+      },
+      "evs": [12, 39, 75, 178, 157, 49]
+    },
+    {
+      "opponent": "Tympole",
+      "move": {
+        "category": "special move",
+        "defenderName": "Tympole",
+        "defenderHp": 125,
+        "movePct": 0.53,
+        "name": "Hydro Pump",
+        "totalDmg": 66
+      },
+      "evs": [12, 39, 75, 178, 157, 49]
+    },
+    {
+      "opponent": "Palpitoad",
+      "move": {
+        "category": "special move",
+        "defenderName": "Palpitoad",
+        "defenderHp": 150,
+        "movePct": 0.71,
+        "name": "Hydro Pump",
+        "totalDmg": 107
+      },
+      "evs": [12, 39, 75, 178, 157, 49]
+    },
+    {
+      "opponent": "Cottonee",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cottonee",
+        "defenderHp": 115,
+        "movePct": 1.65,
+        "name": "Blizzard",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Darumaka",
+      "move": {
+        "category": "special move",
+        "defenderName": "Darumaka",
+        "defenderHp": 145,
+        "movePct": 1.41,
+        "name": "Hydro Pump",
+        "totalDmg": 204
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Maractus",
+      "move": {
+        "category": "special move",
+        "defenderName": "Maractus",
+        "defenderHp": 150,
+        "movePct": 1.03,
+        "name": "Blizzard",
+        "totalDmg": 154
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dwebble",
+      "move": {
+        "category": "special move",
+        "defenderName": "Dwebble",
+        "defenderHp": 125,
+        "movePct": 1.92,
+        "name": "Hydro Pump",
+        "totalDmg": 240,
+        "evs": [165, 58, 214, 47, 8, 18]
+      },
+      "evs": [165, 58, 214, 47, 8, 18]
+    },
+    {
+      "opponent": "Crustle",
+      "move": {
+        "category": "special move",
+        "defenderName": "Crustle",
+        "defenderHp": 145,
+        "movePct": 1.03,
+        "name": "Hydro Pump",
+        "totalDmg": 149
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Scraggy",
+      "move": {
+        "category": "special move",
+        "defenderName": "Scraggy",
+        "defenderHp": 125,
+        "movePct": 0.59,
+        "name": "Hydro Pump",
+        "totalDmg": 74
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Trubbish",
+      "move": {
+        "category": "special move",
+        "defenderName": "Trubbish",
+        "defenderHp": 125,
+        "movePct": 0.65,
+        "name": "Hydro Pump",
+        "totalDmg": 81,
+        "evs": [50, 70, 3, 100, 190, 97]
+      },
+      "evs": [50, 70, 3, 100, 190, 97]
+    },
+    {
+      "opponent": "Minccino",
+      "move": {
+        "category": "special move",
+        "defenderName": "Minccino",
+        "defenderHp": 130,
+        "movePct": 0.85,
+        "name": "Hydro Pump",
+        "totalDmg": 110,
+        "evs": [8, 95, 88, 33, 193, 93]
+      },
+      "evs": [8, 95, 88, 33, 193, 93]
+    },
+    {
+      "opponent": "Vanillite",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Vanillite",
+        "defenderHp": 111,
+        "movePct": 0.8,
+        "name": "Smart Strike",
+        "totalDmg": 89
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Karrablast",
+      "move": {
+        "category": "special move",
+        "defenderName": "Karrablast",
+        "defenderHp": 125,
+        "movePct": 0.82,
+        "name": "Hydro Pump",
+        "totalDmg": 102,
+        "evs": [65, 90, 32, 79, 110, 134]
+      },
+      "evs": [65, 90, 32, 79, 110, 134]
+    },
+    {
+      "opponent": "Litwick",
+      "move": {
+        "category": "special move",
+        "defenderName": "Litwick",
+        "defenderHp": 125,
+        "movePct": 1.42,
+        "name": "Hydro Pump",
+        "totalDmg": 177
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lampent",
+      "move": {
+        "category": "special move",
+        "defenderName": "Lampent",
+        "defenderHp": 135,
+        "movePct": 1.24,
+        "name": "Hydro Pump",
+        "totalDmg": 167
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Axew",
+      "move": {
+        "category": "special move",
+        "defenderName": "Axew",
+        "defenderHp": 121,
+        "movePct": 1.83,
+        "name": "Blizzard",
+        "totalDmg": 221
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Fraxure",
+      "move": {
+        "category": "special move",
+        "defenderName": "Fraxure",
+        "defenderHp": 141,
+        "movePct": 1.35,
+        "name": "Blizzard",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cubchoo",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cubchoo",
+        "defenderHp": 130,
+        "movePct": 0.85,
+        "name": "Hydro Pump",
+        "totalDmg": 110,
+        "evs": [96, 135, 203, 28, 11, 37]
+      },
+      "evs": [96, 135, 203, 28, 11, 37]
+    },
+    {
+      "opponent": "Golett",
+      "move": {
+        "category": "special move",
+        "defenderName": "Golett",
+        "defenderHp": 134,
+        "movePct": 1.42,
+        "name": "Hydro Pump",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pawniard",
+      "move": {
+        "category": "special move",
+        "defenderName": "Pawniard",
+        "defenderHp": 120,
+        "movePct": 0.92,
+        "name": "Hydro Pump",
+        "totalDmg": 110
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rufflet",
+      "move": {
+        "category": "special move",
+        "defenderName": "Rufflet",
+        "defenderHp": 145,
+        "movePct": 1.31,
+        "name": "Blizzard",
+        "totalDmg": 190,
+        "evs": [95, 40, 17, 55, 159, 144]
+      },
+      "evs": [95, 40, 17, 55, 159, 144]
+    },
+    {
+      "opponent": "Vullaby",
+      "move": {
+        "category": "special move",
+        "defenderName": "Vullaby",
+        "defenderHp": 145,
+        "movePct": 1.08,
+        "name": "Blizzard",
+        "totalDmg": 157
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Durant",
+      "move": {
+        "category": "special move",
+        "defenderName": "Durant",
+        "defenderHp": 133,
+        "movePct": 0.73,
+        "name": "Hydro Pump",
+        "totalDmg": 97,
+        "evs": [150, 161, 22, 19, 139, 19]
+      },
+      "evs": [150, 161, 22, 19, 139, 19]
+    },
+    {
+      "opponent": "Deino",
+      "move": {
+        "category": "special move",
+        "defenderName": "Deino",
+        "defenderHp": 127,
+        "movePct": 1.52,
+        "name": "Blizzard",
+        "totalDmg": 193
+      },
+      "evs": [150, 161, 22, 19, 139, 19]
+    },
+    {
+      "opponent": "Zweilous",
+      "move": {
+        "category": "special move",
+        "defenderName": "Zweilous",
+        "defenderHp": 147,
+        "movePct": 1.03,
+        "name": "Blizzard",
+        "totalDmg": 151,
+        "evs": [250, 76, 50, 116, 1, 17]
+      },
+      "evs": [250, 76, 50, 116, 1, 17]
+    },
+    {
+      "opponent": "Bunnelby",
+      "move": {
+        "category": "special move",
+        "defenderName": "Bunnelby",
+        "defenderHp": 113,
+        "movePct": 1.04,
+        "name": "Hydro Pump",
+        "totalDmg": 118
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Diggersby",
+      "move": {
+        "category": "special move",
+        "defenderName": "Diggersby",
+        "defenderHp": 160,
+        "movePct": 0.86,
+        "name": "Hydro Pump",
+        "totalDmg": 138,
+        "evs": [147, 40, 21, 89, 70, 143]
+      },
+      "evs": [147, 40, 21, 89, 70, 143]
+    },
+    {
+      "opponent": "Honedge",
+      "move": {
+        "category": "special move",
+        "defenderName": "Honedge",
+        "defenderHp": 120,
+        "movePct": 0.97,
+        "name": "Hydro Pump",
+        "totalDmg": 116
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Doublade",
+      "move": {
+        "category": "special move",
+        "defenderName": "Doublade",
+        "defenderHp": 134,
+        "movePct": 0.72,
+        "name": "Hydro Pump",
+        "totalDmg": 96,
+        "evs": [140, 75, 138, 11, 69, 77]
+      },
+      "evs": [140, 75, 138, 11, 69, 77]
+    },
+    {
+      "opponent": "Inkay",
+      "move": {
+        "category": "special move",
+        "defenderName": "Inkay",
+        "defenderHp": 128,
+        "movePct": 0.78,
+        "name": "Hydro Pump",
+        "totalDmg": 100,
+        "evs": [21, 177, 68, 74, 124, 46]
+      },
+      "evs": [21, 177, 68, 74, 124, 46]
+    },
+    {
+      "opponent": "Binacle",
+      "move": {
+        "category": "special move",
+        "defenderName": "Binacle",
+        "defenderHp": 117,
+        "movePct": 0.74,
+        "name": "Hydro Pump",
+        "totalDmg": 87
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sylveon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Sylveon",
+        "defenderHp": 170,
+        "movePct": 0.49,
+        "name": "Poison Jab",
+        "totalDmg": 84,
+        "evs": [36, 181, 19, 158, 58, 58]
+      },
+      "evs": [36, 181, 19, 158, 58, 58]
+    },
+    {
+      "opponent": "Goomy",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Goomy",
+        "defenderHp": 120,
+        "movePct": 1.7,
+        "name": "Icicle Crash",
+        "totalDmg": 204
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sliggoo",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Sliggoo",
+        "defenderHp": 143,
+        "movePct": 1.08,
+        "name": "Icicle Crash",
+        "totalDmg": 155
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Phantump",
+      "move": {
+        "category": "special move",
+        "defenderName": "Phantump",
+        "defenderHp": 118,
+        "movePct": 1.42,
+        "name": "Blizzard",
+        "totalDmg": 167
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pumpkaboo",
+      "move": {
+        "category": "special move",
+        "defenderName": "Pumpkaboo",
+        "defenderHp": 124,
+        "movePct": 1.43,
+        "name": "Blizzard",
+        "totalDmg": 177
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Bergmite",
+      "move": {
+        "category": "special move",
+        "defenderName": "Bergmite",
+        "defenderHp": 130,
+        "movePct": 0.92,
+        "name": "Hydro Pump",
+        "totalDmg": 120
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Noibat",
+      "move": {
+        "category": "special move",
+        "defenderName": "Noibat",
+        "defenderHp": 115,
+        "movePct": 3.84,
+        "name": "Blizzard",
+        "totalDmg": 442,
+        "evs": [134, 34, 7, 150, 41, 144]
+      },
+      "evs": [134, 34, 7, 150, 41, 144]
+    },
+    {
+      "opponent": "Rowlet",
+      "move": {
+        "category": "special move",
+        "defenderName": "Rowlet",
+        "defenderHp": 143,
+        "movePct": 2.66,
+        "name": "Blizzard",
+        "totalDmg": 380
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dartrix",
+      "move": {
+        "category": "special move",
+        "defenderName": "Dartrix",
+        "defenderHp": 153,
+        "movePct": 1.95,
+        "name": "Blizzard",
+        "totalDmg": 298
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Litten",
+      "move": {
+        "category": "special move",
+        "defenderName": "Litten",
+        "defenderHp": 120,
+        "movePct": 1.84,
+        "name": "Hydro Pump",
+        "totalDmg": 221,
+        "evs": [11, 10, 19, 110, 178, 182]
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Torracat",
+      "move": {
+        "category": "special move",
+        "defenderName": "Torracat",
+        "defenderHp": 140,
+        "movePct": 1.36,
+        "name": "Hydro Pump",
+        "totalDmg": 190,
+        "evs": [31, 23, 210, 28, 13, 205]
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cutiefly",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cutiefly",
+        "defenderHp": 115,
+        "movePct": 1.03,
+        "name": "Poison Jab",
+        "totalDmg": 118,
+        "evs": [168, 31, 9, 15, 130, 157]
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Wishiwashi",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Wishiwashi",
+        "defenderHp": 120,
+        "movePct": 0.72,
+        "name": "Poison Jab",
+        "totalDmg": 87
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mareanie",
+      "move": {
+        "category": "special move",
+        "defenderName": "Mareanie",
+        "defenderHp": 125,
+        "movePct": 0.5,
+        "name": "Mud Shot",
+        "totalDmg": 63,
+        "evs": [74, 66, 48, 27, 236, 59]
+      },
+      "evs": [74, 66, 48, 27, 236, 59]
+    },
+    {
+      "opponent": "Mudbray",
+      "move": {
+        "category": "special move",
+        "defenderName": "Mudbray",
+        "defenderHp": 145,
+        "movePct": 1.22,
+        "name": "Hydro Pump",
+        "totalDmg": 177
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Morelull",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Morelull",
+        "defenderHp": 115,
+        "movePct": 1.65,
+        "name": "Poison Jab",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Shiinotic",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Shiinotic",
+        "defenderHp": 135,
+        "movePct": 1.07,
+        "name": "Poison Jab",
+        "totalDmg": 144
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Bounsweet",
+      "move": {
+        "category": "special move",
+        "defenderName": "Bounsweet",
+        "defenderHp": 117,
+        "movePct": 1.95,
+        "name": "Blizzard",
+        "totalDmg": 228
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Steenee",
+      "move": {
+        "category": "special move",
+        "defenderName": "Steenee",
+        "defenderHp": 127,
+        "movePct": 1.54,
+        "name": "Blizzard",
+        "totalDmg": 195
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Wimpod",
+      "move": {
+        "category": "special move",
+        "defenderName": "Wimpod",
+        "defenderHp": 100,
+        "movePct": 0.66,
+        "name": "Hydro Pump",
+        "totalDmg": 66
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Jangmo-o",
+      "move": {
+        "category": "special move",
+        "defenderName": "Jangmo-o",
+        "defenderHp": 120,
+        "movePct": 1.7,
+        "name": "Blizzard",
+        "totalDmg": 204
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hakamo-o",
+      "move": {
+        "category": "special move",
+        "defenderName": "Hakamo-o",
+        "defenderHp": 130,
+        "movePct": 1.15,
+        "name": "Blizzard",
+        "totalDmg": 149
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Grookey",
+      "move": {
+        "category": "special move",
+        "defenderName": "Grookey",
+        "defenderHp": 125,
+        "movePct": 1.77,
+        "name": "Blizzard",
+        "totalDmg": 221
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Thwackey",
+      "move": {
+        "category": "special move",
+        "defenderName": "Thwackey",
+        "defenderHp": 145,
+        "movePct": 1.15,
+        "name": "Blizzard",
+        "totalDmg": 167,
+        "evs": [81, 5, 7, 135, 184, 98]
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Scorbunny",
+      "move": {
+        "category": "special move",
+        "defenderName": "Scorbunny",
+        "defenderHp": 125,
+        "movePct": 1.77,
+        "name": "Hydro Pump",
+        "totalDmg": 221
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sobble",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Sobble",
+        "defenderHp": 125,
+        "movePct": 0.47,
+        "name": "Poison Jab",
+        "totalDmg": 59,
+        "evs": [48, 129, 220, 15, 40, 58]
+      },
+      "evs": [48, 129, 220, 15, 40, 58]
+    },
+    {
+      "opponent": "Skwovet",
+      "move": {
+        "category": "special move",
+        "defenderName": "Skwovet",
+        "defenderHp": 145,
+        "movePct": 0.83,
+        "name": "Hydro Pump",
+        "totalDmg": 120
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rookidee",
+      "move": {
+        "category": "special move",
+        "defenderName": "Rookidee",
+        "defenderHp": 113,
+        "movePct": 2.73,
+        "name": "Blizzard",
+        "totalDmg": 308
+      },
+      "evs": [94, 72, 17, 242, 41, 44]
+    },
+    {
+      "opponent": "Corvisquire",
+      "move": {
+        "category": "special move",
+        "defenderName": "Corvisquire",
+        "defenderHp": 143,
+        "movePct": 1.59,
+        "name": "Blizzard",
+        "totalDmg": 227
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Blipbug",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Blipbug",
+        "defenderHp": 100,
+        "movePct": 1.39,
+        "name": "Icicle Crash",
+        "totalDmg": 139
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dottler",
+      "move": {
+        "category": "special move",
+        "defenderName": "Dottler",
+        "defenderHp": 125,
+        "movePct": 0.49,
+        "name": "Hydro Pump",
+        "totalDmg": 61,
+        "evs": [174, 41, 52, 50, 191, 2]
+      },
+      "evs": [174, 41, 52, 50, 191, 2]
+    },
+    {
+      "opponent": "Nickit",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Nickit",
+        "defenderHp": 115,
+        "movePct": 1.01,
+        "name": "Icicle Crash",
+        "totalDmg": 116
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gossifleur",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gossifleur",
+        "defenderHp": 115,
+        "movePct": 1.45,
+        "name": "Blizzard",
+        "totalDmg": 167
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Wooloo",
+      "move": {
+        "category": "special move",
+        "defenderName": "Wooloo",
+        "defenderHp": 117,
+        "movePct": 0.87,
+        "name": "Hydro Pump",
+        "totalDmg": 102
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rolycoly",
+      "move": {
+        "category": "special move",
+        "defenderName": "Rolycoly",
+        "defenderHp": 105,
+        "movePct": 1.81,
+        "name": "Hydro Pump",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Carkol",
+      "move": {
+        "category": "special move",
+        "defenderName": "Carkol",
+        "defenderHp": 155,
+        "movePct": 1.92,
+        "name": "Hydro Pump",
+        "totalDmg": 298
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Coalossal",
+      "move": {
+        "category": "special move",
+        "defenderName": "Coalossal",
+        "defenderHp": 185,
+        "movePct": 1.32,
+        "name": "Hydro Pump",
+        "totalDmg": 245
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Applin",
+      "move": {
+        "category": "special move",
+        "defenderName": "Applin",
+        "defenderHp": 115,
+        "movePct": 3.84,
+        "name": "Blizzard",
+        "totalDmg": 442
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Flapple",
+      "move": {
+        "category": "special move",
+        "defenderName": "Flapple",
+        "defenderHp": 145,
+        "movePct": 2.3,
+        "name": "Blizzard",
+        "totalDmg": 334,
+        "evs": [104, 54, 20, 134, 84, 114]
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Appletun",
+      "move": {
+        "category": "special move",
+        "defenderName": "Appletun",
+        "defenderHp": 185,
+        "movePct": 1.45,
+        "name": "Blizzard",
+        "totalDmg": 269
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Silicobra",
+      "move": {
+        "category": "special move",
+        "defenderName": "Silicobra",
+        "defenderHp": 127,
+        "movePct": 1.5,
+        "name": "Hydro Pump",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sandaconda",
+      "move": {
+        "category": "special move",
+        "defenderName": "Sandaconda",
+        "defenderHp": 147,
+        "movePct": 1.01,
+        "name": "Hydro Pump",
+        "totalDmg": 149,
+        "evs": [29, 2, 169, 76, 143, 91]
+      },
+      "evs": [29, 2, 169, 76, 143, 91]
+    },
+    {
+      "opponent": "Arrokuda",
+      "move": {
+        "category": "special move",
+        "defenderName": "Arrokuda",
+        "defenderHp": 116,
+        "movePct": 0.57,
+        "name": "Hydro Pump",
+        "totalDmg": 66
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Toxel",
+      "move": {
+        "category": "special move",
+        "defenderName": "Toxel",
+        "defenderHp": 115,
+        "movePct": 1.42,
+        "name": "Mud Shot",
+        "totalDmg": 163
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sizzlipede",
+      "move": {
+        "category": "special move",
+        "defenderName": "Sizzlipede",
+        "defenderHp": 125,
+        "movePct": 1.52,
+        "name": "Hydro Pump",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hatenna",
+      "move": {
+        "category": "special move",
+        "defenderName": "Hatenna",
+        "defenderHp": 117,
+        "movePct": 0.78,
+        "name": "Hydro Pump",
+        "totalDmg": 91,
+        "evs": [66, 173, 26, 94, 146, 5]
+      },
+      "evs": [66, 173, 26, 94, 146, 5]
+    },
+    {
+      "opponent": "Impidimp",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Impidimp",
+        "defenderHp": 120,
+        "movePct": 1.18,
+        "name": "Poison Jab",
+        "totalDmg": 141,
+        "evs": [150, 61, 27, 94, 151, 27]
+      },
+      "evs": [150, 61, 27, 94, 151, 27]
+    },
+    {
+      "opponent": "Morgrem",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Morgrem",
+        "defenderHp": 140,
+        "movePct": 0.83,
+        "name": "Poison Jab",
+        "totalDmg": 116
+      },
+      "evs": [150, 61, 27, 94, 151, 27]
+    },
+    {
+      "opponent": "Runerigus",
+      "move": {
+        "category": "special move",
+        "defenderName": "Runerigus",
+        "defenderHp": 133,
+        "movePct": 0.81,
+        "name": "Hydro Pump",
+        "totalDmg": 108,
+        "evs": [246, 5, 64, 52, 132, 11]
+      },
+      "evs": [246, 5, 64, 52, 132, 11]
+    },
+    {
+      "opponent": "Milcery",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Milcery",
+        "defenderHp": 120,
+        "movePct": 0.99,
+        "name": "Poison Jab",
+        "totalDmg": 119
+      },
+      "evs": [246, 5, 64, 52, 132, 11]
+    },
+    {
+      "opponent": "Snom",
+      "move": {
+        "category": "special move",
+        "defenderName": "Snom",
+        "defenderHp": 105,
+        "movePct": 1.26,
+        "name": "Hydro Pump",
+        "totalDmg": 132,
+        "evs": [17, 54, 45, 73, 164, 157]
+      },
+      "evs": [17, 54, 45, 73, 164, 157]
+    },
+    {
+      "opponent": "Stonjourner",
+      "move": {
+        "category": "special move",
+        "defenderName": "Stonjourner",
+        "defenderHp": 175,
+        "movePct": 1.88,
+        "name": "Hydro Pump",
+        "totalDmg": 329,
+        "evs": [183, 12, 66, 121, 10, 118]
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dreepy",
+      "move": {
+        "category": "special move",
+        "defenderName": "Dreepy",
+        "defenderHp": 103,
+        "movePct": 2.56,
+        "name": "Blizzard",
+        "totalDmg": 264
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    }
+  ],
+  "losses": [
+    {
+      "opponent": "Venusaur",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.58,
+        "name": "Leaf Storm",
+        "totalDmg": 322
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Blastoise",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.39,
+        "name": "Focus Blast",
+        "totalDmg": 174
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Charizard",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.7,
+        "name": "Focus Blast",
+        "totalDmg": 213
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Charmeleon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.08,
+        "name": "Overheat",
+        "totalDmg": 135
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Squirtle",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.63,
+        "name": "Aura Sphere",
+        "totalDmg": 79
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Wartortle",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.77,
+        "name": "Aura Sphere",
+        "totalDmg": 96
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pikachu",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.3,
+        "name": "Thunder",
+        "totalDmg": 162
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Raichu",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.01,
+        "name": "Thunder",
+        "totalDmg": 251
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Clefairy",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.98,
+        "name": "Thunder",
+        "totalDmg": 123
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Clefable",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.52,
+        "name": "Focus Blast",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ninetales",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.09,
+        "name": "Overheat",
+        "totalDmg": 136
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vileplume",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.58,
+        "name": "Petal Dance",
+        "totalDmg": 322
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Persian",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 156,
+        "movePct": 0.68,
+        "name": "Thunder",
+        "totalDmg": 106
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Machop",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.12,
+        "name": "Focus Blast",
+        "totalDmg": 140
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Machoke",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.41,
+        "name": "Focus Blast",
+        "totalDmg": 176
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Machamp",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.7,
+        "name": "Focus Blast",
+        "totalDmg": 213
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ponyta",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.92,
+        "name": "Overheat",
+        "totalDmg": 115
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rapidash",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.08,
+        "name": "Overheat",
+        "totalDmg": 135
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cloyster",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 126,
+        "movePct": 0.37,
+        "name": "Hydro Pump",
+        "totalDmg": 46
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gastly",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.2,
+        "name": "Thunderbolt",
+        "totalDmg": 150
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Haunter",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.34,
+        "name": "Thunderbolt",
+        "totalDmg": 168
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gengar",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.98,
+        "name": "Focus Blast",
+        "totalDmg": 247
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Kingler",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 136,
+        "movePct": 0.57,
+        "name": "Superpower",
+        "totalDmg": 78
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hitmonlee",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.12,
+        "name": "Focus Blast",
+        "totalDmg": 140
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hitmonchan",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.12,
+        "name": "Focus Blast",
+        "totalDmg": 140
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Koffing",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.98,
+        "name": "Thunder",
+        "totalDmg": 123
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Weezing",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.28,
+        "name": "Thunder",
+        "totalDmg": 160
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Goldeen",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.26,
+        "name": "Hydro Pump",
+        "totalDmg": 32
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Seaking",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.38,
+        "name": "Hydro Pump",
+        "totalDmg": 48
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mr. Mime",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.58,
+        "name": "Focus Blast",
+        "totalDmg": 198
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gyarados",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.98,
+        "name": "Thunder",
+        "totalDmg": 123
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lapras",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.71,
+        "name": "Ancient Power",
+        "totalDmg": 89
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vaporeon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.12,
+        "name": "Double Kick",
+        "totalDmg": 15
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Snorlax",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mewtwo",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.29,
+        "name": "Focus Blast",
+        "totalDmg": 286
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mew",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.06,
+        "name": "Aura Sphere",
+        "totalDmg": 133
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Noctowl",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 128,
+        "movePct": 0.68,
+        "name": "Hurricane",
+        "totalDmg": 87
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Chinchou",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.4,
+        "name": "Thunder",
+        "totalDmg": 175
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lanturn",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.76,
+        "name": "Thunder",
+        "totalDmg": 220
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Togetic",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.68,
+        "name": "Ancient Power",
+        "totalDmg": 85
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Natu",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.9,
+        "name": "Future Sight",
+        "totalDmg": 112
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Xatu",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.14,
+        "name": "Future Sight",
+        "totalDmg": 143
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Bellossom",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.37,
+        "name": "Leaf Storm",
+        "totalDmg": 296
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Quagsire",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.14,
+        "name": "Focus Blast",
+        "totalDmg": 142
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Umbreon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.12,
+        "name": "Double Kick",
+        "totalDmg": 15
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Qwilfish",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 130,
+        "movePct": 0.39,
+        "name": "Sludge Wave",
+        "totalDmg": 51
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Corsola",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 142,
+        "movePct": 0.8,
+        "name": "Power Gem",
+        "totalDmg": 114
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Octillery",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 148,
+        "movePct": 0.95,
+        "name": "Energy Ball",
+        "totalDmg": 141
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mantine",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 153,
+        "movePct": 0.58,
+        "name": "Hurricane",
+        "totalDmg": 88
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hitmontop",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.12,
+        "name": "Focus Blast",
+        "totalDmg": 140
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Tyranitar",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.52,
+        "name": "Focus Blast",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Celebi",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.58,
+        "name": "Leaf Storm",
+        "totalDmg": 322
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Zigzagoon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.62,
+        "name": "Thunder",
+        "totalDmg": 78
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Linoone",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.86,
+        "name": "Thunder",
+        "totalDmg": 108
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lombre",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.22,
+        "name": "Energy Ball",
+        "totalDmg": 152
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ludicolo",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.37,
+        "name": "Leaf Storm",
+        "totalDmg": 296
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Shiftry",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.37,
+        "name": "Leaf Storm",
+        "totalDmg": 296
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Wingull",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.69,
+        "name": "Hurricane",
+        "totalDmg": 86
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pelipper",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.05,
+        "name": "Hurricane",
+        "totalDmg": 131
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gardevoir",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.91,
+        "name": "Focus Blast",
+        "totalDmg": 239
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sableye",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.77,
+        "name": "Power Gem",
+        "totalDmg": 96
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Manectric",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.28,
+        "name": "Thunder",
+        "totalDmg": 285
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Wailmer",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Wailord",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Flygon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 136,
+        "movePct": 0.66,
+        "name": "Giga Drain",
+        "totalDmg": 90
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lunatone",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.54,
+        "name": "Power Gem",
+        "totalDmg": 192
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Solrock",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.65,
+        "name": "Stone Edge",
+        "totalDmg": 81
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Whiscash",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 126,
+        "movePct": 0.67,
+        "name": "Earth Power",
+        "totalDmg": 84
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Crawdaunt",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.74,
+        "name": "Ancient Power",
+        "totalDmg": 93
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Claydol",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Mud-Slap",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Milotic",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 127,
+        "movePct": 0.43,
+        "name": "Dragon Pulse",
+        "totalDmg": 54
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dusclops",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.54,
+        "name": "Shadow Ball",
+        "totalDmg": 67
+      },
+      "evs": [13, 43, 40, 218, 108, 88]
+    },
+    {
+      "opponent": "Jirachi",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 127,
+        "movePct": 1.19,
+        "name": "Thunder",
+        "totalDmg": 151
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Roserade",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 3.1,
+        "name": "Leaf Storm",
+        "totalDmg": 388
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vespiquen",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 136,
+        "movePct": 0.74,
+        "name": "Power Gem",
+        "totalDmg": 101
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cherrim",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.13,
+        "name": "Petal Dance",
+        "totalDmg": 266
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Shellos",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.53,
+        "name": "Ancient Power",
+        "totalDmg": 66
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gastrodon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.84,
+        "name": "Earth Power",
+        "totalDmg": 105
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drifblim",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.34,
+        "name": "Thunder",
+        "totalDmg": 167
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Bronzong",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 137,
+        "movePct": 0.8,
+        "name": "Future Sight",
+        "totalDmg": 110
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Munchlax",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Riolu",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.12,
+        "name": "Focus Blast",
+        "totalDmg": 140
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lucario",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.67,
+        "name": "Focus Blast",
+        "totalDmg": 334
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hippowdon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.66,
+        "name": "Earth Power",
+        "totalDmg": 83
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Croagunk",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 143,
+        "movePct": 1.13,
+        "name": "Focus Blast",
+        "totalDmg": 162
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Toxicroak",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.11,
+        "name": "Focus Blast",
+        "totalDmg": 264
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Snover",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 128,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Abomasnow",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Weavile",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.87,
+        "name": "Focus Blast",
+        "totalDmg": 109
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Togekiss",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.24,
+        "name": "Aura Sphere",
+        "totalDmg": 155
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Glaceon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.11,
+        "name": "Double Kick",
+        "totalDmg": 14
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mamoswine",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.66,
+        "name": "Superpower",
+        "totalDmg": 83
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gallade",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.7,
+        "name": "Focus Blast",
+        "totalDmg": 213
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dusknoir",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.14,
+        "name": "Focus Blast",
+        "totalDmg": 142
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Froslass",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.22,
+        "name": "Thunder",
+        "totalDmg": 152
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rotom",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.4,
+        "name": "Thunder",
+        "totalDmg": 175
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Liepard",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.72,
+        "name": "Dark Pulse",
+        "totalDmg": 90
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Munna",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.88,
+        "name": "Energy Ball",
+        "totalDmg": 110
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Musharna",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.26,
+        "name": "Future Sight",
+        "totalDmg": 157
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Unfezant",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.78,
+        "name": "Hurricane",
+        "totalDmg": 97
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gigalith",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.08,
+        "name": "Power Gem",
+        "totalDmg": 135
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Swoobat",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.98,
+        "name": "Energy Ball",
+        "totalDmg": 122
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Excadrill",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.94,
+        "name": "Focus Blast",
+        "totalDmg": 117
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Seismitoad",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 127,
+        "movePct": 0.2,
+        "name": "Water Pulse",
+        "totalDmg": 25
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Throh",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.02,
+        "name": "Focus Blast",
+        "totalDmg": 127
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sawk",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.02,
+        "name": "Focus Blast",
+        "totalDmg": 127
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Whimsicott",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.46,
+        "name": "Energy Ball",
+        "totalDmg": 183
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Basculin",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.62,
+        "name": "Head Smash",
+        "totalDmg": 77
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Darmanitan",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.87,
+        "name": "Focus Punch",
+        "totalDmg": 109
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Scrafty",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.09,
+        "name": "Fake Out",
+        "totalDmg": 11
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sigilyph",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.22,
+        "name": "Future Sight",
+        "totalDmg": 152
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Yamask",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.76,
+        "name": "Energy Ball",
+        "totalDmg": 95
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cofagrigus",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.15,
+        "name": "Energy Ball",
+        "totalDmg": 144
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Garbodor",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 131,
+        "movePct": 0.75,
+        "name": "Focus Blast",
+        "totalDmg": 98
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cinccino",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 126,
+        "movePct": 0.83,
+        "name": "Focus Blast",
+        "totalDmg": 104
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gothita",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.76,
+        "name": "Thunderbolt",
+        "totalDmg": 95
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gothorita",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.95,
+        "name": "Thunderbolt",
+        "totalDmg": 119
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gothitelle",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.15,
+        "name": "Thunderbolt",
+        "totalDmg": 144
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Solosis",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.52,
+        "name": "Thunder",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Duosion",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.75,
+        "name": "Thunder",
+        "totalDmg": 219
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Reuniclus",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.91,
+        "name": "Focus Blast",
+        "totalDmg": 239
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vanillish",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.5,
+        "name": "Uproar",
+        "totalDmg": 62
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vanilluxe",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.65,
+        "name": "Uproar",
+        "totalDmg": 81
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Escavalier",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 133,
+        "movePct": 0.83,
+        "name": "Focus Blast",
+        "totalDmg": 110
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Frillish",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.86,
+        "name": "Energy Ball",
+        "totalDmg": 107
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Jellicent",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.05,
+        "name": "Energy Ball",
+        "totalDmg": 131
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Joltik",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.17,
+        "name": "Thunderbolt",
+        "totalDmg": 146
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Galvantula",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.14,
+        "name": "Thunder",
+        "totalDmg": 267
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ferroseed",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.69,
+        "name": "Energy Ball",
+        "totalDmg": 86
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ferrothorn",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.13,
+        "name": "Energy Ball",
+        "totalDmg": 141
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Klink",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.87,
+        "name": "Zap Cannon",
+        "totalDmg": 109
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Klang",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.2,
+        "name": "Zap Cannon",
+        "totalDmg": 150
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Klinklang",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.2,
+        "name": "Zap Cannon",
+        "totalDmg": 150
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Elgyem",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.05,
+        "name": "Thunderbolt",
+        "totalDmg": 131
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Beheeyem",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.44,
+        "name": "Thunderbolt",
+        "totalDmg": 180
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Chandelure",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.76,
+        "name": "Overheat",
+        "totalDmg": 220
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Haxorus",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.06,
+        "name": "Focus Blast",
+        "totalDmg": 133
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Beartic",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 137,
+        "movePct": 1.08,
+        "name": "Focus Blast",
+        "totalDmg": 148
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Shelmet",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Accelgor",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Stunfisk",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.85,
+        "name": "Thunder",
+        "totalDmg": 231
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Golurk",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.79,
+        "name": "Focus Punch",
+        "totalDmg": 99
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Bisharp",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.06,
+        "name": "Focus Blast",
+        "totalDmg": 133
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Braviary",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 137,
+        "movePct": 0.57,
+        "name": "Superpower",
+        "totalDmg": 78
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mandibuzz",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.5,
+        "name": "Dark Pulse",
+        "totalDmg": 63
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Heatmor",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.66,
+        "name": "Focus Blast",
+        "totalDmg": 207
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hydreigon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 156,
+        "movePct": 1.53,
+        "name": "Focus Blast",
+        "totalDmg": 239
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cobalion",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.19,
+        "name": "Focus Blast",
+        "totalDmg": 274
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Terrakion",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.84,
+        "name": "Focus Blast",
+        "totalDmg": 230
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Virizion",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.37,
+        "name": "Leaf Storm",
+        "totalDmg": 296
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Reshiram",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.24,
+        "name": "Focus Blast",
+        "totalDmg": 280
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Zekrom",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.54,
+        "name": "Thunder",
+        "totalDmg": 318
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Kyurem",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.98,
+        "name": "Focus Blast",
+        "totalDmg": 247
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Keldeo",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.95,
+        "name": "Focus Blast",
+        "totalDmg": 369
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pancham",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 143,
+        "movePct": 0.59,
+        "name": "Superpower",
+        "totalDmg": 85
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pangoro",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.78,
+        "name": "Focus Blast",
+        "totalDmg": 222
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Espurr",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.84,
+        "name": "Thunderbolt",
+        "totalDmg": 105
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Meowstic",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.03,
+        "name": "Thunderbolt",
+        "totalDmg": 129
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Aegislash",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 143,
+        "movePct": 0.36,
+        "name": "Shadow Ball",
+        "totalDmg": 52
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Spritzee",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.84,
+        "name": "Thunderbolt",
+        "totalDmg": 105
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Aromatisse",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.45,
+        "name": "Thunder",
+        "totalDmg": 181
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Swirlix",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.8,
+        "name": "Energy Ball",
+        "totalDmg": 100
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Slurpuff",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.28,
+        "name": "Thunder",
+        "totalDmg": 160
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Malamar",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 128,
+        "movePct": 0.7,
+        "name": "Thunderbolt",
+        "totalDmg": 90
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Barbaracle",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.17,
+        "name": "Night Slash",
+        "totalDmg": 21
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Helioptile",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.49,
+        "name": "Thunder",
+        "totalDmg": 186
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Heliolisk",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.35,
+        "name": "Thunder",
+        "totalDmg": 294
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hawlucha",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 130,
+        "movePct": 1.63,
+        "name": "Focus Blast",
+        "totalDmg": 212
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Goodra",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.72,
+        "name": "Focus Blast",
+        "totalDmg": 215
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Trevenant",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.84,
+        "name": "Leaf Storm",
+        "totalDmg": 230
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gourgeist",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.18,
+        "name": "Energy Ball",
+        "totalDmg": 148
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Avalugg",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.61,
+        "name": "Superpower",
+        "totalDmg": 76
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Noivern",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 142,
+        "movePct": 1.27,
+        "name": "Focus Blast",
+        "totalDmg": 180
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Decidueye",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.58,
+        "name": "Leaf Storm",
+        "totalDmg": 322
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Incineroar",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.33,
+        "name": "Focus Blast",
+        "totalDmg": 166
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Popplio",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.46,
+        "name": "Moonblast",
+        "totalDmg": 57
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Brionne",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.58,
+        "name": "Moonblast",
+        "totalDmg": 73
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Primarina",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.45,
+        "name": "Energy Ball",
+        "totalDmg": 181
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Grubbin",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.68,
+        "name": "Discharge",
+        "totalDmg": 85
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Charjabug",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.02,
+        "name": "Discharge",
+        "totalDmg": 127
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vikavolt",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.46,
+        "name": "Thunderbolt",
+        "totalDmg": 307
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ribombee",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.15,
+        "name": "Energy Ball",
+        "totalDmg": 144
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Toxapex",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 134,
+        "movePct": 0.38,
+        "name": "Sludge Wave",
+        "totalDmg": 51
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mudsdale",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dewpider",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.51,
+        "name": "Giga Drain",
+        "totalDmg": 64
+      },
+      "evs": [162, 42, 18, 161, 23, 104]
+    },
+    {
+      "opponent": "Araquanid",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 145,
+        "movePct": 0.49,
+        "name": "Giga Drain",
+        "totalDmg": 71
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Salandit",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.98,
+        "name": "Overheat",
+        "totalDmg": 123
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Salazzle",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.4,
+        "name": "Overheat",
+        "totalDmg": 175
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Stufful",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.31,
+        "name": "Focus Blast",
+        "totalDmg": 164
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Bewear",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.5,
+        "name": "Focus Blast",
+        "totalDmg": 188
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Tsareena",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.52,
+        "name": "Leaf Storm",
+        "totalDmg": 190
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Oranguru",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.46,
+        "name": "Focus Blast",
+        "totalDmg": 182
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Passimian",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.22,
+        "name": "Focus Blast",
+        "totalDmg": 152
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Golisopod",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.06,
+        "name": "Focus Blast",
+        "totalDmg": 133
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Type: Null",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.77,
+        "name": "Tri Attack",
+        "totalDmg": 96
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Silvally",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Multi-Attack",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Turtonator",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.47,
+        "name": "Focus Blast",
+        "totalDmg": 184
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Togedemaru",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.12,
+        "name": "Thunder",
+        "totalDmg": 140
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mimikyu",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.86,
+        "name": "Thunder",
+        "totalDmg": 108
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drampa",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.04,
+        "name": "Focus Blast",
+        "totalDmg": 255
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dhelmise",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.59,
+        "name": "Energy Ball",
+        "totalDmg": 199
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Kommo-o",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.38,
+        "name": "Focus Blast",
+        "totalDmg": 298
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Solgaleo",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.76,
+        "name": "Focus Blast",
+        "totalDmg": 220
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lunala",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.07,
+        "name": "Focus Blast",
+        "totalDmg": 259
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Necrozma",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.46,
+        "name": "Future Sight",
+        "totalDmg": 182
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Marshadow",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.19,
+        "name": "Focus Blast",
+        "totalDmg": 274
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Zeraora",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Power-Up Punch",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Meltan",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.76,
+        "name": "Thunderbolt",
+        "totalDmg": 95
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Melmetal",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.22,
+        "name": "Thunder",
+        "totalDmg": 152
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rillaboom",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.74,
+        "name": "Leaf Storm",
+        "totalDmg": 217
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Raboot",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.82,
+        "name": "Overheat",
+        "totalDmg": 102
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cinderace",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.14,
+        "name": "Focus Blast",
+        "totalDmg": 142
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drizzile",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 131,
+        "movePct": 0.38,
+        "name": "Surf",
+        "totalDmg": 50
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Inteleon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.66,
+        "name": "Hydro Pump",
+        "totalDmg": 82
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Greedent",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.57,
+        "name": "Uproar",
+        "totalDmg": 71
+      },
+      "evs": [94, 72, 17, 242, 41, 44]
+    },
+    {
+      "opponent": "Corviknight",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.67,
+        "name": "Hurricane",
+        "totalDmg": 84
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Orbeetle",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 147,
+        "movePct": 0.63,
+        "name": "Energy Ball",
+        "totalDmg": 92
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Thievul",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.71,
+        "name": "Dark Pulse",
+        "totalDmg": 89
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Eldegoss",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.16,
+        "name": "Leaf Storm",
+        "totalDmg": 270
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dubwool",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.41,
+        "name": "Round",
+        "totalDmg": 51
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Chewtle",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.26,
+        "name": "Hydro Pump",
+        "totalDmg": 33
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drednaw",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.11,
+        "name": "Head Smash",
+        "totalDmg": 139
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Yamper",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Boltund",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cramorant",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 129,
+        "movePct": 0.73,
+        "name": "Hurricane",
+        "totalDmg": 94
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Barraskewda",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.63,
+        "name": "Close Combat",
+        "totalDmg": 79
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Toxtricity",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Power-Up Punch",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Centiskorch",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.18,
+        "name": "Burn Up",
+        "totalDmg": 148
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Clobbopus",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.6,
+        "name": "Superpower",
+        "totalDmg": 75
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Grapploct",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.8,
+        "name": "Focus Blast",
+        "totalDmg": 225
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sinistea",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.79,
+        "name": "Giga Drain",
+        "totalDmg": 99
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Polteageist",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.28,
+        "name": "Giga Drain",
+        "totalDmg": 160
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hattrem",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 133,
+        "movePct": 0.66,
+        "name": "Giga Drain",
+        "totalDmg": 88
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hatterene",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.54,
+        "name": "Future Sight",
+        "totalDmg": 193
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Grimmsnarl",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 144,
+        "movePct": 1.03,
+        "name": "Focus Blast",
+        "totalDmg": 148
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Obstagoon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.98,
+        "name": "Thunder",
+        "totalDmg": 123
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Perrserker",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cursola",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.46,
+        "name": "Power Gem",
+        "totalDmg": 182
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sirfetch'd",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.02,
+        "name": "Superpower",
+        "totalDmg": 128
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mr. Rime",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.72,
+        "name": "Focus Blast",
+        "totalDmg": 215
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Alcremie",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 156,
+        "movePct": 0.83,
+        "name": "Energy Ball",
+        "totalDmg": 129
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Falinks",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.8,
+        "name": "Focus Blast",
+        "totalDmg": 225
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pincurchin",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.02,
+        "name": "Thunder",
+        "totalDmg": 253
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Frosmoth",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 127,
+        "movePct": 0.91,
+        "name": "Giga Drain",
+        "totalDmg": 115
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Eiscue",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Indeedee",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.83,
+        "name": "Extrasensory",
+        "totalDmg": 104
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Morpeko",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.66,
+        "name": "Thunder",
+        "totalDmg": 207
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cufant",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Copperajah",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dracozolt",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.83,
+        "name": "Thunder",
+        "totalDmg": 229
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Arctozolt",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 2.01,
+        "name": "Thunder",
+        "totalDmg": 251
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dracovish",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.64,
+        "name": "Dragon Pulse",
+        "totalDmg": 80
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Arctovish",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.68,
+        "name": "Ancient Power",
+        "totalDmg": 85
+      },
+      "evs": [10, 19, 76, 82, 229, 94]
+    },
+    {
+      "opponent": "Duraludon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 126,
+        "movePct": 1.17,
+        "name": "Thunder",
+        "totalDmg": 148
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drakloak",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.98,
+        "name": "Thunder",
+        "totalDmg": 123
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dragapult",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.46,
+        "name": "Thunder",
+        "totalDmg": 182
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Zacian",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.33,
+        "name": "Focus Blast",
+        "totalDmg": 166
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Zamazenta",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.33,
+        "name": "Focus Blast",
+        "totalDmg": 166
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Eternatus",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 1.3,
+        "name": "Sludge Wave",
+        "totalDmg": 162
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    }
+  ]
+}

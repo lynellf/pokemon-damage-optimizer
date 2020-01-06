@@ -1,0 +1,5204 @@
+{
+  "evs": [27, 211, 24, 94, 128, 26],
+  "wins": [
+    {
+      "opponent": "Venusaur",
+      "move": {
+        "category": "special move",
+        "defenderName": "Venusaur",
+        "defenderHp": 155,
+        "movePct": 0.56,
+        "name": "Hurricane",
+        "totalDmg": 87,
+        "evs": [24, 34, 43, 113, 249, 47]
+      },
+      "evs": [24, 34, 43, 113, 249, 47]
+    },
+    {
+      "opponent": "Blastoise",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Blastoise",
+        "defenderHp": 154,
+        "movePct": 0.74,
+        "name": "Power Whip",
+        "totalDmg": 114
+      },
+      "evs": [24, 34, 43, 113, 249, 47]
+    },
+    {
+      "opponent": "Charizard",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Charizard",
+        "defenderHp": 153,
+        "movePct": 1.53,
+        "name": "Stone Edge",
+        "totalDmg": 234
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Bulbasaur",
+      "move": {
+        "category": "special move",
+        "defenderName": "Bulbasaur",
+        "defenderHp": 120,
+        "movePct": 1.01,
+        "name": "Hurricane",
+        "totalDmg": 121
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ivysaur",
+      "move": {
+        "category": "special move",
+        "defenderName": "Ivysaur",
+        "defenderHp": 135,
+        "movePct": 0.76,
+        "name": "Hurricane",
+        "totalDmg": 103
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Charmander",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Charmander",
+        "defenderHp": 114,
+        "movePct": 2.08,
+        "name": "Aqua Tail",
+        "totalDmg": 237
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Charmeleon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Charmeleon",
+        "defenderHp": 133,
+        "movePct": 1.44,
+        "name": "Aqua Tail",
+        "totalDmg": 192
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Squirtle",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Squirtle",
+        "defenderHp": 119,
+        "movePct": 1.31,
+        "name": "Power Whip",
+        "totalDmg": 156
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Wartortle",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Wartortle",
+        "defenderHp": 134,
+        "movePct": 0.99,
+        "name": "Power Whip",
+        "totalDmg": 133
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Caterpie",
+      "move": {
+        "category": "special move",
+        "defenderName": "Caterpie",
+        "defenderHp": 120,
+        "movePct": 2.09,
+        "name": "Hurricane",
+        "totalDmg": 251
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Metapod",
+      "move": {
+        "category": "special move",
+        "defenderName": "Metapod",
+        "defenderHp": 125,
+        "movePct": 1.79,
+        "name": "Hurricane",
+        "totalDmg": 224
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Butterfree",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Butterfree",
+        "defenderHp": 135,
+        "movePct": 2.34,
+        "name": "Stone Edge",
+        "totalDmg": 316
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pikachu",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Pikachu",
+        "defenderHp": 110,
+        "movePct": 1.67,
+        "name": "Earthquake",
+        "totalDmg": 184,
+        "evs": [23, 100, 83, 216, 3, 85]
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Clefairy",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Clefairy",
+        "defenderHp": 145,
+        "movePct": 1.12,
+        "name": "Iron Tail",
+        "totalDmg": 162
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vulpix",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Vulpix",
+        "defenderHp": 113,
+        "movePct": 2.2,
+        "name": "Aqua Tail",
+        "totalDmg": 249
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ninetales",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Ninetales",
+        "defenderHp": 148,
+        "movePct": 1.07,
+        "name": "Aqua Tail",
+        "totalDmg": 159,
+        "evs": [10, 18, 69, 187, 50, 176]
+      },
+      "evs": [10, 18, 69, 187, 50, 176]
+    },
+    {
+      "opponent": "Oddish",
+      "move": {
+        "category": "special move",
+        "defenderName": "Oddish",
+        "defenderHp": 120,
+        "movePct": 1.28,
+        "name": "Hurricane",
+        "totalDmg": 154
+      },
+      "evs": [10, 18, 69, 187, 50, 176]
+    },
+    {
+      "opponent": "Gloom",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gloom",
+        "defenderHp": 135,
+        "movePct": 1.02,
+        "name": "Hurricane",
+        "totalDmg": 138
+      },
+      "evs": [10, 18, 69, 187, 50, 176]
+    },
+    {
+      "opponent": "Vileplume",
+      "move": {
+        "category": "special move",
+        "defenderName": "Vileplume",
+        "defenderHp": 150,
+        "movePct": 0.8,
+        "name": "Hurricane",
+        "totalDmg": 120
+      },
+      "evs": [10, 18, 69, 187, 50, 176]
+    },
+    {
+      "opponent": "Diglett",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Diglett",
+        "defenderHp": 85,
+        "movePct": 3.93,
+        "name": "Aqua Tail",
+        "totalDmg": 334
+      },
+      "evs": [10, 18, 69, 187, 50, 176]
+    },
+    {
+      "opponent": "Meowth",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Meowth",
+        "defenderHp": 115,
+        "movePct": 1.17,
+        "name": "Aqua Tail",
+        "totalDmg": 135
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Persian",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Persian",
+        "defenderHp": 140,
+        "movePct": 0.67,
+        "name": "Aqua Tail",
+        "totalDmg": 94,
+        "evs": [51, 35, 137, 179, 58, 50]
+      },
+      "evs": [51, 35, 137, 179, 58, 50]
+    },
+    {
+      "opponent": "Growlithe",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Growlithe",
+        "defenderHp": 130,
+        "movePct": 1.82,
+        "name": "Aqua Tail",
+        "totalDmg": 236
+      },
+      "evs": [51, 35, 137, 179, 58, 50]
+    },
+    {
+      "opponent": "Arcanine",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Arcanine",
+        "defenderHp": 165,
+        "movePct": 0.94,
+        "name": "Aqua Tail",
+        "totalDmg": 155,
+        "evs": [133, 14, 57, 65, 85, 156]
+      },
+      "evs": [133, 14, 57, 65, 85, 156]
+    },
+    {
+      "opponent": "Machop",
+      "move": {
+        "category": "special move",
+        "defenderName": "Machop",
+        "defenderHp": 145,
+        "movePct": 1.39,
+        "name": "Hurricane",
+        "totalDmg": 202
+      },
+      "evs": [133, 14, 57, 65, 85, 156]
+    },
+    {
+      "opponent": "Machoke",
+      "move": {
+        "category": "special move",
+        "defenderName": "Machoke",
+        "defenderHp": 155,
+        "movePct": 0.9,
+        "name": "Hurricane",
+        "totalDmg": 140
+      },
+      "evs": [133, 14, 57, 65, 85, 156]
+    },
+    {
+      "opponent": "Ponyta",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Ponyta",
+        "defenderHp": 125,
+        "movePct": 1.6,
+        "name": "Aqua Tail",
+        "totalDmg": 200,
+        "evs": [34, 26, 165, 145, 120, 20]
+      },
+      "evs": [34, 26, 165, 145, 120, 20]
+    },
+    {
+      "opponent": "Rapidash",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Rapidash",
+        "defenderHp": 140,
+        "movePct": 1.22,
+        "name": "Aqua Tail",
+        "totalDmg": 171
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Farfetch'd",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Farfetch'd",
+        "defenderHp": 127,
+        "movePct": 1.17,
+        "name": "Stone Edge",
+        "totalDmg": 148,
+        "evs": [33, 48, 36, 94, 236, 63]
+      },
+      "evs": [33, 48, 36, 94, 236, 63]
+    },
+    {
+      "opponent": "Shellder",
+      "move": {
+        "category": "special move",
+        "defenderName": "Shellder",
+        "defenderHp": 105,
+        "movePct": 1.63,
+        "name": "Thunder",
+        "totalDmg": 171
+      },
+      "evs": [33, 48, 36, 94, 236, 63]
+    },
+    {
+      "opponent": "Cloyster",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cloyster",
+        "defenderHp": 125,
+        "movePct": 0.95,
+        "name": "Thunder",
+        "totalDmg": 119
+      },
+      "evs": [33, 48, 36, 94, 236, 63]
+    },
+    {
+      "opponent": "Gastly",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gastly",
+        "defenderHp": 105,
+        "movePct": 2.18,
+        "name": "Earthquake",
+        "totalDmg": 229
+      },
+      "evs": [33, 48, 36, 94, 236, 63]
+    },
+    {
+      "opponent": "Haunter",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Haunter",
+        "defenderHp": 120,
+        "movePct": 1.48,
+        "name": "Earthquake",
+        "totalDmg": 177
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Onix",
+      "move": {
+        "category": "special move",
+        "defenderName": "Onix",
+        "defenderHp": 110,
+        "movePct": 2.85,
+        "name": "Hydro Pump",
+        "totalDmg": 314
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Krabby",
+      "move": {
+        "category": "special move",
+        "defenderName": "Krabby",
+        "defenderHp": 105,
+        "movePct": 1.42,
+        "name": "Thunder",
+        "totalDmg": 149,
+        "evs": [115, 13, 182, 2, 172, 26]
+      },
+      "evs": [115, 13, 182, 2, 172, 26]
+    },
+    {
+      "opponent": "Kingler",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Kingler",
+        "defenderHp": 130,
+        "movePct": 0.78,
+        "name": "Power Whip",
+        "totalDmg": 101
+      },
+      "evs": [115, 13, 182, 2, 172, 26]
+    },
+    {
+      "opponent": "Rhyhorn",
+      "move": {
+        "category": "special move",
+        "defenderName": "Rhyhorn",
+        "defenderHp": 155,
+        "movePct": 2.61,
+        "name": "Hydro Pump",
+        "totalDmg": 405
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rhydon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Rhydon",
+        "defenderHp": 180,
+        "movePct": 1.74,
+        "name": "Hydro Pump",
+        "totalDmg": 314
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Goldeen",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Goldeen",
+        "defenderHp": 120,
+        "movePct": 1.38,
+        "name": "Power Whip",
+        "totalDmg": 166
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Seaking",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Seaking",
+        "defenderHp": 155,
+        "movePct": 1.01,
+        "name": "Power Whip",
+        "totalDmg": 156
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mr. Mime",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Mr. Mime",
+        "defenderHp": 115,
+        "movePct": 1.14,
+        "name": "Iron Tail",
+        "totalDmg": 131,
+        "evs": [153, 23, 83, 108, 19, 124]
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Magikarp",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Magikarp",
+        "defenderHp": 95,
+        "movePct": 1.85,
+        "name": "Power Whip",
+        "totalDmg": 176
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lapras",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Lapras",
+        "defenderHp": 205,
+        "movePct": 0.65,
+        "name": "Power Whip",
+        "totalDmg": 133
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Eevee",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Eevee",
+        "defenderHp": 130,
+        "movePct": 0.82,
+        "name": "Aqua Tail",
+        "totalDmg": 107
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vaporeon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Vaporeon",
+        "defenderHp": 205,
+        "movePct": 0.81,
+        "name": "Power Whip",
+        "totalDmg": 166
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Jolteon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Jolteon",
+        "defenderHp": 140,
+        "movePct": 0.99,
+        "name": "Earthquake",
+        "totalDmg": 138
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Flareon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Flareon",
+        "defenderHp": 140,
+        "movePct": 1.34,
+        "name": "Aqua Tail",
+        "totalDmg": 188
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hoothoot",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Hoothoot",
+        "defenderHp": 135,
+        "movePct": 1.63,
+        "name": "Stone Edge",
+        "totalDmg": 220
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Noctowl",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Noctowl",
+        "defenderHp": 175,
+        "movePct": 0.9,
+        "name": "Stone Edge",
+        "totalDmg": 158
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Chinchou",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Chinchou",
+        "defenderHp": 150,
+        "movePct": 1.51,
+        "name": "Power Whip",
+        "totalDmg": 227,
+        "evs": [10, 104, 40, 14, 233, 109]
+      },
+      "evs": [10, 104, 40, 14, 233, 109]
+    },
+    {
+      "opponent": "Pichu",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Pichu",
+        "defenderHp": 95,
+        "movePct": 3.29,
+        "name": "Earthquake",
+        "totalDmg": 313
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cleffa",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cleffa",
+        "defenderHp": 125,
+        "movePct": 1.83,
+        "name": "Iron Tail",
+        "totalDmg": 229
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Togepi",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Togepi",
+        "defenderHp": 110,
+        "movePct": 1.19,
+        "name": "Iron Tail",
+        "totalDmg": 131
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Togetic",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Togetic",
+        "defenderHp": 130,
+        "movePct": 0.82,
+        "name": "Iron Tail",
+        "totalDmg": 106
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Natu",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Natu",
+        "defenderHp": 115,
+        "movePct": 1.48,
+        "name": "Stone Edge",
+        "totalDmg": 170
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Xatu",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Xatu",
+        "defenderHp": 140,
+        "movePct": 0.88,
+        "name": "Stone Edge",
+        "totalDmg": 123,
+        "evs": [41, 27, 136, 36, 147, 123]
+      },
+      "evs": [41, 27, 136, 36, 147, 123]
+    },
+    {
+      "opponent": "Bellossom",
+      "move": {
+        "category": "special move",
+        "defenderName": "Bellossom",
+        "defenderHp": 150,
+        "movePct": 0.61,
+        "name": "Hurricane",
+        "totalDmg": 92
+      },
+      "evs": [41, 27, 136, 36, 147, 123]
+    },
+    {
+      "opponent": "Wooper",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Wooper",
+        "defenderHp": 130,
+        "movePct": 3.13,
+        "name": "Power Whip",
+        "totalDmg": 407
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Quagsire",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Quagsire",
+        "defenderHp": 170,
+        "movePct": 1.49,
+        "name": "Power Whip",
+        "totalDmg": 254
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Espeon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Espeon",
+        "defenderHp": 140,
+        "movePct": 0.79,
+        "name": "Crunch",
+        "totalDmg": 111
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Steelix",
+      "move": {
+        "category": "special move",
+        "defenderName": "Steelix",
+        "defenderHp": 150,
+        "movePct": 0.81,
+        "name": "Hydro Pump",
+        "totalDmg": 121,
+        "evs": [216, 25, 161, 18, 13, 77]
+      },
+      "evs": [216, 25, 161, 18, 13, 77]
+    },
+    {
+      "opponent": "Qwilfish",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Qwilfish",
+        "defenderHp": 140,
+        "movePct": 0.77,
+        "name": "Earthquake",
+        "totalDmg": 108
+      },
+      "evs": [216, 25, 161, 18, 13, 77]
+    },
+    {
+      "opponent": "Shuckle",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Shuckle",
+        "defenderHp": 95,
+        "movePct": 0.67,
+        "name": "Aqua Tail",
+        "totalDmg": 64
+      },
+      "evs": [216, 25, 161, 18, 13, 77]
+    },
+    {
+      "opponent": "Sneasel",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Sneasel",
+        "defenderHp": 130,
+        "movePct": 1.16,
+        "name": "Iron Tail",
+        "totalDmg": 151
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Swinub",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Swinub",
+        "defenderHp": 125,
+        "movePct": 1.99,
+        "name": "Aqua Tail",
+        "totalDmg": 249
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Piloswine",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Piloswine",
+        "defenderHp": 175,
+        "movePct": 0.86,
+        "name": "Aqua Tail",
+        "totalDmg": 151
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Corsola",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Corsola",
+        "defenderHp": 140,
+        "movePct": 1.66,
+        "name": "Power Whip",
+        "totalDmg": 233
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Remoraid",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Remoraid",
+        "defenderHp": 110,
+        "movePct": 2.18,
+        "name": "Power Whip",
+        "totalDmg": 240
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Octillery",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Octillery",
+        "defenderHp": 150,
+        "movePct": 0.93,
+        "name": "Power Whip",
+        "totalDmg": 140
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Delibird",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Delibird",
+        "defenderHp": 120,
+        "movePct": 2.83,
+        "name": "Stone Edge",
+        "totalDmg": 340
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mantine",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Mantine",
+        "defenderHp": 160,
+        "movePct": 0.77,
+        "name": "Stone Edge",
+        "totalDmg": 123
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Tyrogue",
+      "move": {
+        "category": "special move",
+        "defenderName": "Tyrogue",
+        "defenderHp": 110,
+        "movePct": 1.67,
+        "name": "Hurricane",
+        "totalDmg": 184
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hitmontop",
+      "move": {
+        "category": "special move",
+        "defenderName": "Hitmontop",
+        "defenderHp": 125,
+        "movePct": 0.65,
+        "name": "Hurricane",
+        "totalDmg": 81,
+        "evs": [11, 101, 205, 27, 46, 120]
+      },
+      "evs": [11, 101, 205, 27, 46, 120]
+    },
+    {
+      "opponent": "Larvitar",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Larvitar",
+        "defenderHp": 125,
+        "movePct": 3.73,
+        "name": "Aqua Tail",
+        "totalDmg": 466
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pupitar",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Pupitar",
+        "defenderHp": 145,
+        "movePct": 2.31,
+        "name": "Aqua Tail",
+        "totalDmg": 335
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Celebi",
+      "move": {
+        "category": "special move",
+        "defenderName": "Celebi",
+        "defenderHp": 175,
+        "movePct": 0.5,
+        "name": "Hurricane",
+        "totalDmg": 87,
+        "evs": [12, 189, 21, 104, 76, 108]
+      },
+      "evs": [12, 189, 21, 104, 76, 108]
+    },
+    {
+      "opponent": "Zigzagoon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Zigzagoon",
+        "defenderHp": 113,
+        "movePct": 1.26,
+        "name": "Aqua Tail",
+        "totalDmg": 142
+      },
+      "evs": [12, 189, 21, 104, 76, 108]
+    },
+    {
+      "opponent": "Linoone",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Linoone",
+        "defenderHp": 153,
+        "movePct": 0.7,
+        "name": "Aqua Tail",
+        "totalDmg": 107
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lotad",
+      "move": {
+        "category": "special move",
+        "defenderName": "Lotad",
+        "defenderHp": 115,
+        "movePct": 1.27,
+        "name": "Hurricane",
+        "totalDmg": 146
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lombre",
+      "move": {
+        "category": "special move",
+        "defenderName": "Lombre",
+        "defenderHp": 135,
+        "movePct": 0.84,
+        "name": "Hurricane",
+        "totalDmg": 114
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ludicolo",
+      "move": {
+        "category": "special move",
+        "defenderName": "Ludicolo",
+        "defenderHp": 155,
+        "movePct": 0.56,
+        "name": "Hurricane",
+        "totalDmg": 87
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Seedot",
+      "move": {
+        "category": "special move",
+        "defenderName": "Seedot",
+        "defenderHp": 115,
+        "movePct": 1.76,
+        "name": "Hurricane",
+        "totalDmg": 202
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Nuzleaf",
+      "move": {
+        "category": "special move",
+        "defenderName": "Nuzleaf",
+        "defenderHp": 145,
+        "movePct": 1.17,
+        "name": "Hurricane",
+        "totalDmg": 169,
+        "evs": [19, 48, 231, 67, 115, 30]
+      },
+      "evs": [19, 48, 231, 67, 115, 30]
+    },
+    {
+      "opponent": "Wingull",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Wingull",
+        "defenderHp": 115,
+        "movePct": 1.91,
+        "name": "Stone Edge",
+        "totalDmg": 220,
+        "evs": [228, 31, 19, 49, 72, 111]
+      },
+      "evs": [228, 31, 19, 49, 72, 111]
+    },
+    {
+      "opponent": "Pelipper",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Pelipper",
+        "defenderHp": 135,
+        "movePct": 0.71,
+        "name": "Stone Edge",
+        "totalDmg": 96
+      },
+      "evs": [228, 31, 19, 49, 72, 111]
+    },
+    {
+      "opponent": "Ralts",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Ralts",
+        "defenderHp": 103,
+        "movePct": 2.44,
+        "name": "Iron Tail",
+        "totalDmg": 251
+      },
+      "evs": [228, 31, 19, 49, 72, 111]
+    },
+    {
+      "opponent": "Kirlia",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Kirlia",
+        "defenderHp": 113,
+        "movePct": 1.82,
+        "name": "Iron Tail",
+        "totalDmg": 206
+      },
+      "evs": [228, 31, 19, 49, 72, 111]
+    },
+    {
+      "opponent": "Gardevoir",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gardevoir",
+        "defenderHp": 143,
+        "movePct": 0.94,
+        "name": "Iron Tail",
+        "totalDmg": 134
+      },
+      "evs": [228, 31, 19, 49, 72, 111]
+    },
+    {
+      "opponent": "Nincada",
+      "move": {
+        "category": "special move",
+        "defenderName": "Nincada",
+        "defenderHp": 106,
+        "movePct": 2.05,
+        "name": "Hydro Pump",
+        "totalDmg": 217
+      },
+      "evs": [228, 31, 19, 49, 72, 111]
+    },
+    {
+      "opponent": "Ninjask",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Ninjask",
+        "defenderHp": 136,
+        "movePct": 2.57,
+        "name": "Stone Edge",
+        "totalDmg": 349
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Shedinja",
+      "move": {
+        "category": "special move",
+        "defenderName": "Shedinja",
+        "defenderHp": 76,
+        "movePct": 2.66,
+        "name": "Hurricane",
+        "totalDmg": 202
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sableye",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Sableye",
+        "defenderHp": 125,
+        "movePct": 0.63,
+        "name": "Aqua Tail",
+        "totalDmg": 79
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mawile",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Mawile",
+        "defenderHp": 125,
+        "movePct": 0.85,
+        "name": "Earthquake",
+        "totalDmg": 106,
+        "evs": [40, 1, 164, 41, 226, 38]
+      },
+      "evs": [40, 1, 164, 41, 226, 38]
+    },
+    {
+      "opponent": "Electrike",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Electrike",
+        "defenderHp": 115,
+        "movePct": 1.6,
+        "name": "Earthquake",
+        "totalDmg": 184
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Wailmer",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Wailmer",
+        "defenderHp": 205,
+        "movePct": 1.17,
+        "name": "Power Whip",
+        "totalDmg": 240
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Trapinch",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Trapinch",
+        "defenderHp": 120,
+        "movePct": 1.92,
+        "name": "Aqua Tail",
+        "totalDmg": 230
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vibrava",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Vibrava",
+        "defenderHp": 125,
+        "movePct": 1.66,
+        "name": "Ice Fang",
+        "totalDmg": 208
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Flygon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Flygon",
+        "defenderHp": 155,
+        "movePct": 0.95,
+        "name": "Ice Fang",
+        "totalDmg": 147,
+        "evs": [142, 31, 182, 12, 15, 128]
+      },
+      "evs": [142, 31, 182, 12, 15, 128]
+    },
+    {
+      "opponent": "Lunatone",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Lunatone",
+        "defenderHp": 165,
+        "movePct": 1.1,
+        "name": "Aqua Tail",
+        "totalDmg": 182
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Barboach",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Barboach",
+        "defenderHp": 125,
+        "movePct": 3.35,
+        "name": "Power Whip",
+        "totalDmg": 419
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Whiscash",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Whiscash",
+        "defenderHp": 185,
+        "movePct": 1.55,
+        "name": "Power Whip",
+        "totalDmg": 286,
+        "evs": [119, 189, 150, 1, 14, 37]
+      },
+      "evs": [119, 189, 150, 1, 14, 37]
+    },
+    {
+      "opponent": "Corphish",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Corphish",
+        "defenderHp": 118,
+        "movePct": 1.53,
+        "name": "Power Whip",
+        "totalDmg": 181
+      },
+      "evs": [119, 189, 150, 1, 14, 37]
+    },
+    {
+      "opponent": "Crawdaunt",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Crawdaunt",
+        "defenderHp": 138,
+        "movePct": 1.07,
+        "name": "Power Whip",
+        "totalDmg": 147
+      },
+      "evs": [119, 189, 150, 1, 14, 37]
+    },
+    {
+      "opponent": "Baltoy",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Baltoy",
+        "defenderHp": 115,
+        "movePct": 2.02,
+        "name": "Aqua Tail",
+        "totalDmg": 232
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Feebas",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Feebas",
+        "defenderHp": 95,
+        "movePct": 3.45,
+        "name": "Power Whip",
+        "totalDmg": 328
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Milotic",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Milotic",
+        "defenderHp": 170,
+        "movePct": 0.79,
+        "name": "Power Whip",
+        "totalDmg": 134,
+        "evs": [9, 39, 27, 96, 185, 154]
+      },
+      "evs": [9, 39, 27, 96, 185, 154]
+    },
+    {
+      "opponent": "Duskull",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Duskull",
+        "defenderHp": 95,
+        "movePct": 0.89,
+        "name": "Crunch",
+        "totalDmg": 85
+      },
+      "evs": [9, 39, 27, 96, 185, 154]
+    },
+    {
+      "opponent": "Dusclops",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Dusclops",
+        "defenderHp": 115,
+        "movePct": 0.55,
+        "name": "Crunch",
+        "totalDmg": 63
+      },
+      "evs": [9, 39, 27, 96, 185, 154]
+    },
+    {
+      "opponent": "Snorunt",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Snorunt",
+        "defenderHp": 125,
+        "movePct": 1.3,
+        "name": "Iron Tail",
+        "totalDmg": 163
+      },
+      "evs": [9, 39, 27, 96, 185, 154]
+    },
+    {
+      "opponent": "Glalie",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Glalie",
+        "defenderHp": 155,
+        "movePct": 0.74,
+        "name": "Iron Tail",
+        "totalDmg": 115
+      },
+      "evs": [9, 39, 27, 96, 185, 154]
+    },
+    {
+      "opponent": "Jirachi",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Jirachi",
+        "defenderHp": 175,
+        "movePct": 0.55,
+        "name": "Earthquake",
+        "totalDmg": 96,
+        "evs": [50, 84, 45, 99, 212, 20]
+      },
+      "evs": [50, 84, 45, 99, 212, 20]
+    },
+    {
+      "opponent": "Budew",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Budew",
+        "defenderHp": 115,
+        "movePct": 1.23,
+        "name": "Ice Fang",
+        "totalDmg": 141
+      },
+      "evs": [50, 84, 45, 99, 212, 20]
+    },
+    {
+      "opponent": "Roserade",
+      "move": {
+        "category": "special move",
+        "defenderName": "Roserade",
+        "defenderHp": 135,
+        "movePct": 0.7,
+        "name": "Hurricane",
+        "totalDmg": 95,
+        "evs": [125, 32, 79, 22, 77, 175]
+      },
+      "evs": [125, 32, 79, 22, 77, 175]
+    },
+    {
+      "opponent": "Combee",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Combee",
+        "defenderHp": 105,
+        "movePct": 3.49,
+        "name": "Stone Edge",
+        "totalDmg": 366
+      },
+      "evs": [125, 32, 79, 22, 77, 175]
+    },
+    {
+      "opponent": "Vespiquen",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Vespiquen",
+        "defenderHp": 145,
+        "movePct": 1.3,
+        "name": "Stone Edge",
+        "totalDmg": 189
+      },
+      "evs": [125, 32, 79, 22, 77, 175]
+    },
+    {
+      "opponent": "Cherubi",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cherubi",
+        "defenderHp": 120,
+        "movePct": 1.21,
+        "name": "Hurricane",
+        "totalDmg": 145
+      },
+      "evs": [125, 32, 79, 22, 77, 175]
+    },
+    {
+      "opponent": "Cherrim",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cherrim",
+        "defenderHp": 145,
+        "movePct": 0.75,
+        "name": "Hurricane",
+        "totalDmg": 109
+      },
+      "evs": [125, 32, 79, 22, 77, 175]
+    },
+    {
+      "opponent": "Shellos",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Shellos",
+        "defenderHp": 151,
+        "movePct": 1.32,
+        "name": "Power Whip",
+        "totalDmg": 200
+      },
+      "evs": [125, 32, 79, 22, 77, 175]
+    },
+    {
+      "opponent": "Gastrodon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gastrodon",
+        "defenderHp": 186,
+        "movePct": 1.67,
+        "name": "Power Whip",
+        "totalDmg": 310
+      },
+      "evs": [125, 32, 79, 22, 77, 175]
+    },
+    {
+      "opponent": "Drifloon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Drifloon",
+        "defenderHp": 165,
+        "movePct": 1.27,
+        "name": "Stone Edge",
+        "totalDmg": 209
+      },
+      "evs": [125, 32, 79, 22, 77, 175]
+    },
+    {
+      "opponent": "Stunky",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Stunky",
+        "defenderHp": 138,
+        "movePct": 1.2,
+        "name": "Earthquake",
+        "totalDmg": 165
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Skuntank",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Skuntank",
+        "defenderHp": 178,
+        "movePct": 0.72,
+        "name": "Earthquake",
+        "totalDmg": 128,
+        "evs": [189, 108, 133, 29, 3, 48]
+      },
+      "evs": [189, 108, 133, 29, 3, 48]
+    },
+    {
+      "opponent": "Bronzor",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Bronzor",
+        "defenderHp": 132,
+        "movePct": 0.87,
+        "name": "Earthquake",
+        "totalDmg": 115
+      },
+      "evs": [189, 108, 133, 29, 3, 48]
+    },
+    {
+      "opponent": "Bronzong",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Bronzong",
+        "defenderHp": 142,
+        "movePct": 0.63,
+        "name": "Earthquake",
+        "totalDmg": 90
+      },
+      "evs": [189, 108, 133, 29, 3, 48]
+    },
+    {
+      "opponent": "Bonsly",
+      "move": {
+        "category": "special move",
+        "defenderName": "Bonsly",
+        "defenderHp": 125,
+        "movePct": 1.31,
+        "name": "Hydro Pump",
+        "totalDmg": 164
+      },
+      "evs": [189, 108, 133, 29, 3, 48]
+    },
+    {
+      "opponent": "Mime Jr.",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Mime Jr.",
+        "defenderHp": 95,
+        "movePct": 1.96,
+        "name": "Iron Tail",
+        "totalDmg": 186
+      },
+      "evs": [189, 108, 133, 29, 3, 48]
+    },
+    {
+      "opponent": "Riolu",
+      "move": {
+        "category": "special move",
+        "defenderName": "Riolu",
+        "defenderHp": 115,
+        "movePct": 1.47,
+        "name": "Hurricane",
+        "totalDmg": 169
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hippopotas",
+      "move": {
+        "category": "special move",
+        "defenderName": "Hippopotas",
+        "defenderHp": 143,
+        "movePct": 1.15,
+        "name": "Hydro Pump",
+        "totalDmg": 164
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Skorupi",
+      "move": {
+        "category": "special move",
+        "defenderName": "Skorupi",
+        "defenderHp": 115,
+        "movePct": 1.18,
+        "name": "Hurricane",
+        "totalDmg": 136
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drapion",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Drapion",
+        "defenderHp": 145,
+        "movePct": 0.59,
+        "name": "Earthquake",
+        "totalDmg": 86
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Croagunk",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Croagunk",
+        "defenderHp": 123,
+        "movePct": 1.5,
+        "name": "Earthquake",
+        "totalDmg": 184
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mantyke",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Mantyke",
+        "defenderHp": 120,
+        "movePct": 1.32,
+        "name": "Stone Edge",
+        "totalDmg": 158
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Snover",
+      "move": {
+        "category": "special move",
+        "defenderName": "Snover",
+        "defenderHp": 135,
+        "movePct": 1.27,
+        "name": "Fire Blast",
+        "totalDmg": 171
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rhyperior",
+      "move": {
+        "category": "special move",
+        "defenderName": "Rhyperior",
+        "defenderHp": 190,
+        "movePct": 1.44,
+        "name": "Hydro Pump",
+        "totalDmg": 273
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Togekiss",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Togekiss",
+        "defenderHp": 160,
+        "movePct": 0.61,
+        "name": "Iron Tail",
+        "totalDmg": 97
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Leafeon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Leafeon",
+        "defenderHp": 140,
+        "movePct": 0.86,
+        "name": "Hurricane",
+        "totalDmg": 121
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Glaceon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Glaceon",
+        "defenderHp": 140,
+        "movePct": 0.61,
+        "name": "Iron Tail",
+        "totalDmg": 86
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mamoswine",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Mamoswine",
+        "defenderHp": 185,
+        "movePct": 0.82,
+        "name": "Aqua Tail",
+        "totalDmg": 151
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dusknoir",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Dusknoir",
+        "defenderHp": 120,
+        "movePct": 0.49,
+        "name": "Crunch",
+        "totalDmg": 59,
+        "evs": [43, 148, 53, 25, 176, 65]
+      },
+      "evs": [43, 148, 53, 25, 176, 65]
+    },
+    {
+      "opponent": "Froslass",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Froslass",
+        "defenderHp": 145,
+        "movePct": 0.96,
+        "name": "Iron Tail",
+        "totalDmg": 139
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Purrloin",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Purrloin",
+        "defenderHp": 116,
+        "movePct": 1.12,
+        "name": "Aqua Tail",
+        "totalDmg": 130
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Liepard",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Liepard",
+        "defenderHp": 139,
+        "movePct": 0.77,
+        "name": "Aqua Tail",
+        "totalDmg": 107
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Munna",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Munna",
+        "defenderHp": 151,
+        "movePct": 0.9,
+        "name": "Crunch",
+        "totalDmg": 136
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Musharna",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Musharna",
+        "defenderHp": 191,
+        "movePct": 0.45,
+        "name": "Crunch",
+        "totalDmg": 86,
+        "evs": [75, 135, 132, 97, 2, 69]
+      },
+      "evs": [75, 135, 132, 97, 2, 69]
+    },
+    {
+      "opponent": "Pidove",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Pidove",
+        "defenderHp": 125,
+        "movePct": 1.41,
+        "name": "Stone Edge",
+        "totalDmg": 176
+      },
+      "evs": [75, 135, 132, 97, 2, 69]
+    },
+    {
+      "opponent": "Tranquill",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Tranquill",
+        "defenderHp": 137,
+        "movePct": 1.1,
+        "name": "Stone Edge",
+        "totalDmg": 151
+      },
+      "evs": [75, 135, 132, 97, 2, 69]
+    },
+    {
+      "opponent": "Roggenrola",
+      "move": {
+        "category": "special move",
+        "defenderName": "Roggenrola",
+        "defenderHp": 130,
+        "movePct": 1.72,
+        "name": "Hydro Pump",
+        "totalDmg": 224
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Boldore",
+      "move": {
+        "category": "special move",
+        "defenderName": "Boldore",
+        "defenderHp": 145,
+        "movePct": 1.17,
+        "name": "Hydro Pump",
+        "totalDmg": 169
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Woobat",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Woobat",
+        "defenderHp": 140,
+        "movePct": 1.25,
+        "name": "Stone Edge",
+        "totalDmg": 175
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Swoobat",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Swoobat",
+        "defenderHp": 142,
+        "movePct": 1.04,
+        "name": "Stone Edge",
+        "totalDmg": 148
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drilbur",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Drilbur",
+        "defenderHp": 135,
+        "movePct": 1.84,
+        "name": "Aqua Tail",
+        "totalDmg": 249
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Timburr",
+      "move": {
+        "category": "special move",
+        "defenderName": "Timburr",
+        "defenderHp": 150,
+        "movePct": 1.23,
+        "name": "Hurricane",
+        "totalDmg": 184
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gurdurr",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gurdurr",
+        "defenderHp": 160,
+        "movePct": 0.91,
+        "name": "Hurricane",
+        "totalDmg": 146
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Conkeldurr",
+      "move": {
+        "category": "special move",
+        "defenderName": "Conkeldurr",
+        "defenderHp": 180,
+        "movePct": 0.67,
+        "name": "Hurricane",
+        "totalDmg": 121
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Tympole",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Tympole",
+        "defenderHp": 125,
+        "movePct": 1.76,
+        "name": "Power Whip",
+        "totalDmg": 220
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Palpitoad",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Palpitoad",
+        "defenderHp": 150,
+        "movePct": 2.35,
+        "name": "Power Whip",
+        "totalDmg": 353
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Seismitoad",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Seismitoad",
+        "defenderHp": 180,
+        "movePct": 1.56,
+        "name": "Power Whip",
+        "totalDmg": 280
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cottonee",
+      "move": {
+        "category": "special move",
+        "defenderName": "Cottonee",
+        "defenderHp": 115,
+        "movePct": 1.27,
+        "name": "Hurricane",
+        "totalDmg": 146
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Whimsicott",
+      "move": {
+        "category": "special move",
+        "defenderName": "Whimsicott",
+        "defenderHp": 135,
+        "movePct": 0.81,
+        "name": "Hurricane",
+        "totalDmg": 109
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Basculin",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Basculin",
+        "defenderHp": 145,
+        "movePct": 1.08,
+        "name": "Power Whip",
+        "totalDmg": 156,
+        "evs": [5, 36, 153, 11, 102, 203]
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Darumaka",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Darumaka",
+        "defenderHp": 145,
+        "movePct": 1.59,
+        "name": "Aqua Tail",
+        "totalDmg": 230
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Darmanitan",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Darmanitan",
+        "defenderHp": 180,
+        "movePct": 1.11,
+        "name": "Aqua Tail",
+        "totalDmg": 200,
+        "evs": [32, 3, 10, 60, 193, 212]
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dwebble",
+      "move": {
+        "category": "special move",
+        "defenderName": "Dwebble",
+        "defenderHp": 125,
+        "movePct": 1.47,
+        "name": "Hydro Pump",
+        "totalDmg": 184
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Scraggy",
+      "move": {
+        "category": "special move",
+        "defenderName": "Scraggy",
+        "defenderHp": 125,
+        "movePct": 0.91,
+        "name": "Hurricane",
+        "totalDmg": 114
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Scrafty",
+      "move": {
+        "category": "special move",
+        "defenderName": "Scrafty",
+        "defenderHp": 140,
+        "movePct": 0.56,
+        "name": "Hurricane",
+        "totalDmg": 78
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sigilyph",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Sigilyph",
+        "defenderHp": 147,
+        "movePct": 0.76,
+        "name": "Stone Edge",
+        "totalDmg": 111
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Yamask",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Yamask",
+        "defenderHp": 113,
+        "movePct": 0.76,
+        "name": "Crunch",
+        "totalDmg": 86
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Trubbish",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Trubbish",
+        "defenderHp": 125,
+        "movePct": 1.08,
+        "name": "Earthquake",
+        "totalDmg": 135
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Minccino",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Minccino",
+        "defenderHp": 130,
+        "movePct": 0.95,
+        "name": "Aqua Tail",
+        "totalDmg": 124
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gothita",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gothita",
+        "defenderHp": 120,
+        "movePct": 1.06,
+        "name": "Crunch",
+        "totalDmg": 127
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gothorita",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gothorita",
+        "defenderHp": 135,
+        "movePct": 0.73,
+        "name": "Crunch",
+        "totalDmg": 99
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gothitelle",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gothitelle",
+        "defenderHp": 145,
+        "movePct": 0.54,
+        "name": "Crunch",
+        "totalDmg": 78
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Solosis",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Solosis",
+        "defenderHp": 120,
+        "movePct": 1.23,
+        "name": "Crunch",
+        "totalDmg": 148
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vanillite",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Vanillite",
+        "defenderHp": 111,
+        "movePct": 1.42,
+        "name": "Iron Tail",
+        "totalDmg": 158
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vanillish",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Vanillish",
+        "defenderHp": 126,
+        "movePct": 1.04,
+        "name": "Iron Tail",
+        "totalDmg": 131,
+        "evs": [130, 127, 138, 73, 36, 6]
+      },
+      "evs": [130, 127, 138, 73, 36, 6]
+    },
+    {
+      "opponent": "Karrablast",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Karrablast",
+        "defenderHp": 125,
+        "movePct": 1.36,
+        "name": "Stone Edge",
+        "totalDmg": 170
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Escavalier",
+      "move": {
+        "category": "special move",
+        "defenderName": "Escavalier",
+        "defenderHp": 145,
+        "movePct": 0.77,
+        "name": "Fire Blast",
+        "totalDmg": 112
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Frillish",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Frillish",
+        "defenderHp": 130,
+        "movePct": 1.45,
+        "name": "Power Whip",
+        "totalDmg": 189
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Jellicent",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Jellicent",
+        "defenderHp": 175,
+        "movePct": 0.85,
+        "name": "Power Whip",
+        "totalDmg": 148
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Joltik",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Joltik",
+        "defenderHp": 125,
+        "movePct": 1.26,
+        "name": "Stone Edge",
+        "totalDmg": 158,
+        "evs": [73, 51, 61, 3, 85, 237]
+      },
+      "evs": [73, 51, 61, 3, 85, 237]
+    },
+    {
+      "opponent": "Ferroseed",
+      "move": {
+        "category": "special move",
+        "defenderName": "Ferroseed",
+        "defenderHp": 119,
+        "movePct": 1.09,
+        "name": "Fire Blast",
+        "totalDmg": 130
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Klink",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Klink",
+        "defenderHp": 115,
+        "movePct": 1.07,
+        "name": "Earthquake",
+        "totalDmg": 123
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Klang",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Klang",
+        "defenderHp": 135,
+        "movePct": 0.72,
+        "name": "Earthquake",
+        "totalDmg": 97
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Elgyem",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Elgyem",
+        "defenderHp": 130,
+        "movePct": 0.92,
+        "name": "Crunch",
+        "totalDmg": 119
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Beheeyem",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Beheeyem",
+        "defenderHp": 150,
+        "movePct": 0.63,
+        "name": "Crunch",
+        "totalDmg": 94,
+        "evs": [104, 81, 6, 187, 107, 25]
+      },
+      "evs": [104, 81, 6, 187, 107, 25]
+    },
+    {
+      "opponent": "Litwick",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Litwick",
+        "defenderHp": 125,
+        "movePct": 1.7,
+        "name": "Aqua Tail",
+        "totalDmg": 213
+      },
+      "evs": [104, 81, 6, 187, 107, 25]
+    },
+    {
+      "opponent": "Lampent",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Lampent",
+        "defenderHp": 135,
+        "movePct": 1.48,
+        "name": "Aqua Tail",
+        "totalDmg": 200
+      },
+      "evs": [104, 81, 6, 187, 107, 25]
+    },
+    {
+      "opponent": "Chandelure",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Chandelure",
+        "defenderHp": 135,
+        "movePct": 1.09,
+        "name": "Aqua Tail",
+        "totalDmg": 147
+      },
+      "evs": [104, 81, 6, 187, 107, 25]
+    },
+    {
+      "opponent": "Axew",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Axew",
+        "defenderHp": 121,
+        "movePct": 1.46,
+        "name": "Outrage",
+        "totalDmg": 177
+      },
+      "evs": [104, 81, 6, 187, 107, 25]
+    },
+    {
+      "opponent": "Fraxure",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Fraxure",
+        "defenderHp": 141,
+        "movePct": 1.11,
+        "name": "Outrage",
+        "totalDmg": 157
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cubchoo",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cubchoo",
+        "defenderHp": 130,
+        "movePct": 1.42,
+        "name": "Iron Tail",
+        "totalDmg": 184
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Golett",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Golett",
+        "defenderHp": 134,
+        "movePct": 1.6,
+        "name": "Aqua Tail",
+        "totalDmg": 214
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pawniard",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Pawniard",
+        "defenderHp": 120,
+        "movePct": 1.02,
+        "name": "Earthquake",
+        "totalDmg": 123
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rufflet",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Rufflet",
+        "defenderHp": 145,
+        "movePct": 1.09,
+        "name": "Stone Edge",
+        "totalDmg": 158
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vullaby",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Vullaby",
+        "defenderHp": 145,
+        "movePct": 0.81,
+        "name": "Stone Edge",
+        "totalDmg": 117
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mandibuzz",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Mandibuzz",
+        "defenderHp": 185,
+        "movePct": 0.49,
+        "name": "Stone Edge",
+        "totalDmg": 90,
+        "evs": [16, 111, 238, 38, 105, 2]
+      },
+      "evs": [16, 111, 238, 38, 105, 2]
+    },
+    {
+      "opponent": "Heatmor",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Heatmor",
+        "defenderHp": 160,
+        "movePct": 1.19,
+        "name": "Aqua Tail",
+        "totalDmg": 191
+      },
+      "evs": [16, 111, 238, 38, 105, 2]
+    },
+    {
+      "opponent": "Deino",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Deino",
+        "defenderHp": 127,
+        "movePct": 1.49,
+        "name": "Outrage",
+        "totalDmg": 189
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Zweilous",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Zweilous",
+        "defenderHp": 147,
+        "movePct": 1.01,
+        "name": "Outrage",
+        "totalDmg": 148
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Keldeo",
+      "move": {
+        "category": "special move",
+        "defenderName": "Keldeo",
+        "defenderHp": 166,
+        "movePct": 0.76,
+        "name": "Thunder",
+        "totalDmg": 126,
+        "evs": [106, 64, 20, 3, 123, 194]
+      },
+      "evs": [106, 64, 20, 3, 123, 194]
+    },
+    {
+      "opponent": "Bunnelby",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Bunnelby",
+        "defenderHp": 113,
+        "movePct": 1.19,
+        "name": "Aqua Tail",
+        "totalDmg": 135
+      },
+      "evs": [106, 64, 20, 3, 123, 194]
+    },
+    {
+      "opponent": "Diggersby",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Diggersby",
+        "defenderHp": 160,
+        "movePct": 1.02,
+        "name": "Aqua Tail",
+        "totalDmg": 164
+      },
+      "evs": [106, 64, 20, 3, 123, 194]
+    },
+    {
+      "opponent": "Pancham",
+      "move": {
+        "category": "special move",
+        "defenderName": "Pancham",
+        "defenderHp": 142,
+        "movePct": 1.06,
+        "name": "Hurricane",
+        "totalDmg": 150,
+        "evs": [46, 141, 130, 40, 143, 10]
+      },
+      "evs": [46, 141, 130, 40, 143, 10]
+    },
+    {
+      "opponent": "Espurr",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Espurr",
+        "defenderHp": 137,
+        "movePct": 0.88,
+        "name": "Crunch",
+        "totalDmg": 120
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Meowstic",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Meowstic",
+        "defenderHp": 149,
+        "movePct": 0.62,
+        "name": "Crunch",
+        "totalDmg": 93
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Honedge",
+      "move": {
+        "category": "special move",
+        "defenderName": "Honedge",
+        "defenderHp": 120,
+        "movePct": 0.98,
+        "name": "Fire Blast",
+        "totalDmg": 118
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Doublade",
+      "move": {
+        "category": "special move",
+        "defenderName": "Doublade",
+        "defenderHp": 134,
+        "movePct": 0.73,
+        "name": "Fire Blast",
+        "totalDmg": 98,
+        "evs": [72, 133, 82, 28, 116, 79]
+      },
+      "evs": [72, 133, 82, 28, 116, 79]
+    },
+    {
+      "opponent": "Aegislash",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Aegislash",
+        "defenderHp": 135,
+        "movePct": 0.59,
+        "name": "Earthquake",
+        "totalDmg": 79
+      },
+      "evs": [72, 133, 82, 28, 116, 79]
+    },
+    {
+      "opponent": "Spritzee",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Spritzee",
+        "defenderHp": 153,
+        "movePct": 1.01,
+        "name": "Iron Tail",
+        "totalDmg": 154
+      },
+      "evs": [72, 133, 82, 28, 116, 79]
+    },
+    {
+      "opponent": "Swirlix",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Swirlix",
+        "defenderHp": 137,
+        "movePct": 0.94,
+        "name": "Iron Tail",
+        "totalDmg": 129
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Inkay",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Inkay",
+        "defenderHp": 128,
+        "movePct": 0.8,
+        "name": "Aqua Tail",
+        "totalDmg": 102
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Binacle",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Binacle",
+        "defenderHp": 117,
+        "movePct": 2.62,
+        "name": "Power Whip",
+        "totalDmg": 306
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Barbaracle",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Barbaracle",
+        "defenderHp": 147,
+        "movePct": 1.35,
+        "name": "Power Whip",
+        "totalDmg": 199
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Helioptile",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Helioptile",
+        "defenderHp": 119,
+        "movePct": 1.75,
+        "name": "Earthquake",
+        "totalDmg": 208,
+        "evs": [197, 34, 10, 146, 107, 16]
+      },
+      "evs": [197, 34, 10, 146, 107, 16]
+    },
+    {
+      "opponent": "Sylveon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Sylveon",
+        "defenderHp": 170,
+        "movePct": 0.77,
+        "name": "Iron Tail",
+        "totalDmg": 131
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Goomy",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Goomy",
+        "defenderHp": 120,
+        "movePct": 2,
+        "name": "Outrage",
+        "totalDmg": 240
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sliggoo",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Sliggoo",
+        "defenderHp": 143,
+        "movePct": 1.27,
+        "name": "Outrage",
+        "totalDmg": 181
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Phantump",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Phantump",
+        "defenderHp": 118,
+        "movePct": 1.11,
+        "name": "Crunch",
+        "totalDmg": 131
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Trevenant",
+      "move": {
+        "category": "special move",
+        "defenderName": "Trevenant",
+        "defenderHp": 160,
+        "movePct": 0.63,
+        "name": "Hurricane",
+        "totalDmg": 101,
+        "evs": [36, 49, 227, 35, 45, 118]
+      },
+      "evs": [36, 49, 227, 35, 45, 118]
+    },
+    {
+      "opponent": "Pumpkaboo",
+      "move": {
+        "category": "special move",
+        "defenderName": "Pumpkaboo",
+        "defenderHp": 124,
+        "movePct": 1.15,
+        "name": "Hurricane",
+        "totalDmg": 143
+      },
+      "evs": [36, 49, 227, 35, 45, 118]
+    },
+    {
+      "opponent": "Bergmite",
+      "move": {
+        "category": "special move",
+        "defenderName": "Bergmite",
+        "defenderHp": 130,
+        "movePct": 0.95,
+        "name": "Fire Blast",
+        "totalDmg": 123
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Noibat",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Noibat",
+        "defenderHp": 115,
+        "movePct": 2.29,
+        "name": "Ice Fang",
+        "totalDmg": 263
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Noivern",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Noivern",
+        "defenderHp": 160,
+        "movePct": 0.92,
+        "name": "Ice Fang",
+        "totalDmg": 147
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rowlet",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Rowlet",
+        "defenderHp": 143,
+        "movePct": 1.36,
+        "name": "Ice Fang",
+        "totalDmg": 194
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dartrix",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Dartrix",
+        "defenderHp": 153,
+        "movePct": 1.01,
+        "name": "Ice Fang",
+        "totalDmg": 155
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Decidueye",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Decidueye",
+        "defenderHp": 153,
+        "movePct": 0.61,
+        "name": "Crunch",
+        "totalDmg": 94,
+        "evs": [2, 2, 54, 101, 140, 211]
+      },
+      "evs": [2, 2, 54, 101, 140, 211]
+    },
+    {
+      "opponent": "Litten",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Litten",
+        "defenderHp": 120,
+        "movePct": 2.08,
+        "name": "Aqua Tail",
+        "totalDmg": 249
+      },
+      "evs": [2, 2, 54, 101, 140, 211]
+    },
+    {
+      "opponent": "Torracat",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Torracat",
+        "defenderHp": 140,
+        "movePct": 1.53,
+        "name": "Aqua Tail",
+        "totalDmg": 214
+      },
+      "evs": [2, 2, 54, 101, 140, 211]
+    },
+    {
+      "opponent": "Popplio",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Popplio",
+        "defenderHp": 125,
+        "movePct": 1.43,
+        "name": "Power Whip",
+        "totalDmg": 179
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Brionne",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Brionne",
+        "defenderHp": 135,
+        "movePct": 1.1,
+        "name": "Power Whip",
+        "totalDmg": 149
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Primarina",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Primarina",
+        "defenderHp": 155,
+        "movePct": 0.91,
+        "name": "Power Whip",
+        "totalDmg": 141
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Grubbin",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Grubbin",
+        "defenderHp": 122,
+        "movePct": 1.39,
+        "name": "Stone Edge",
+        "totalDmg": 170
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Charjabug",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Charjabug",
+        "defenderHp": 132,
+        "movePct": 0.73,
+        "name": "Stone Edge",
+        "totalDmg": 97
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cutiefly",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cutiefly",
+        "defenderHp": 115,
+        "movePct": 1.6,
+        "name": "Iron Tail",
+        "totalDmg": 184
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ribombee",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Ribombee",
+        "defenderHp": 135,
+        "movePct": 1.02,
+        "name": "Iron Tail",
+        "totalDmg": 138
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Wishiwashi",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Wishiwashi",
+        "defenderHp": 120,
+        "movePct": 2.73,
+        "name": "Power Whip",
+        "totalDmg": 328
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mareanie",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Mareanie",
+        "defenderHp": 125,
+        "movePct": 1.08,
+        "name": "Earthquake",
+        "totalDmg": 135
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Toxapex",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Toxapex",
+        "defenderHp": 125,
+        "movePct": 0.53,
+        "name": "Earthquake",
+        "totalDmg": 66
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mudbray",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Mudbray",
+        "defenderHp": 145,
+        "movePct": 1.15,
+        "name": "Aqua Tail",
+        "totalDmg": 167
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dewpider",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Dewpider",
+        "defenderHp": 113,
+        "movePct": 1.36,
+        "name": "Stone Edge",
+        "totalDmg": 154
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Araquanid",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Araquanid",
+        "defenderHp": 143,
+        "movePct": 0.7,
+        "name": "Stone Edge",
+        "totalDmg": 100
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Morelull",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Morelull",
+        "defenderHp": 115,
+        "movePct": 1.29,
+        "name": "Iron Tail",
+        "totalDmg": 148
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Shiinotic",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Shiinotic",
+        "defenderHp": 135,
+        "movePct": 0.82,
+        "name": "Iron Tail",
+        "totalDmg": 111
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Salandit",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Salandit",
+        "defenderHp": 123,
+        "movePct": 2.99,
+        "name": "Earthquake",
+        "totalDmg": 368
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Salazzle",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Salazzle",
+        "defenderHp": 143,
+        "movePct": 1.94,
+        "name": "Earthquake",
+        "totalDmg": 277,
+        "evs": [77, 59, 93, 148, 64, 69]
+      },
+      "evs": [77, 59, 93, 148, 64, 69]
+    },
+    {
+      "opponent": "Stufful",
+      "move": {
+        "category": "special move",
+        "defenderName": "Stufful",
+        "defenderHp": 145,
+        "movePct": 1.23,
+        "name": "Hurricane",
+        "totalDmg": 179
+      },
+      "evs": [77, 59, 93, 148, 64, 69]
+    },
+    {
+      "opponent": "Bounsweet",
+      "move": {
+        "category": "special move",
+        "defenderName": "Bounsweet",
+        "defenderHp": 117,
+        "movePct": 1.5,
+        "name": "Hurricane",
+        "totalDmg": 175
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Steenee",
+      "move": {
+        "category": "special move",
+        "defenderName": "Steenee",
+        "defenderHp": 127,
+        "movePct": 1.18,
+        "name": "Hurricane",
+        "totalDmg": 150
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Oranguru",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Oranguru",
+        "defenderHp": 165,
+        "movePct": 0.55,
+        "name": "Crunch",
+        "totalDmg": 90,
+        "evs": [127, 183, 30, 57, 57, 56]
+      },
+      "evs": [127, 183, 30, 57, 57, 56]
+    },
+    {
+      "opponent": "Passimian",
+      "move": {
+        "category": "special move",
+        "defenderName": "Passimian",
+        "defenderHp": 175,
+        "movePct": 0.79,
+        "name": "Hurricane",
+        "totalDmg": 139,
+        "evs": [149, 4, 91, 49, 105, 112]
+      },
+      "evs": [149, 4, 91, 49, 105, 112]
+    },
+    {
+      "opponent": "Wimpod",
+      "move": {
+        "category": "special move",
+        "defenderName": "Wimpod",
+        "defenderHp": 100,
+        "movePct": 2.17,
+        "name": "Hurricane",
+        "totalDmg": 217
+      },
+      "evs": [149, 4, 91, 49, 105, 112]
+    },
+    {
+      "opponent": "Golisopod",
+      "move": {
+        "category": "special move",
+        "defenderName": "Golisopod",
+        "defenderHp": 150,
+        "movePct": 0.67,
+        "name": "Hurricane",
+        "totalDmg": 101
+      },
+      "evs": [149, 4, 91, 49, 105, 112]
+    },
+    {
+      "opponent": "Mimikyu",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Mimikyu",
+        "defenderHp": 130,
+        "movePct": 0.85,
+        "name": "Iron Tail",
+        "totalDmg": 111
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Jangmo-o",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Jangmo-o",
+        "defenderHp": 120,
+        "movePct": 1.3,
+        "name": "Outrage",
+        "totalDmg": 156
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hakamo-o",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Hakamo-o",
+        "defenderHp": 130,
+        "movePct": 0.93,
+        "name": "Outrage",
+        "totalDmg": 121
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Meltan",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Meltan",
+        "defenderHp": 121,
+        "movePct": 1.08,
+        "name": "Earthquake",
+        "totalDmg": 131
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Grookey",
+      "move": {
+        "category": "special move",
+        "defenderName": "Grookey",
+        "defenderHp": 125,
+        "movePct": 1.35,
+        "name": "Hurricane",
+        "totalDmg": 169
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Thwackey",
+      "move": {
+        "category": "special move",
+        "defenderName": "Thwackey",
+        "defenderHp": 145,
+        "movePct": 0.88,
+        "name": "Hurricane",
+        "totalDmg": 128,
+        "evs": [165, 11, 51, 100, 17, 166]
+      },
+      "evs": [165, 11, 51, 100, 17, 166]
+    },
+    {
+      "opponent": "Scorbunny",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Scorbunny",
+        "defenderHp": 125,
+        "movePct": 1.99,
+        "name": "Aqua Tail",
+        "totalDmg": 249
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Raboot",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Raboot",
+        "defenderHp": 140,
+        "movePct": 1.34,
+        "name": "Aqua Tail",
+        "totalDmg": 188,
+        "evs": [13, 109, 21, 125, 134, 108]
+      },
+      "evs": [13, 109, 21, 125, 134, 108]
+    },
+    {
+      "opponent": "Cinderace",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cinderace",
+        "defenderHp": 155,
+        "movePct": 1.12,
+        "name": "Aqua Tail",
+        "totalDmg": 174
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sobble",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Sobble",
+        "defenderHp": 125,
+        "movePct": 1.76,
+        "name": "Power Whip",
+        "totalDmg": 220
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drizzile",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Drizzile",
+        "defenderHp": 140,
+        "movePct": 1.26,
+        "name": "Power Whip",
+        "totalDmg": 176,
+        "evs": [114, 86, 44, 34, 112, 120]
+      },
+      "evs": [114, 86, 44, 34, 112, 120]
+    },
+    {
+      "opponent": "Inteleon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Inteleon",
+        "defenderHp": 145,
+        "movePct": 1.16,
+        "name": "Power Whip",
+        "totalDmg": 168
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Skwovet",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Skwovet",
+        "defenderHp": 145,
+        "movePct": 0.69,
+        "name": "Aqua Tail",
+        "totalDmg": 100
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rookidee",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Rookidee",
+        "defenderHp": 113,
+        "movePct": 1.77,
+        "name": "Stone Edge",
+        "totalDmg": 200
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Corvisquire",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Corvisquire",
+        "defenderHp": 143,
+        "movePct": 1.03,
+        "name": "Stone Edge",
+        "totalDmg": 148
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Blipbug",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Blipbug",
+        "defenderHp": 100,
+        "movePct": 2.82,
+        "name": "Stone Edge",
+        "totalDmg": 282
+      },
+      "evs": [170, 29, 180, 80, 43, 8]
+    },
+    {
+      "opponent": "Dottler",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Dottler",
+        "defenderHp": 125,
+        "movePct": 0.91,
+        "name": "Stone Edge",
+        "totalDmg": 114
+      },
+      "evs": [170, 29, 180, 80, 43, 8]
+    },
+    {
+      "opponent": "Orbeetle",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Orbeetle",
+        "defenderHp": 135,
+        "movePct": 0.66,
+        "name": "Stone Edge",
+        "totalDmg": 89,
+        "evs": [108, 20, 184, 54, 38, 106]
+      },
+      "evs": [108, 20, 184, 54, 38, 106]
+    },
+    {
+      "opponent": "Nickit",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Nickit",
+        "defenderHp": 115,
+        "movePct": 1.37,
+        "name": "Aqua Tail",
+        "totalDmg": 158
+      },
+      "evs": [108, 20, 184, 54, 38, 106]
+    },
+    {
+      "opponent": "Thievul",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Thievul",
+        "defenderHp": 145,
+        "movePct": 0.68,
+        "name": "Aqua Tail",
+        "totalDmg": 98
+      },
+      "evs": [108, 20, 184, 54, 38, 106]
+    },
+    {
+      "opponent": "Gossifleur",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gossifleur",
+        "defenderHp": 115,
+        "movePct": 1.21,
+        "name": "Hurricane",
+        "totalDmg": 139
+      },
+      "evs": [108, 20, 184, 54, 38, 106]
+    },
+    {
+      "opponent": "Eldegoss",
+      "move": {
+        "category": "special move",
+        "defenderName": "Eldegoss",
+        "defenderHp": 135,
+        "movePct": 0.6,
+        "name": "Hurricane",
+        "totalDmg": 81
+      },
+      "evs": [108, 20, 184, 54, 38, 106]
+    },
+    {
+      "opponent": "Wooloo",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Wooloo",
+        "defenderHp": 117,
+        "movePct": 0.87,
+        "name": "Aqua Tail",
+        "totalDmg": 102
+      },
+      "evs": [108, 20, 184, 54, 38, 106]
+    },
+    {
+      "opponent": "Chewtle",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Chewtle",
+        "defenderHp": 125,
+        "movePct": 1.51,
+        "name": "Power Whip",
+        "totalDmg": 189
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drednaw",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Drednaw",
+        "defenderHp": 165,
+        "movePct": 1.47,
+        "name": "Power Whip",
+        "totalDmg": 243
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Yamper",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Yamper",
+        "defenderHp": 134,
+        "movePct": 1.18,
+        "name": "Earthquake",
+        "totalDmg": 158
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rolycoly",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Rolycoly",
+        "defenderHp": 105,
+        "movePct": 2.04,
+        "name": "Aqua Tail",
+        "totalDmg": 214
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Carkol",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Carkol",
+        "defenderHp": 155,
+        "movePct": 1.78,
+        "name": "Aqua Tail",
+        "totalDmg": 276
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Coalossal",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Coalossal",
+        "defenderHp": 185,
+        "movePct": 1.18,
+        "name": "Aqua Tail",
+        "totalDmg": 219
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Applin",
+      "move": {
+        "category": "special move",
+        "defenderName": "Applin",
+        "defenderHp": 115,
+        "movePct": 1.97,
+        "name": "Blizzard",
+        "totalDmg": 226
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Flapple",
+      "move": {
+        "category": "special move",
+        "defenderName": "Flapple",
+        "defenderHp": 145,
+        "movePct": 1.18,
+        "name": "Blizzard",
+        "totalDmg": 171
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Silicobra",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Silicobra",
+        "defenderHp": 127,
+        "movePct": 1.25,
+        "name": "Aqua Tail",
+        "totalDmg": 159
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sandaconda",
+      "move": {
+        "category": "special move",
+        "defenderName": "Sandaconda",
+        "defenderHp": 147,
+        "movePct": 0.78,
+        "name": "Hydro Pump",
+        "totalDmg": 114
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cramorant",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cramorant",
+        "defenderHp": 145,
+        "movePct": 1.02,
+        "name": "Stone Edge",
+        "totalDmg": 148,
+        "evs": [100, 22, 39, 144, 28, 177]
+      },
+      "evs": [100, 22, 39, 144, 28, 177]
+    },
+    {
+      "opponent": "Arrokuda",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Arrokuda",
+        "defenderHp": 116,
+        "movePct": 1.93,
+        "name": "Power Whip",
+        "totalDmg": 224
+      },
+      "evs": [100, 22, 39, 144, 28, 177]
+    },
+    {
+      "opponent": "Barraskewda",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Barraskewda",
+        "defenderHp": 136,
+        "movePct": 1.24,
+        "name": "Power Whip",
+        "totalDmg": 169
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Toxel",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Toxel",
+        "defenderHp": 115,
+        "movePct": 3.49,
+        "name": "Earthquake",
+        "totalDmg": 401
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Toxtricity",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Toxtricity",
+        "defenderHp": 150,
+        "movePct": 1.65,
+        "name": "Earthquake",
+        "totalDmg": 247
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sizzlipede",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Sizzlipede",
+        "defenderHp": 125,
+        "movePct": 2.72,
+        "name": "Stone Edge",
+        "totalDmg": 340
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Centiskorch",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Centiskorch",
+        "defenderHp": 175,
+        "movePct": 1.5,
+        "name": "Stone Edge",
+        "totalDmg": 262
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Clobbopus",
+      "move": {
+        "category": "special move",
+        "defenderName": "Clobbopus",
+        "defenderHp": 125,
+        "movePct": 1.17,
+        "name": "Hurricane",
+        "totalDmg": 146
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Grapploct",
+      "move": {
+        "category": "special move",
+        "defenderName": "Grapploct",
+        "defenderHp": 155,
+        "movePct": 0.66,
+        "name": "Hurricane",
+        "totalDmg": 103
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sinistea",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Sinistea",
+        "defenderHp": 115,
+        "movePct": 1.18,
+        "name": "Crunch",
+        "totalDmg": 136
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Polteageist",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Polteageist",
+        "defenderHp": 135,
+        "movePct": 0.78,
+        "name": "Crunch",
+        "totalDmg": 105
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hatenna",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Hatenna",
+        "defenderHp": 117,
+        "movePct": 1.16,
+        "name": "Crunch",
+        "totalDmg": 136
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hattrem",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Hattrem",
+        "defenderHp": 132,
+        "movePct": 0.8,
+        "name": "Crunch",
+        "totalDmg": 105
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Impidimp",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Impidimp",
+        "defenderHp": 120,
+        "movePct": 1.83,
+        "name": "Iron Tail",
+        "totalDmg": 220
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Morgrem",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Morgrem",
+        "defenderHp": 140,
+        "movePct": 1.21,
+        "name": "Iron Tail",
+        "totalDmg": 170
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sirfetch'd",
+      "move": {
+        "category": "special move",
+        "defenderName": "Sirfetch'd",
+        "defenderHp": 137,
+        "movePct": 0.74,
+        "name": "Hurricane",
+        "totalDmg": 101
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Milcery",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Milcery",
+        "defenderHp": 120,
+        "movePct": 1.53,
+        "name": "Iron Tail",
+        "totalDmg": 184
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Alcremie",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Alcremie",
+        "defenderHp": 140,
+        "movePct": 0.84,
+        "name": "Iron Tail",
+        "totalDmg": 117
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Falinks",
+      "move": {
+        "category": "special move",
+        "defenderName": "Falinks",
+        "defenderHp": 140,
+        "movePct": 0.91,
+        "name": "Hurricane",
+        "totalDmg": 128
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Snom",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Snom",
+        "defenderHp": 105,
+        "movePct": 3.82,
+        "name": "Stone Edge",
+        "totalDmg": 401
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Frosmoth",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Frosmoth",
+        "defenderHp": 145,
+        "movePct": 1.91,
+        "name": "Stone Edge",
+        "totalDmg": 277,
+        "evs": [185, 163, 35, 5, 89, 33]
+      },
+      "evs": [185, 163, 35, 5, 89, 33]
+    },
+    {
+      "opponent": "Stonjourner",
+      "move": {
+        "category": "special move",
+        "defenderName": "Stonjourner",
+        "defenderHp": 175,
+        "movePct": 1.46,
+        "name": "Hydro Pump",
+        "totalDmg": 255
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Indeedee",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Indeedee",
+        "defenderHp": 135,
+        "movePct": 0.88,
+        "name": "Crunch",
+        "totalDmg": 119
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cufant",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Cufant",
+        "defenderHp": 147,
+        "movePct": 1.09,
+        "name": "Earthquake",
+        "totalDmg": 160
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dracovish",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Dracovish",
+        "defenderHp": 165,
+        "movePct": 0.67,
+        "name": "Outrage",
+        "totalDmg": 111,
+        "evs": [187, 12, 95, 24, 95, 97]
+      },
+      "evs": [187, 12, 95, 24, 95, 97]
+    },
+    {
+      "opponent": "Arctovish",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Arctovish",
+        "defenderHp": 165,
+        "movePct": 0.68,
+        "name": "Power Whip",
+        "totalDmg": 113
+      },
+      "evs": [187, 12, 95, 24, 95, 97]
+    },
+    {
+      "opponent": "Dreepy",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Dreepy",
+        "defenderHp": 103,
+        "movePct": 2.55,
+        "name": "Outrage",
+        "totalDmg": 263,
+        "evs": [164, 120, 20, 40, 29, 137]
+      },
+      "evs": [164, 120, 20, 40, 29, 137]
+    },
+    {
+      "opponent": "Drakloak",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Drakloak",
+        "defenderHp": 143,
+        "movePct": 1.45,
+        "name": "Outrage",
+        "totalDmg": 208
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Eternatus",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Eternatus",
+        "defenderHp": 215,
+        "movePct": 0.54,
+        "name": "Outrage",
+        "totalDmg": 116,
+        "evs": [27, 211, 24, 94, 128, 26]
+      },
+      "evs": [27, 211, 24, 94, 128, 26]
+    }
+  ],
+  "losses": [
+    {
+      "opponent": "Raichu",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 1.07,
+        "name": "Volt Tackle",
+        "totalDmg": 182
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Clefable",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.56,
+        "name": "Thunder",
+        "totalDmg": 96
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dugtrio",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 171,
+        "movePct": 0.59,
+        "name": "Stone Edge",
+        "totalDmg": 101
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Machamp",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 187,
+        "movePct": 0.68,
+        "name": "Stone Edge",
+        "totalDmg": 128
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gengar",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.74,
+        "name": "Thunder",
+        "totalDmg": 125
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hitmonlee",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 184,
+        "movePct": 0.57,
+        "name": "Stone Edge",
+        "totalDmg": 104
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hitmonchan",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.68,
+        "name": "Stone Edge",
+        "totalDmg": 115
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Koffing",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.56,
+        "name": "Explosion",
+        "totalDmg": 96
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Weezing",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.73,
+        "name": "Explosion",
+        "totalDmg": 124
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gyarados",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.78,
+        "name": "Stone Edge",
+        "totalDmg": 132
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Snorlax",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mewtwo",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.85,
+        "name": "Thunder",
+        "totalDmg": 144
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mew",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.49,
+        "name": "Thunder Punch",
+        "totalDmg": 84
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lanturn",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 171,
+        "movePct": 0.58,
+        "name": "Thunder",
+        "totalDmg": 99
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sudowoodo",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 175,
+        "movePct": 1.2,
+        "name": "Head Smash",
+        "totalDmg": 210
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Umbreon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.04,
+        "name": "Double Kick",
+        "totalDmg": 6
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Tyranitar",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 1.24,
+        "name": "Stone Edge",
+        "totalDmg": 211
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Shiftry",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 172,
+        "movePct": 0.61,
+        "name": "Explosion",
+        "totalDmg": 105
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Manectric",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.92,
+        "name": "Thunder",
+        "totalDmg": 157
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Roselia",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.52,
+        "name": "Leaf Storm",
+        "totalDmg": 88
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Wailord",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Torkoal",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.57,
+        "name": "Stone Edge",
+        "totalDmg": 97
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Solrock",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.94,
+        "name": "Stone Edge",
+        "totalDmg": 159
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Claydol",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": null,
+        "name": "Mud-Slap",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drifblim",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 186,
+        "movePct": 0.55,
+        "name": "Explosion",
+        "totalDmg": 102
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Munchlax",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 194,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lucario",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.7,
+        "name": "Stone Edge",
+        "totalDmg": 119
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hippowdon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.71,
+        "name": "Stone Edge",
+        "totalDmg": 121
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Toxicroak",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.68,
+        "name": "Stone Edge",
+        "totalDmg": 116
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Abomasnow",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Weavile",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.54,
+        "name": "Foul Play",
+        "totalDmg": 91
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gallade",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.78,
+        "name": "Stone Edge",
+        "totalDmg": 132
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rotom",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.56,
+        "name": "Thunder",
+        "totalDmg": 96
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Unfezant",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 179,
+        "movePct": 0.53,
+        "name": "Brave Bird",
+        "totalDmg": 95
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gigalith",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 1.25,
+        "name": "Stone Edge",
+        "totalDmg": 212
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Excadrill",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.63,
+        "name": "Rock Slide",
+        "totalDmg": 107
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Throh",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.65,
+        "name": "Stone Edge",
+        "totalDmg": 110
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Sawk",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.78,
+        "name": "Stone Edge",
+        "totalDmg": 132
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Maractus",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.55,
+        "name": "Leaf Storm",
+        "totalDmg": 93
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Crustle",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 1.01,
+        "name": "Stone Edge",
+        "totalDmg": 172
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cofagrigus",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.31,
+        "name": "Shadow Ball",
+        "totalDmg": 53
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Garbodor",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.76,
+        "name": "Explosion",
+        "totalDmg": 129
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cinccino",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.65,
+        "name": "Last Resort",
+        "totalDmg": 110
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Duosion",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.71,
+        "name": "Thunder",
+        "totalDmg": 120
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Reuniclus",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.71,
+        "name": "Thunder",
+        "totalDmg": 120
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vanilluxe",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 186,
+        "movePct": 0.6,
+        "name": "Explosion",
+        "totalDmg": 111
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Galvantula",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 179,
+        "movePct": 0.75,
+        "name": "Thunder",
+        "totalDmg": 135
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Ferrothorn",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.75,
+        "name": "Explosion",
+        "totalDmg": 128
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Klinklang",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.59,
+        "name": "Wild Charge",
+        "totalDmg": 100
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Haxorus",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.8,
+        "name": "Outrage",
+        "totalDmg": 136
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Beartic",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.81,
+        "name": "Stone Edge",
+        "totalDmg": 137
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Shelmet",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Accelgor",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Stunfisk",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.75,
+        "name": "Thunder",
+        "totalDmg": 128
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Golurk",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.78,
+        "name": "Stone Edge",
+        "totalDmg": 132
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Bisharp",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.78,
+        "name": "Stone Edge",
+        "totalDmg": 132
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Braviary",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.69,
+        "name": "Thrash",
+        "totalDmg": 117
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Durant",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 172,
+        "movePct": 0.53,
+        "name": "Stone Edge",
+        "totalDmg": 92
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hydreigon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 1,
+        "name": "Head Smash",
+        "totalDmg": 170
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cobalion",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.59,
+        "name": "Stone Edge",
+        "totalDmg": 101
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Terrakion",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 1.2,
+        "name": "Stone Edge",
+        "totalDmg": 204
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Virizion",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.59,
+        "name": "Stone Edge",
+        "totalDmg": 101
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Reshiram",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.75,
+        "name": "Stone Edge",
+        "totalDmg": 128
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Zekrom",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 1.76,
+        "name": "Bolt Strike",
+        "totalDmg": 300
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Kyurem",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.81,
+        "name": "Stone Edge",
+        "totalDmg": 137
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pangoro",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 176,
+        "movePct": 0.65,
+        "name": "Stone Edge",
+        "totalDmg": 114
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Aromatisse",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 179,
+        "movePct": 0.5,
+        "name": "Thunder",
+        "totalDmg": 89
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Slurpuff",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.52,
+        "name": "Thunder",
+        "totalDmg": 88
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Malamar",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.46,
+        "name": "Rock Slide",
+        "totalDmg": 78
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Heliolisk",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 195,
+        "movePct": 0.75,
+        "name": "Thunder",
+        "totalDmg": 146
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hawlucha",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.61,
+        "name": "Stone Edge",
+        "totalDmg": 103
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Goodra",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.64,
+        "name": "Thunder",
+        "totalDmg": 108
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Gourgeist",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 175,
+        "movePct": 0.55,
+        "name": "Explosion",
+        "totalDmg": 97
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Avalugg",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.74,
+        "name": "Stone Edge",
+        "totalDmg": 125
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Incineroar",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.52,
+        "name": "Thunder Punch",
+        "totalDmg": 88
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Vikavolt",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.99,
+        "name": "Thunderbolt",
+        "totalDmg": 169
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mudsdale",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Bewear",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 180,
+        "movePct": 0.59,
+        "name": "Thrash",
+        "totalDmg": 106
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Tsareena",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.67,
+        "name": "Power Whip",
+        "totalDmg": 114
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Type: Null",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 189,
+        "movePct": 0.39,
+        "name": "Rock Slide",
+        "totalDmg": 73
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Silvally",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": null,
+        "name": "Multi-Attack",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Turtonator",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.79,
+        "name": "Head Smash",
+        "totalDmg": 134
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Togedemaru",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.86,
+        "name": "Wild Charge",
+        "totalDmg": 147
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Drampa",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.76,
+        "name": "Thunder",
+        "totalDmg": 129
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dhelmise",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.72,
+        "name": "Power Whip",
+        "totalDmg": 123
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Kommo-o",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.63,
+        "name": "Outrage",
+        "totalDmg": 107
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Solgaleo",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.84,
+        "name": "Stone Edge",
+        "totalDmg": 143
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Lunala",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.76,
+        "name": "Thunder",
+        "totalDmg": 130
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Necrozma",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.68,
+        "name": "Stone Edge",
+        "totalDmg": 116
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Marshadow",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.78,
+        "name": "Stone Edge",
+        "totalDmg": 132
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Zeraora",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": null,
+        "name": "Power-Up Punch",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Melmetal",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.66,
+        "name": "Thunder Punch",
+        "totalDmg": 112
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Rillaboom",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 191,
+        "movePct": 0.59,
+        "name": "Wood Hammer",
+        "totalDmg": 112
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Greedent",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.65,
+        "name": "Last Resort",
+        "totalDmg": 110
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Corviknight",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.52,
+        "name": "Brave Bird",
+        "totalDmg": 88
+      },
+      "evs": [170, 29, 180, 80, 43, 8]
+    },
+    {
+      "opponent": "Dubwool",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 184,
+        "movePct": 0.42,
+        "name": "Last Resort",
+        "totalDmg": 78
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Boltund",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Appletun",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.51,
+        "name": "Outrage",
+        "totalDmg": 87
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Hatterene",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.62,
+        "name": "Future Sight",
+        "totalDmg": 105
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Grimmsnarl",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.57,
+        "name": "Thunder Punch",
+        "totalDmg": 97
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Obstagoon",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.54,
+        "name": "Mega Kick",
+        "totalDmg": 91
+      },
+      "evs": [24, 135, 169, 43, 76, 63]
+    },
+    {
+      "opponent": "Perrserker",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 173,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Cursola",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.92,
+        "name": "Head Smash",
+        "totalDmg": 157
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Mr. Rime",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.64,
+        "name": "Thunder",
+        "totalDmg": 108
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Runerigus",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.62,
+        "name": "Stone Edge",
+        "totalDmg": 106
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Pincurchin",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.82,
+        "name": "Thunder",
+        "totalDmg": 140
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Eiscue",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Morpeko",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 1.02,
+        "name": "Aura Wheel",
+        "totalDmg": 174
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Copperajah",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": null,
+        "name": "Double-Edge",
+        "totalDmg": null
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dracozolt",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.88,
+        "name": "Wild Charge",
+        "totalDmg": 150
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Arctozolt",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.88,
+        "name": "Wild Charge",
+        "totalDmg": 150
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Duraludon",
+      "move": {
+        "category": "special move",
+        "defenderName": "Gyarados",
+        "defenderHp": 193,
+        "movePct": 0.55,
+        "name": "Thunder",
+        "totalDmg": 106
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Dragapult",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.67,
+        "name": "Outrage",
+        "totalDmg": 114
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Zacian",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.73,
+        "name": "Wild Charge",
+        "totalDmg": 124
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    },
+    {
+      "opponent": "Zamazenta",
+      "move": {
+        "category": "physical move",
+        "defenderName": "Gyarados",
+        "defenderHp": 170,
+        "movePct": 0.73,
+        "name": "Wild Charge",
+        "totalDmg": 124
+      },
+      "evs": [0, 0, 0, 0, 0, 0]
+    }
+  ]
+}
