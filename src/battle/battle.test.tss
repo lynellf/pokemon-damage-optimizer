@@ -1,0 +1,28 @@
+import { getAttacks, performDamageCalculation } from "./battle";
+import Monster from "../pokemon/pokemon";
+
+describe("a battle simulator", () => {
+  it("gets returns a list of attacks for charizard", () => {
+    const attacks = getAttacks({ mon: "Charizard" });
+    expect(attacks.length).toBeGreaterThan(0);
+  });
+
+  it("returns battle results between attacker and defender", () => {
+    const charizard = new Monster("Charizard");
+    const blastoise = new Monster("Blastoise");
+    const attacks = getAttacks({ mon: "Charizard" });
+    let results = attacks.map(a =>
+      performDamageCalculation({
+        attacker: charizard,
+        defender: blastoise,
+        move: a,
+        cse: 'worst'
+      })
+    );
+    const compare = (a: any, b: any) => a.movePct > b.movePct ? -1 : 1
+    results = results.sort(compare)
+    const hasResults = results.length > 0
+    console.log(results)
+    expect(hasResults).toBe(true)
+  });
+});
