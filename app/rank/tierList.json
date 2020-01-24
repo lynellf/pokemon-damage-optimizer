@@ -1,0 +1,3767 @@
+[
+  {
+    "name": "Zacian",
+    "points": 33674,
+    "topMoves": [
+      ["Close Combat", 105],
+      ["Wild Charge", 61],
+      ["Crunch", 49],
+      ["Ice Fang", 39]
+    ]
+  },
+  {
+    "name": "Mewtwo",
+    "points": 32684,
+    "topMoves": [
+      ["Future Sight", 91],
+      ["Focus Blast", 72],
+      ["Blizzard", 67],
+      ["Thunder", 34]
+    ]
+  },
+  {
+    "name": "Zamazenta",
+    "points": 31592,
+    "topMoves": [
+      ["Close Combat", 102],
+      ["Wild Charge", 60],
+      ["Crunch", 45],
+      ["Ice Fang", 38]
+    ]
+  },
+  {
+    "name": "Reshiram",
+    "points": 31318,
+    "topMoves": [
+      ["Blue Flare", 200],
+      ["Focus Blast", 51],
+      ["Outrage", 45],
+      ["Earth Power", 19]
+    ]
+  },
+  {
+    "name": "Solgaleo",
+    "points": 30870,
+    "topMoves": [
+      ["Future Sight", 58],
+      ["Sunsteel Strike", 51],
+      ["Flare Blitz", 48],
+      ["Earthquake", 34]
+    ]
+  },
+  {
+    "name": "Zekrom",
+    "points": 30756,
+    "topMoves": [
+      ["Bolt Strike", 150],
+      ["Outrage", 71],
+      ["Stone Edge", 68],
+      ["Focus Blast", 47]
+    ]
+  },
+  {
+    "name": "Necrozma",
+    "points": 21097,
+    "topMoves": [
+      ["Future Sight", 138],
+      ["Heat Wave", 76],
+      ["Earth Power", 27],
+      ["Stone Edge", 27]
+    ]
+  },
+  {
+    "name": "Marshadow",
+    "points": 19919,
+    "topMoves": [
+      ["Close Combat", 136],
+      ["Spectral Thief", 53],
+      ["Stone Edge", 50],
+      ["Focus Blast", 42]
+    ]
+  },
+  {
+    "name": "Jirachi",
+    "points": 16643,
+    "topMoves": [
+      ["Doom Desire", 164],
+      ["Future Sight", 62],
+      ["Thunder", 35],
+      ["Energy Ball", 9]
+    ]
+  },
+  {
+    "name": "Goodra",
+    "points": 15451,
+    "topMoves": [
+      ["Outrage", 46],
+      ["Blizzard", 45],
+      ["Focus Blast", 42],
+      ["Power Whip", 40]
+    ]
+  },
+  {
+    "name": "Lunala",
+    "points": 12608,
+    "topMoves": [
+      ["Future Sight", 91],
+      ["Focus Blast", 66],
+      ["Blizzard", 54],
+      ["Moongeist Beam", 49]
+    ]
+  },
+  {
+    "name": "Eternatus",
+    "points": 12551,
+    "topMoves": [
+      ["Sludge Wave", 167],
+      ["Flamethrower", 67],
+      ["Dragon Pulse", 48],
+      ["Shadow Ball", 29]
+    ]
+  },
+  {
+    "name": "Gyarados",
+    "points": 11756,
+    "topMoves": [
+      ["Aqua Tail", 52],
+      ["Hurricane", 49],
+      ["Power Whip", 43],
+      ["Stone Edge", 39]
+    ]
+  },
+  {
+    "name": "Kommo-o",
+    "points": 11145,
+    "topMoves": [
+      ["Focus Punch", 158],
+      ["Outrage", 39],
+      ["Focus Blast", 38],
+      ["Flamethrower", 14]
+    ]
+  },
+  {
+    "name": "Chandelure",
+    "points": 9899,
+    "topMoves": [
+      ["Overheat", 189],
+      ["Shadow Ball", 51],
+      ["Energy Ball", 41],
+      ["Psychic", 5]
+    ]
+  },
+  {
+    "name": "Turtonator",
+    "points": 9848,
+    "topMoves": [
+      ["Shell Trap", 132],
+      ["Explosion", 62],
+      ["Head Smash", 49],
+      ["Focus Blast", 30]
+    ]
+  },
+  {
+    "name": "Haxorus",
+    "points": 9426,
+    "topMoves": [
+      ["Outrage", 120],
+      ["Superpower", 57],
+      ["Earthquake", 47],
+      ["First Impression", 32]
+    ]
+  },
+  {
+    "name": "Kyurem",
+    "points": 9209,
+    "topMoves": [
+      ["Blizzard", 126],
+      ["Outrage", 50],
+      ["Focus Blast", 46],
+      ["Stone Edge", 23]
+    ]
+  },
+  {
+    "name": "Terrakion",
+    "points": 7928,
+    "topMoves": [
+      ["Close Combat", 112],
+      ["Stone Edge", 90],
+      ["Megahorn", 29],
+      ["Earthquake", 26]
+    ]
+  },
+  {
+    "name": "Blastoise",
+    "points": 7806,
+    "topMoves": [
+      ["Water Spout", 148],
+      ["Focus Blast", 69],
+      ["Blizzard", 19],
+      ["Rock Slide", 12]
+    ]
+  },
+  {
+    "name": "Dusknoir",
+    "points": 7468,
+    "topMoves": [
+      ["Earthquake", 51],
+      ["Focus Blast", 37],
+      ["Blizzard", 28],
+      ["Thunder Punch", 28]
+    ]
+  },
+  {
+    "name": "Reuniclus",
+    "points": 7207,
+    "topMoves": [
+      ["Future Sight", 142],
+      ["Focus Blast", 64],
+      ["Thunder", 35],
+      ["Shadow Ball", 22]
+    ]
+  },
+  {
+    "name": "Corviknight",
+    "points": 7001,
+    "topMoves": [
+      ["Brave Bird", 220],
+      ["Iron Head", 38],
+      ["Body Press", 14],
+      ["Flash Cannon", 11]
+    ]
+  },
+  {
+    "name": "Braviary",
+    "points": 6716,
+    "topMoves": [
+      ["Thrash", 126],
+      ["Brave Bird", 111],
+      ["Superpower", 50],
+      ["Heat Wave", 3]
+    ]
+  },
+  {
+    "name": "Charizard",
+    "points": 6632,
+    "topMoves": [
+      ["Overheat", 143],
+      ["Hurricane", 54],
+      ["Focus Blast", 38],
+      ["Earthquake", 19]
+    ]
+  },
+  {
+    "name": "Mew",
+    "points": 6567,
+    "topMoves": [
+      ["Psychic", 69],
+      ["Aura Sphere", 30],
+      ["Giga Drain", 28],
+      ["Fire Punch", 24]
+    ]
+  },
+  {
+    "name": "Gardevoir",
+    "points": 6357,
+    "topMoves": [
+      ["Future Sight", 133],
+      ["Moonblast", 42],
+      ["Focus Blast", 38],
+      ["Energy Ball", 21]
+    ]
+  },
+  {
+    "name": "Golisopod",
+    "points": 6245,
+    "topMoves": [
+      ["First Impression", 75],
+      ["Liquidation", 49],
+      ["Close Combat", 44],
+      ["Poison Jab", 19]
+    ]
+  },
+  {
+    "name": "Primarina",
+    "points": 6206,
+    "topMoves": [
+      ["Hydro Pump", 137],
+      ["Moonblast", 51],
+      ["Blizzard", 42],
+      ["Energy Ball", 38]
+    ]
+  },
+  {
+    "name": "Hydreigon",
+    "points": 5964,
+    "topMoves": [
+      ["Head Smash", 64],
+      ["Focus Blast", 43],
+      ["Outrage", 35],
+      ["Belch", 28]
+    ]
+  },
+  {
+    "name": "Gallade",
+    "points": 5726,
+    "topMoves": [
+      ["Close Combat", 92],
+      ["Stone Edge", 36],
+      ["Leaf Blade", 33],
+      ["Earthquake", 27]
+    ]
+  },
+  {
+    "name": "Lucario",
+    "points": 5284,
+    "topMoves": [
+      ["High Jump Kick", 78],
+      ["Focus Blast", 70],
+      ["Stone Edge", 29],
+      ["Earthquake", 26]
+    ]
+  },
+  {
+    "name": "Melmetal",
+    "points": 5222,
+    "topMoves": [
+      ["Superpower", 54],
+      ["Ice Punch", 47],
+      ["Darkest Lariat", 43],
+      ["Iron Head", 43]
+    ]
+  },
+  {
+    "name": "Rillaboom",
+    "points": 4249,
+    "topMoves": [
+      ["Wood Hammer", 136],
+      ["Superpower", 45],
+      ["Earthquake", 36],
+      ["Mega Kick", 32]
+    ]
+  },
+  {
+    "name": "Oranguru",
+    "points": 3585,
+    "topMoves": [
+      ["Future Sight", 111],
+      ["Last Resort", 55],
+      ["Focus Blast", 48],
+      ["Thunder", 29]
+    ]
+  },
+  {
+    "name": "Celebi",
+    "points": 3495,
+    "topMoves": [
+      ["Leaf Storm", 139],
+      ["Future Sight", 67],
+      ["Earth Power", 25],
+      ["Leaf Blade", 14]
+    ]
+  },
+  {
+    "name": "Togekiss",
+    "points": 2989,
+    "topMoves": [
+      ["Dazzling Gleam", 67],
+      ["Air Slash", 45],
+      ["Magical Leaf", 39],
+      ["Ancient Power", 30]
+    ]
+  },
+  {
+    "name": "Dracovish",
+    "points": 2677,
+    "topMoves": [
+      ["Outrage", 104],
+      ["Stone Edge", 53],
+      ["Hydro Pump", 50],
+      ["Earthquake", 30]
+    ]
+  },
+  {
+    "name": "Mr. Rime",
+    "points": 2549,
+    "topMoves": [
+      ["Future Sight", 80],
+      ["Blizzard", 79],
+      ["Focus Blast", 44],
+      ["Thunder", 25]
+    ]
+  },
+  {
+    "name": "Gourgeist",
+    "points": 2487,
+    "topMoves": [
+      ["Explosion", 154],
+      ["Power Whip", 56],
+      ["Energy Ball", 13],
+      ["Focus Blast", 9]
+    ]
+  },
+  {
+    "name": "Gengar",
+    "points": 2136,
+    "topMoves": [
+      ["Sludge Wave", 67],
+      ["Focus Blast", 55],
+      ["Thunder", 42],
+      ["Shadow Ball", 37]
+    ]
+  },
+  {
+    "name": "Escavalier",
+    "points": 1994,
+    "topMoves": [
+      ["Megahorn", 102],
+      ["Iron Head", 46],
+      ["Close Combat", 37],
+      ["Drill Run", 18]
+    ]
+  },
+  {
+    "name": "Garbodor",
+    "points": 1748,
+    "topMoves": [
+      ["Explosion", 161],
+      ["Gunk Shot", 55],
+      ["Focus Blast", 16],
+      ["Seed Bomb", 9]
+    ]
+  },
+  {
+    "name": "Keldeo",
+    "points": 1687,
+    "topMoves": [
+      ["Focus Blast", 156],
+      ["Hydro Pump", 81],
+      ["Stone Edge", 11],
+      ["Megahorn", 7]
+    ]
+  },
+  {
+    "name": "Musharna",
+    "points": 1358,
+    "topMoves": [
+      ["Future Sight", 171],
+      ["Energy Ball", 50],
+      ["Moonblast", 36],
+      ["Shadow Ball", 21]
+    ]
+  },
+  {
+    "name": "Cobalion",
+    "points": 1339,
+    "topMoves": [
+      ["Focus Blast", 78],
+      ["Close Combat", 58],
+      ["Stone Edge", 48],
+      ["Megahorn", 33]
+    ]
+  },
+  {
+    "name": "Machamp",
+    "points": 1089,
+    "topMoves": [
+      ["Superpower", 128],
+      ["Earthquake", 37],
+      ["Stone Edge", 31],
+      ["Darkest Lariat", 21]
+    ]
+  },
+  {
+    "name": "Darmanitan",
+    "points": 875,
+    "topMoves": [
+      ["Flare Blitz", 143],
+      ["Focus Punch", 58],
+      ["Earthquake", 34],
+      ["Stone Edge", 28]
+    ]
+  },
+  {
+    "name": "Passimian",
+    "points": 685,
+    "topMoves": [
+      ["Close Combat", 131],
+      ["Earthquake", 43],
+      ["Gunk Shot", 38],
+      ["Rock Slide", 24]
+    ]
+  },
+  {
+    "name": "Hatterene",
+    "points": 460,
+    "topMoves": [
+      ["Future Sight", 155],
+      ["Dazzling Gleam", 25],
+      ["Shadow Ball", 24],
+      ["Power Whip", 16]
+    ]
+  },
+  {
+    "name": "Duraludon",
+    "points": 369,
+    "topMoves": [
+      ["Outrage", 62],
+      ["Thunder", 47],
+      ["Stone Edge", 43],
+      ["Flash Cannon", 34]
+    ]
+  },
+  {
+    "name": "Vanilluxe",
+    "points": 301,
+    "topMoves": [
+      ["Explosion", 140],
+      ["Blizzard", 108],
+      ["Icicle Crash", 7],
+      ["Flash Cannon", 1]
+    ]
+  },
+  {
+    "name": "Weezing",
+    "points": 13,
+    "topMoves": [
+      ["Explosion", 149],
+      ["Belch", 37],
+      ["Fire Blast", 29],
+      ["Thunder", 21]
+    ]
+  },
+  {
+    "name": "Durant",
+    "points": -159,
+    "topMoves": [
+      ["First Impression", 79],
+      ["Stone Edge", 47],
+      ["Iron Head", 38],
+      ["Superpower", 33]
+    ]
+  },
+  {
+    "name": "Decidueye",
+    "points": -185,
+    "topMoves": [
+      ["Leaf Storm", 111],
+      ["Brave Bird", 51],
+      ["Spirit Shackle", 40],
+      ["Hurricane", 19]
+    ]
+  },
+  {
+    "name": "Dhelmise",
+    "points": -273,
+    "topMoves": [
+      ["Power Whip", 120],
+      ["Shadow Claw", 39],
+      ["Earthquake", 32],
+      ["Rock Slide", 16]
+    ]
+  },
+  {
+    "name": "Incineroar",
+    "points": -745,
+    "topMoves": [
+      ["Flare Blitz", 110],
+      ["Darkest Lariat", 42],
+      ["Earthquake", 31],
+      ["Superpower", 28]
+    ]
+  },
+  {
+    "name": "Venusaur",
+    "points": -1125,
+    "topMoves": [
+      ["Leaf Storm", 126],
+      ["Sludge Bomb", 63],
+      ["Earth Power", 21],
+      ["Outrage", 15]
+    ]
+  },
+  {
+    "name": "Greedent",
+    "points": -1279,
+    "topMoves": [
+      ["Last Resort", 159],
+      ["Superpower", 53],
+      ["Crunch", 14],
+      ["Earthquake", 14]
+    ]
+  },
+  {
+    "name": "Cinderace",
+    "points": -1325,
+    "topMoves": [
+      ["Pyro Ball", 141],
+      ["High Jump Kick", 60],
+      ["Gunk Shot", 26],
+      ["Overheat", 14]
+    ]
+  },
+  {
+    "name": "Drapion",
+    "points": -1334,
+    "topMoves": [
+      ["Crunch", 51],
+      ["Earthquake", 46],
+      ["Poison Jab", 38],
+      ["Rock Slide", 25]
+    ]
+  },
+  {
+    "name": "Sawk",
+    "points": -1504,
+    "topMoves": [
+      ["Close Combat", 135],
+      ["Earthquake", 37],
+      ["Stone Edge", 36],
+      ["Throat Chop", 12]
+    ]
+  },
+  {
+    "name": "Clefable",
+    "points": -1572,
+    "topMoves": [
+      ["Blizzard", 57],
+      ["Moonblast", 48],
+      ["Focus Blast", 43],
+      ["Thunder", 28]
+    ]
+  },
+  {
+    "name": "Heatmor",
+    "points": -1788,
+    "topMoves": [
+      ["Overheat", 120],
+      ["Flare Blitz", 35],
+      ["Belch", 23],
+      ["Focus Blast", 22]
+    ]
+  },
+  {
+    "name": "Jellicent",
+    "points": -1959,
+    "topMoves": [
+      ["Water Spout", 159],
+      ["Shadow Ball", 41],
+      ["Energy Ball", 33],
+      ["Blizzard", 19]
+    ]
+  },
+  {
+    "name": "Ludicolo",
+    "points": -2025,
+    "topMoves": [
+      ["Leaf Storm", 130],
+      ["Blizzard", 42],
+      ["Hydro Pump", 38],
+      ["Focus Blast", 34]
+    ]
+  },
+  {
+    "name": "Tsareena",
+    "points": -2079,
+    "topMoves": [
+      ["Power Whip", 118],
+      ["High Jump Kick", 60],
+      ["Play Rough", 27],
+      ["Mega Kick", 15]
+    ]
+  },
+  {
+    "name": "Sirfetch'd",
+    "points": -2140,
+    "topMoves": [
+      ["Superpower", 102],
+      ["Brave Bird", 64],
+      ["Leaf Blade", 44],
+      ["First Impression", 11]
+    ]
+  },
+  {
+    "name": "Mimikyu",
+    "points": -2340,
+    "topMoves": [
+      ["Play Rough", 93],
+      ["Wood Hammer", 54],
+      ["Shadow Claw", 47],
+      ["Drain Punch", 17]
+    ]
+  },
+  {
+    "name": "Roserade",
+    "points": -3361,
+    "topMoves": [
+      ["Leaf Storm", 142],
+      ["Sludge Bomb", 55],
+      ["Extrasensory", 14],
+      ["Shadow Ball", 10]
+    ]
+  },
+  {
+    "name": "Octillery",
+    "points": -3479,
+    "topMoves": [
+      ["Water Spout", 155],
+      ["Energy Ball", 30],
+      ["Gunk Shot", 24],
+      ["Blizzard", 17]
+    ]
+  },
+  {
+    "name": "Torkoal",
+    "points": -3524,
+    "topMoves": [
+      ["Eruption", 161],
+      ["Superpower", 33],
+      ["Earthquake", 21],
+      ["Iron Tail", 10]
+    ]
+  },
+  {
+    "name": "Hitmonchan",
+    "points": -3704,
+    "topMoves": [
+      ["Focus Punch", 159],
+      ["Stone Edge", 24],
+      ["Ice Punch", 15],
+      ["Earthquake", 10]
+    ]
+  },
+  {
+    "name": "Tyranitar",
+    "points": -3719,
+    "topMoves": [
+      ["Stone Edge", 81],
+      ["Foul Play", 41],
+      ["Superpower", 31],
+      ["Thunder", 18]
+    ]
+  },
+  {
+    "name": "Heliolisk",
+    "points": -3742,
+    "topMoves": [
+      ["Thunder", 127],
+      ["Focus Blast", 44],
+      ["Surf", 21],
+      ["Hyper Voice", 19]
+    ]
+  },
+  {
+    "name": "Virizion",
+    "points": -3923,
+    "topMoves": [
+      ["Leaf Storm", 99],
+      ["Close Combat", 38],
+      ["Focus Blast", 32],
+      ["Stone Edge", 30]
+    ]
+  },
+  {
+    "name": "Mandibuzz",
+    "points": -3956,
+    "topMoves": [
+      ["Brave Bird", 188],
+      ["Foul Play", 55],
+      ["Heat Wave", 13],
+      ["Dark Pulse", 8]
+    ]
+  },
+  {
+    "name": "Bronzong",
+    "points": -3978,
+    "topMoves": [
+      ["Future Sight", 113],
+      ["Iron Head", 35],
+      ["Earthquake", 31],
+      ["Rock Slide", 20]
+    ]
+  },
+  {
+    "name": "Hippowdon",
+    "points": -4085,
+    "topMoves": [
+      ["Earthquake", 103],
+      ["Superpower", 41],
+      ["Stone Edge", 38],
+      ["Iron Tail", 23]
+    ]
+  },
+  {
+    "name": "Mr. Mime",
+    "points": -4215,
+    "topMoves": [
+      ["Future Sight", 103],
+      ["Focus Blast", 30],
+      ["Dazzling Gleam", 28],
+      ["Thunder", 20]
+    ]
+  },
+  {
+    "name": "Cramorant",
+    "points": -4287,
+    "topMoves": [
+      ["Brave Bird", 98],
+      ["Hydro Pump", 52],
+      ["Hurricane", 30],
+      ["Superpower", 24]
+    ]
+  },
+  {
+    "name": "Gothitelle",
+    "points": -4378,
+    "topMoves": [
+      ["Future Sight", 158],
+      ["Energy Ball", 27],
+      ["Thunderbolt", 22],
+      ["Shadow Ball", 17]
+    ]
+  },
+  {
+    "name": "Hitmonlee",
+    "points": -4420,
+    "topMoves": [
+      ["High Jump Kick", 124],
+      ["Stone Edge", 36],
+      ["Earthquake", 31],
+      ["Poison Jab", 9]
+    ]
+  },
+  {
+    "name": "Drednaw",
+    "points": -4438,
+    "topMoves": [
+      ["Head Smash", 157],
+      ["Megahorn", 30],
+      ["Superpower", 25],
+      ["Liquidation", 17]
+    ]
+  },
+  {
+    "name": "Dracozolt",
+    "points": -4455,
+    "topMoves": [
+      ["Outrage", 67],
+      ["Thunder", 49],
+      ["Earthquake", 40],
+      ["Fire Blast", 33]
+    ]
+  },
+  {
+    "name": "Arctozolt",
+    "points": -4633,
+    "topMoves": [
+      ["Blizzard", 86],
+      ["Thunder", 48],
+      ["Wild Charge", 28],
+      ["Iron Tail", 26]
+    ]
+  },
+  {
+    "name": "Sigilyph",
+    "points": -4871,
+    "topMoves": [
+      ["Future Sight", 89],
+      ["Air Slash", 37],
+      ["Energy Ball", 36],
+      ["Ice Beam", 30]
+    ]
+  },
+  {
+    "name": "Ferrothorn",
+    "points": -4993,
+    "topMoves": [
+      ["Explosion", 141],
+      ["Power Whip", 62],
+      ["Body Press", 6],
+      ["Shadow Claw", 6]
+    ]
+  },
+  {
+    "name": "Kingler",
+    "points": -5232,
+    "topMoves": [
+      ["Crabhammer", 90],
+      ["Superpower", 71],
+      ["High Horsepower", 21],
+      ["Rock Slide", 20]
+    ]
+  },
+  {
+    "name": "Drampa",
+    "points": -5359,
+    "topMoves": [
+      ["Blizzard", 44],
+      ["Focus Blast", 42],
+      ["Hydro Pump", 36],
+      ["Thunder", 34]
+    ]
+  },
+  {
+    "name": "Mantine",
+    "points": -5395,
+    "topMoves": [
+      ["Hydro Pump", 104],
+      ["Hurricane", 96],
+      ["Blizzard", 24],
+      ["Gunk Shot", 12]
+    ]
+  },
+  {
+    "name": "Flygon",
+    "points": -5461,
+    "topMoves": [
+      ["Earthquake", 55],
+      ["Outrage", 45],
+      ["Stone Edge", 32],
+      ["Superpower", 29]
+    ]
+  },
+  {
+    "name": "Milotic",
+    "points": -5480,
+    "topMoves": [
+      ["Hydro Pump", 167],
+      ["Blizzard", 54],
+      ["Dragon Pulse", 14],
+      ["Iron Tail", 9]
+    ]
+  },
+  {
+    "name": "Dusclops",
+    "points": -5731,
+    "topMoves": [
+      ["Blizzard", 42],
+      ["Earthquake", 34],
+      ["Shadow Ball", 32],
+      ["Future Sight", 27]
+    ]
+  },
+  {
+    "name": "Throh",
+    "points": -5741,
+    "topMoves": [
+      ["Superpower", 144],
+      ["Earthquake", 37],
+      ["Stone Edge", 29],
+      ["Poison Jab", 10]
+    ]
+  },
+  {
+    "name": "Hawlucha",
+    "points": -5777,
+    "topMoves": [
+      ["Brave Bird", 91],
+      ["High Jump Kick", 89],
+      ["Focus Blast", 31],
+      ["Stone Edge", 24]
+    ]
+  },
+  {
+    "name": "Trevenant",
+    "points": -5842,
+    "topMoves": [
+      ["Wood Hammer", 107],
+      ["Shadow Claw", 35],
+      ["Earthquake", 25],
+      ["Poison Jab", 19]
+    ]
+  },
+  {
+    "name": "Beartic",
+    "points": -6070,
+    "topMoves": [
+      ["Focus Punch", 88],
+      ["Icicle Crash", 62],
+      ["Stone Edge", 37],
+      ["Throat Chop", 21]
+    ]
+  },
+  {
+    "name": "Pelipper",
+    "points": -6184,
+    "topMoves": [
+      ["Hurricane", 124],
+      ["Hydro Pump", 62],
+      ["Blizzard", 23],
+      ["Gunk Shot", 9]
+    ]
+  },
+  {
+    "name": "Inteleon",
+    "points": -6529,
+    "topMoves": [
+      ["Hydro Pump", 175],
+      ["Blizzard", 51],
+      ["Air Slash", 2],
+      ["Mud Shot", 2]
+    ]
+  },
+  {
+    "name": "Toxapex",
+    "points": -6645,
+    "topMoves": [
+      ["Gunk Shot", 110],
+      ["Hydro Pump", 65],
+      ["Blizzard", 27],
+      ["Liquidation", 6]
+    ]
+  },
+  {
+    "name": "Centiskorch",
+    "points": -6757,
+    "topMoves": [
+      ["Flare Blitz", 122],
+      ["Burn Up", 48],
+      ["Power Whip", 36],
+      ["Lunge", 22]
+    ]
+  },
+  {
+    "name": "Cofagrigus",
+    "points": -7337,
+    "topMoves": [
+      ["Shadow Ball", 97],
+      ["Energy Ball", 63],
+      ["Psychic", 46],
+      ["Body Press", 12]
+    ]
+  },
+  {
+    "name": "Unfezant",
+    "points": -7383,
+    "topMoves": [
+      ["Brave Bird", 218],
+      ["Heat Wave", 7],
+      ["Hurricane", 5],
+      ["Facade", 5]
+    ]
+  },
+  {
+    "name": "Ninetales",
+    "points": -7457,
+    "topMoves": [
+      ["Overheat", 124],
+      ["Flare Blitz", 33],
+      ["Energy Ball", 22],
+      ["Foul Play", 18]
+    ]
+  },
+  {
+    "name": "Malamar",
+    "points": -7568,
+    "topMoves": [
+      ["Foul Play", 78],
+      ["Superpower", 53],
+      ["Future Sight", 41],
+      ["Rock Slide", 18]
+    ]
+  },
+  {
+    "name": "Pangoro",
+    "points": -7673,
+    "topMoves": [
+      ["Superpower", 89],
+      ["Foul Play", 43],
+      ["Earthquake", 25],
+      ["Gunk Shot", 24]
+    ]
+  },
+  {
+    "name": "Raichu",
+    "points": -7842,
+    "topMoves": [
+      ["Volt Tackle", 76],
+      ["Thunder", 42],
+      ["Focus Blast", 39],
+      ["Iron Tail", 25]
+    ]
+  },
+  {
+    "name": "Beheeyem",
+    "points": -8460,
+    "topMoves": [
+      ["Future Sight", 141],
+      ["Thunderbolt", 30],
+      ["Energy Ball", 25],
+      ["Shadow Ball", 21]
+    ]
+  },
+  {
+    "name": "Grimmsnarl",
+    "points": -8890,
+    "topMoves": [
+      ["Foul Play", 48],
+      ["Power Whip", 36],
+      ["Fire Punch", 30],
+      ["Spirit Break", 28]
+    ]
+  },
+  {
+    "name": "Shiftry",
+    "points": -8926,
+    "topMoves": [
+      ["Explosion", 97],
+      ["Leaf Storm", 68],
+      ["Foul Play", 35],
+      ["Focus Blast", 11]
+    ]
+  },
+  {
+    "name": "Runerigus",
+    "points": -8980,
+    "topMoves": [
+      ["Earthquake", 87],
+      ["Stone Edge", 39],
+      ["Shadow Claw", 32],
+      ["Body Press", 19]
+    ]
+  },
+  {
+    "name": "Noivern",
+    "points": -8987,
+    "topMoves": [
+      ["Hurricane", 134],
+      ["Focus Blast", 44],
+      ["Outrage", 23],
+      ["Heat Wave", 13]
+    ]
+  },
+  {
+    "name": "Orbeetle",
+    "points": -9472,
+    "topMoves": [
+      ["Future Sight", 120],
+      ["Bug Buzz", 53],
+      ["Energy Ball", 34],
+      ["Shadow Ball", 3]
+    ]
+  },
+  {
+    "name": "Barraskewda",
+    "points": -9519,
+    "topMoves": [
+      ["Close Combat", 48],
+      ["Liquidation", 44],
+      ["Poison Jab", 23],
+      ["Thrash", 21]
+    ]
+  },
+  {
+    "name": "Manectric",
+    "points": -9896,
+    "topMoves": [
+      ["Thunder", 119],
+      ["Overheat", 81],
+      ["Iron Tail", 10],
+      ["Ice Fang", 4]
+    ]
+  },
+  {
+    "name": "Bisharp",
+    "points": -10823,
+    "topMoves": [
+      ["Foul Play", 78],
+      ["Stone Edge", 46],
+      ["Iron Head", 32],
+      ["Brick Break", 18]
+    ]
+  },
+  {
+    "name": "Vileplume",
+    "points": -10880,
+    "topMoves": [
+      ["Petal Dance", 108],
+      ["Sludge Wave", 60],
+      ["Moonblast", 38],
+      ["Drain Punch", 4]
+    ]
+  },
+  {
+    "name": "Excadrill",
+    "points": -10889,
+    "topMoves": [
+      ["Earthquake", 120],
+      ["Rock Slide", 39],
+      ["Iron Head", 35],
+      ["Submission", 23]
+    ]
+  },
+  {
+    "name": "Golurk",
+    "points": -11238,
+    "topMoves": [
+      ["Focus Punch", 83],
+      ["Earthquake", 56],
+      ["Stone Edge", 29],
+      ["High Horsepower", 12]
+    ]
+  },
+  {
+    "name": "Basculin",
+    "points": -11315,
+    "topMoves": [
+      ["Head Smash", 102],
+      ["Hydro Pump", 44],
+      ["Superpower", 32],
+      ["Ice Beam", 11]
+    ]
+  },
+  {
+    "name": "Hitmontop",
+    "points": -11461,
+    "topMoves": [
+      ["High Jump Kick", 111],
+      ["Stone Edge", 31],
+      ["Earthquake", 26],
+      ["Sucker Punch", 7]
+    ]
+  },
+  {
+    "name": "Slurpuff",
+    "points": -11520,
+    "topMoves": [
+      ["Play Rough", 71],
+      ["Flamethrower", 44],
+      ["Energy Ball", 28],
+      ["Dazzling Gleam", 27]
+    ]
+  },
+  {
+    "name": "Vikavolt",
+    "points": -11521,
+    "topMoves": [
+      ["Thunderbolt", 166],
+      ["Bug Buzz", 37],
+      ["Air Slash", 5],
+      ["Zap Cannon", 4]
+    ]
+  },
+  {
+    "name": "Alcremie",
+    "points": -11576,
+    "topMoves": [
+      ["Dazzling Gleam", 88],
+      ["Energy Ball", 51],
+      ["Mystical Fire", 48],
+      ["Last Resort", 10]
+    ]
+  },
+  {
+    "name": "Frosmoth",
+    "points": -11933,
+    "topMoves": [
+      ["Blizzard", 122],
+      ["Bug Buzz", 31],
+      ["Hurricane", 27],
+      ["Giga Drain", 25]
+    ]
+  },
+  {
+    "name": "Aegislash",
+    "points": -12094,
+    "topMoves": [
+      ["Head Smash", 92],
+      ["Close Combat", 27],
+      ["Shadow Ball", 24],
+      ["Iron Head", 21]
+    ]
+  },
+  {
+    "name": "Falinks",
+    "points": -12136,
+    "topMoves": [
+      ["Close Combat", 101],
+      ["Focus Blast", 33],
+      ["Megahorn", 25],
+      ["Rock Slide", 16]
+    ]
+  },
+  {
+    "name": "Aromatisse",
+    "points": -12144,
+    "topMoves": [
+      ["Moonblast", 118],
+      ["Thunder", 43],
+      ["Energy Ball", 33],
+      ["Flash Cannon", 30]
+    ]
+  },
+  {
+    "name": "Bewear",
+    "points": -12277,
+    "topMoves": [
+      ["Thrash", 97],
+      ["Superpower", 72],
+      ["Earthquake", 38],
+      ["Darkest Lariat", 14]
+    ]
+  },
+  {
+    "name": "Toxicroak",
+    "points": -12314,
+    "topMoves": [
+      ["Gunk Shot", 65],
+      ["Focus Blast", 51],
+      ["Earthquake", 31],
+      ["Stone Edge", 24]
+    ]
+  },
+  {
+    "name": "Dubwool",
+    "points": -12599,
+    "topMoves": [
+      ["Last Resort", 195],
+      ["Body Press", 9],
+      ["Zen Headbutt", 4],
+      ["Wild Charge", 1]
+    ]
+  },
+  {
+    "name": "Grapploct",
+    "points": -12626,
+    "topMoves": [
+      ["Close Combat", 98],
+      ["Superpower", 29],
+      ["Sucker Punch", 17],
+      ["Submission", 15]
+    ]
+  },
+  {
+    "name": "Crustle",
+    "points": -12885,
+    "topMoves": [
+      ["Stone Edge", 87],
+      ["Earthquake", 41],
+      ["Bug Bite", 33],
+      ["Body Press", 18]
+    ]
+  },
+  {
+    "name": "Whiscash",
+    "points": -12894,
+    "topMoves": [
+      ["Hydro Pump", 60],
+      ["Earthquake", 47],
+      ["Stone Edge", 32],
+      ["Earth Power", 27]
+    ]
+  },
+  {
+    "name": "Xatu",
+    "points": -13477,
+    "topMoves": [
+      ["Future Sight", 111],
+      ["Air Slash", 32],
+      ["Heat Wave", 18],
+      ["Drill Peck", 10]
+    ]
+  },
+  {
+    "name": "Lunatone",
+    "points": -13620,
+    "topMoves": [
+      ["Future Sight", 58],
+      ["Power Gem", 55],
+      ["Explosion", 35],
+      ["Blizzard", 33]
+    ]
+  },
+  {
+    "name": "Pincurchin",
+    "points": -13677,
+    "topMoves": [
+      ["Thunder", 86],
+      ["Poison Jab", 32],
+      ["Hydro Pump", 26],
+      ["Throat Chop", 18]
+    ]
+  },
+  {
+    "name": "Gigalith",
+    "points": -13748,
+    "topMoves": [
+      ["Stone Edge", 88],
+      ["Superpower", 38],
+      ["Explosion", 32],
+      ["Throat Chop", 22]
+    ]
+  },
+  {
+    "name": "Bellossom",
+    "points": -13753,
+    "topMoves": [
+      ["Leaf Storm", 155],
+      ["Moonblast", 17],
+      ["Sludge Bomb", 17],
+      ["Play Rough", 6]
+    ]
+  },
+  {
+    "name": "Galvantula",
+    "points": -13820,
+    "topMoves": [
+      ["Thunder", 105],
+      ["Bug Buzz", 50],
+      ["Energy Ball", 26],
+      ["Lunge", 8]
+    ]
+  },
+  {
+    "name": "Arctovish",
+    "points": -13986,
+    "topMoves": [
+      ["Blizzard", 82],
+      ["Stone Edge", 40],
+      ["Hydro Pump", 37],
+      ["Crunch", 14]
+    ]
+  },
+  {
+    "name": "Fraxure",
+    "points": -14018,
+    "topMoves": [
+      ["Outrage", 108],
+      ["Superpower", 38],
+      ["First Impression", 26],
+      ["Iron Tail", 11]
+    ]
+  },
+  {
+    "name": "Gastrodon",
+    "points": -14191,
+    "topMoves": [
+      ["Hydro Pump", 85],
+      ["Earthquake", 41],
+      ["Earth Power", 39],
+      ["Stone Edge", 26]
+    ]
+  },
+  {
+    "name": "Cursola",
+    "points": -14658,
+    "topMoves": [
+      ["Head Smash", 42],
+      ["Shadow Ball", 31],
+      ["Hydro Pump", 30],
+      ["Blizzard", 25]
+    ]
+  },
+  {
+    "name": "Obstagoon",
+    "points": -14665,
+    "topMoves": [
+      ["Mega Kick", 63],
+      ["Throat Chop", 43],
+      ["Close Combat", 39],
+      ["Gunk Shot", 25]
+    ]
+  },
+  {
+    "name": "Polteageist",
+    "points": -14857,
+    "topMoves": [
+      ["Shadow Ball", 92],
+      ["Giga Drain", 51],
+      ["Psychic", 47],
+      ["Dark Pulse", 2]
+    ]
+  },
+  {
+    "name": "Lanturn",
+    "points": -15133,
+    "topMoves": [
+      ["Hydro Pump", 129],
+      ["Thunder", 58],
+      ["Blizzard", 39],
+      ["Wild Charge", 9]
+    ]
+  },
+  {
+    "name": "Weavile",
+    "points": -15237,
+    "topMoves": [
+      ["Foul Play", 87],
+      ["Icicle Crash", 58],
+      ["Iron Tail", 23],
+      ["Brick Break", 14]
+    ]
+  },
+  {
+    "name": "Rapidash",
+    "points": -15423,
+    "topMoves": [
+      ["Overheat", 89],
+      ["Thrash", 47],
+      ["Iron Tail", 18],
+      ["Wild Charge", 11]
+    ]
+  },
+  {
+    "name": "Roselia",
+    "points": -15549,
+    "topMoves": [
+      ["Leaf Storm", 109],
+      ["Sludge Bomb", 43],
+      ["Extrasensory", 8],
+      ["Dazzling Gleam", 5]
+    ]
+  },
+  {
+    "name": "Haunter",
+    "points": -15559,
+    "topMoves": [
+      ["Sludge Wave", 60],
+      ["Shadow Ball", 30],
+      ["Energy Ball", 27],
+      ["Dream Eater", 22]
+    ]
+  },
+  {
+    "name": "Stunfisk",
+    "points": -15591,
+    "topMoves": [
+      ["Thunder", 70],
+      ["Earth Power", 51],
+      ["Stone Edge", 28],
+      ["Earthquake", 27]
+    ]
+  },
+  {
+    "name": "Wartortle",
+    "points": -16032,
+    "topMoves": [
+      ["Water Spout", 144],
+      ["Blizzard", 12],
+      ["Iron Tail", 7],
+      ["Rock Tomb", 6]
+    ]
+  },
+  {
+    "name": "Drifblim",
+    "points": -16176,
+    "topMoves": [
+      ["Explosion", 180],
+      ["Shadow Ball", 37],
+      ["Thunder", 22],
+      ["Psychic", 4]
+    ]
+  },
+  {
+    "name": "Salazzle",
+    "points": -16347,
+    "topMoves": [
+      ["Belch", 113],
+      ["Flamethrower", 49],
+      ["Overheat", 30],
+      ["Dragon Pulse", 0]
+    ]
+  },
+  {
+    "name": "Araquanid",
+    "points": -16703,
+    "topMoves": [
+      ["Hydro Pump", 55],
+      ["Lunge", 44],
+      ["Liquidation", 23],
+      ["Blizzard", 21]
+    ]
+  },
+  {
+    "name": "Cinccino",
+    "points": -16850,
+    "topMoves": [
+      ["Last Resort", 107],
+      ["Gunk Shot", 36],
+      ["Focus Blast", 18],
+      ["Knock Off", 10]
+    ]
+  },
+  {
+    "name": "Solrock",
+    "points": -17055,
+    "topMoves": [
+      ["Explosion", 110],
+      ["Stone Edge", 69],
+      ["Flare Blitz", 9],
+      ["Earthquake", 8]
+    ]
+  },
+  {
+    "name": "Quagsire",
+    "points": -17666,
+    "topMoves": [
+      ["Earthquake", 78],
+      ["Hydro Pump", 32],
+      ["Stone Edge", 18],
+      ["Focus Blast", 18]
+    ]
+  },
+  {
+    "name": "Eldegoss",
+    "points": -17780,
+    "topMoves": [
+      ["Leaf Storm", 157],
+      ["Pollen Puff", 16],
+      ["Hyper Voice", 1]
+    ]
+  },
+  {
+    "name": "Sliggoo",
+    "points": -17863,
+    "topMoves": [
+      ["Outrage", 70],
+      ["Blizzard", 38],
+      ["Thunderbolt", 27],
+      ["Muddy Water", 23]
+    ]
+  },
+  {
+    "name": "Hakamo-o",
+    "points": -18108,
+    "topMoves": [
+      ["Focus Punch", 97],
+      ["Focus Blast", 26],
+      ["Outrage", 24],
+      ["Iron Tail", 6]
+    ]
+  },
+  {
+    "name": "Cloyster",
+    "points": -18142,
+    "topMoves": [
+      ["Hydro Pump", 87],
+      ["Blizzard", 38],
+      ["Icicle Crash", 19],
+      ["Poison Jab", 16]
+    ]
+  },
+  {
+    "name": "Crawdaunt",
+    "points": -18158,
+    "topMoves": [
+      ["Crunch", 40],
+      ["Superpower", 33],
+      ["Hydro Pump", 33],
+      ["Crabhammer", 31]
+    ]
+  },
+  {
+    "name": "Avalugg",
+    "points": -18259,
+    "topMoves": [
+      ["Superpower", 77],
+      ["Stone Edge", 32],
+      ["Earthquake", 28],
+      ["Ice Fang", 25]
+    ]
+  },
+  {
+    "name": "Togedemaru",
+    "points": -18400,
+    "topMoves": [
+      ["Iron Tail", 93],
+      ["Wild Charge", 49],
+      ["Poison Jab", 20],
+      ["Zen Headbutt", 13]
+    ]
+  },
+  {
+    "name": "Morpeko",
+    "points": -18598,
+    "topMoves": [
+      ["Aura Wheel", 80],
+      ["Foul Play", 40],
+      ["Thunder", 17],
+      ["Stomping Tantrum", 8]
+    ]
+  },
+  {
+    "name": "Lampent",
+    "points": -19383,
+    "topMoves": [
+      ["Overheat", 128],
+      ["Energy Ball", 24],
+      ["Shadow Ball", 18],
+      ["Psychic", 1]
+    ]
+  },
+  {
+    "name": "Brionne",
+    "points": -19496,
+    "topMoves": [
+      ["Hydro Pump", 92],
+      ["Blizzard", 32],
+      ["Moonblast", 28],
+      ["Iron Tail", 11]
+    ]
+  },
+  {
+    "name": "Steelix",
+    "points": -19721,
+    "topMoves": [
+      ["Iron Tail", 45],
+      ["Earthquake", 36],
+      ["Stone Edge", 32],
+      ["Body Press", 19]
+    ]
+  },
+  {
+    "name": "Noctowl",
+    "points": -20254,
+    "topMoves": [
+      ["Hurricane", 144],
+      ["Heat Wave", 22],
+      ["Moonblast", 20],
+      ["Future Sight", 12]
+    ]
+  },
+  {
+    "name": "Gastly",
+    "points": -20382,
+    "topMoves": [
+      ["Sludge Wave", 45],
+      ["Shadow Ball", 24],
+      ["Energy Ball", 21],
+      ["Dream Eater", 15]
+    ]
+  },
+  {
+    "name": "Dugtrio",
+    "points": -20442,
+    "topMoves": [
+      ["Earthquake", 92],
+      ["Stone Edge", 38],
+      ["Earth Power", 3],
+      ["Sludge Wave", 2]
+    ]
+  },
+  {
+    "name": "Sableye",
+    "points": -20482,
+    "topMoves": [
+      ["Foul Play", 50],
+      ["Poison Jab", 13],
+      ["Psychic", 13],
+      ["Power Gem", 13]
+    ]
+  },
+  {
+    "name": "Doublade",
+    "points": -20508,
+    "topMoves": [
+      ["Close Combat", 45],
+      ["Iron Head", 38],
+      ["Rock Slide", 26],
+      ["Psycho Cut", 20]
+    ]
+  },
+  {
+    "name": "Farfetch'd",
+    "points": -20816,
+    "topMoves": [
+      ["Brave Bird", 93],
+      ["Close Combat", 22],
+      ["Leaf Blade", 17],
+      ["Iron Tail", 11]
+    ]
+  },
+  {
+    "name": "Ribombee",
+    "points": -21020,
+    "topMoves": [
+      ["Moonblast", 81],
+      ["Energy Ball", 39],
+      ["Pollen Puff", 33],
+      ["Psychic", 5]
+    ]
+  },
+  {
+    "name": "Froslass",
+    "points": -21040,
+    "topMoves": [
+      ["Blizzard", 94],
+      ["Thunder", 34],
+      ["Shadow Ball", 23],
+      ["Icicle Crash", 18]
+    ]
+  },
+  {
+    "name": "Ponyta",
+    "points": -21157,
+    "topMoves": [
+      ["Overheat", 52],
+      ["High Horsepower", 21],
+      ["Fire Blast", 18],
+      ["Iron Tail", 15]
+    ]
+  },
+  {
+    "name": "Raboot",
+    "points": -21248,
+    "topMoves": [
+      ["Flare Blitz", 90],
+      ["High Jump Kick", 36],
+      ["Gunk Shot", 23],
+      ["Overheat", 18]
+    ]
+  },
+  {
+    "name": "Maractus",
+    "points": -21255,
+    "topMoves": [
+      ["Leaf Storm", 136],
+      ["Wood Hammer", 20],
+      ["Poison Jab", 10],
+      ["Throat Chop", 4]
+    ]
+  },
+  {
+    "name": "Seaking",
+    "points": -21316,
+    "topMoves": [
+      ["Aqua Tail", 57],
+      ["Megahorn", 50],
+      ["Hydro Pump", 22],
+      ["Blizzard", 18]
+    ]
+  },
+  {
+    "name": "Vanillish",
+    "points": -21517,
+    "topMoves": [
+      ["Explosion", 84],
+      ["Blizzard", 66],
+      ["Icicle Crash", 2],
+      ["Flash Cannon", 0]
+    ]
+  },
+  {
+    "name": "Ferroseed",
+    "points": -21628,
+    "topMoves": [
+      ["Explosion", 108],
+      ["Seed Bomb", 10],
+      ["Iron Head", 6],
+      ["Knock Off", 4]
+    ]
+  },
+  {
+    "name": "Charmeleon",
+    "points": -21763,
+    "topMoves": [
+      ["Overheat", 119],
+      ["Flare Blitz", 15],
+      ["Iron Tail", 11],
+      ["Rock Slide", 9]
+    ]
+  },
+  {
+    "name": "Togetic",
+    "points": -21988,
+    "topMoves": [
+      ["Dazzling Gleam", 42],
+      ["Fire Blast", 40],
+      ["Magical Leaf", 25],
+      ["Shadow Ball", 16]
+    ]
+  },
+  {
+    "name": "Torracat",
+    "points": -22167,
+    "topMoves": [
+      ["Overheat", 90],
+      ["Flare Blitz", 58],
+      ["Thrash", 8],
+      ["Outrage", 6]
+    ]
+  },
+  {
+    "name": "Sudowoodo",
+    "points": -22513,
+    "topMoves": [
+      ["Head Smash", 138],
+      ["Wood Hammer", 23],
+      ["Hammer Arm", 2],
+      ["Earthquake", 1]
+    ]
+  },
+  {
+    "name": "Klinklang",
+    "points": -22565,
+    "topMoves": [
+      ["Flash Cannon", 38],
+      ["Zap Cannon", 35],
+      ["Power Gem", 26],
+      ["Assurance", 22]
+    ]
+  },
+  {
+    "name": "Flapple",
+    "points": -22785,
+    "topMoves": [
+      ["Outrage", 94],
+      ["Energy Ball", 34],
+      ["Grav Apple", 27],
+      ["Air Slash", 8]
+    ]
+  },
+  {
+    "name": "Glalie",
+    "points": -22822,
+    "topMoves": [
+      ["Blizzard", 107],
+      ["Earthquake", 35],
+      ["Iron Head", 14],
+      ["Icicle Crash", 13]
+    ]
+  },
+  {
+    "name": "Remoraid",
+    "points": -23296,
+    "topMoves": [
+      ["Water Spout", 79],
+      ["Gunk Shot", 13],
+      ["Seed Bomb", 12],
+      ["Blizzard", 8]
+    ]
+  },
+  {
+    "name": "Whimsicott",
+    "points": -23300,
+    "topMoves": [
+      ["Moonblast", 47],
+      ["Energy Ball", 46],
+      ["Hurricane", 26],
+      ["Play Rough", 12]
+    ]
+  },
+  {
+    "name": "Ivysaur",
+    "points": -23476,
+    "topMoves": [
+      ["Leaf Storm", 97],
+      ["Sludge Bomb", 47],
+      ["Power Whip", 8],
+      ["Petal Dance", 0]
+    ]
+  },
+  {
+    "name": "Qwilfish",
+    "points": -23590,
+    "topMoves": [
+      ["Aqua Tail", 62],
+      ["Poison Jab", 42],
+      ["Hydro Pump", 22],
+      ["Blizzard", 17]
+    ]
+  },
+  {
+    "name": "Mawile",
+    "points": -24249,
+    "topMoves": [
+      ["Stone Edge", 22],
+      ["Foul Play", 20],
+      ["Fire Blast", 20],
+      ["Iron Head", 19]
+    ]
+  },
+  {
+    "name": "Cherrim",
+    "points": -24684,
+    "topMoves": [
+      ["Petal Dance", 118],
+      ["Pollen Puff", 26],
+      ["Dazzling Gleam", 6],
+      ["Play Rough", 2]
+    ]
+  },
+  {
+    "name": "Gloom",
+    "points": -24780,
+    "topMoves": [
+      ["Petal Dance", 77],
+      ["Sludge Bomb", 46],
+      ["Moonblast", 20],
+      ["Drain Punch", 2]
+    ]
+  },
+  {
+    "name": "Meowstic",
+    "points": -24812,
+    "topMoves": [
+      ["Psychic", 82],
+      ["Energy Ball", 28],
+      ["Thunderbolt", 22],
+      ["Shadow Ball", 16]
+    ]
+  },
+  {
+    "name": "Sneasel",
+    "points": -24835,
+    "topMoves": [
+      ["Foul Play", 62],
+      ["Icicle Crash", 42],
+      ["Iron Tail", 18],
+      ["Brick Break", 12]
+    ]
+  },
+  {
+    "name": "Butterfree",
+    "points": -24880,
+    "topMoves": [
+      ["Hurricane", 92],
+      ["Energy Ball", 31],
+      ["Bug Buzz", 21],
+      ["Psychic", 3]
+    ]
+  },
+  {
+    "name": "Koffing",
+    "points": -25467,
+    "topMoves": [
+      ["Explosion", 64],
+      ["Belch", 26],
+      ["Fire Blast", 15],
+      ["Thunder", 11]
+    ]
+  },
+  {
+    "name": "Zweilous",
+    "points": -25669,
+    "topMoves": [
+      ["Head Smash", 49],
+      ["Outrage", 44],
+      ["Crunch", 22],
+      ["Superpower", 22]
+    ]
+  },
+  {
+    "name": "Mime Jr.",
+    "points": -25989,
+    "topMoves": [
+      ["Future Sight", 53],
+      ["Dazzling Gleam", 15],
+      ["Thunder", 13],
+      ["Shadow Ball", 3]
+    ]
+  },
+  {
+    "name": "Krabby",
+    "points": -26039,
+    "topMoves": [
+      ["Crabhammer", 51],
+      ["Superpower", 36],
+      ["Rock Slide", 9],
+      ["Night Slash", 0]
+    ]
+  },
+  {
+    "name": "Dartrix",
+    "points": -26115,
+    "topMoves": [
+      ["Brave Bird", 110],
+      ["Leaf Blade", 30],
+      ["Energy Ball", 22]
+    ]
+  },
+  {
+    "name": "Rhyperior",
+    "points": -26353,
+    "topMoves": [
+      ["Earthquake", 63],
+      ["Stone Edge", 40],
+      ["Megahorn", 22],
+      ["Superpower", 17]
+    ]
+  },
+  {
+    "name": "Vespiquen",
+    "points": -26578,
+    "topMoves": [
+      ["Attack Order", 55],
+      ["Air Slash", 28],
+      ["Bug Buzz", 26],
+      ["Power Gem", 12]
+    ]
+  },
+  {
+    "name": "Mantyke",
+    "points": -26659,
+    "topMoves": [
+      ["Hydro Pump", 65],
+      ["Air Slash", 44],
+      ["Blizzard", 13],
+      ["Earthquake", 0]
+    ]
+  },
+  {
+    "name": "Persian",
+    "points": -27022,
+    "topMoves": [
+      ["Last Resort", 75],
+      ["Gunk Shot", 28],
+      ["Thunder", 13],
+      ["Power Gem", 9]
+    ]
+  },
+  {
+    "name": "Frillish",
+    "points": -27033,
+    "topMoves": [
+      ["Water Spout", 83],
+      ["Shadow Ball", 17],
+      ["Energy Ball", 15],
+      ["Blizzard", 7]
+    ]
+  },
+  {
+    "name": "Gothorita",
+    "points": -27058,
+    "topMoves": [
+      ["Future Sight", 101],
+      ["Energy Ball", 19],
+      ["Thunderbolt", 11],
+      ["Shadow Ball", 7]
+    ]
+  },
+  {
+    "name": "Stonjourner",
+    "points": -27073,
+    "topMoves": [
+      ["Stone Edge", 113],
+      ["Superpower", 40],
+      ["Earthquake", 18],
+      ["Mega Kick", 4]
+    ]
+  },
+  {
+    "name": "Shedinja",
+    "points": -27231,
+    "topMoves": [
+      ["Leech Life", 29],
+      ["Shadow Claw", 4],
+      ["Giga Drain", 1]
+    ]
+  },
+  {
+    "name": "Delibird",
+    "points": -27457,
+    "topMoves": [
+      ["Blizzard", 49],
+      ["Brave Bird", 38],
+      ["Gunk Shot", 10],
+      ["Future Sight", 8]
+    ]
+  },
+  {
+    "name": "Thwackey",
+    "points": -27462,
+    "topMoves": [
+      ["Wood Hammer", 97],
+      ["Hammer Arm", 20],
+      ["Mega Kick", 15],
+      ["Energy Ball", 10]
+    ]
+  },
+  {
+    "name": "Rufflet",
+    "points": -27496,
+    "topMoves": [
+      ["Brave Bird", 68],
+      ["Thrash", 57],
+      ["Superpower", 27],
+      ["Hurricane", 0]
+    ]
+  },
+  {
+    "name": "Klang",
+    "points": -27742,
+    "topMoves": [
+      ["Flash Cannon", 53],
+      ["Zap Cannon", 36],
+      ["Power Gem", 28],
+      ["Assurance", 10]
+    ]
+  },
+  {
+    "name": "Shiinotic",
+    "points": -27789,
+    "topMoves": [
+      ["Moonblast", 51],
+      ["Energy Ball", 40],
+      ["Sludge Bomb", 26],
+      ["Pollen Puff", 13]
+    ]
+  },
+  {
+    "name": "Machoke",
+    "points": -28062,
+    "topMoves": [
+      ["Superpower", 85],
+      ["Earthquake", 20],
+      ["Focus Blast", 12],
+      ["Fire Blast", 9]
+    ]
+  },
+  {
+    "name": "Corsola",
+    "points": -28376,
+    "topMoves": [
+      ["Head Smash", 89],
+      ["Hydro Pump", 23],
+      ["Earth Power", 10],
+      ["Blizzard", 7]
+    ]
+  },
+  {
+    "name": "Salandit",
+    "points": -28484,
+    "topMoves": [
+      ["Overheat", 87],
+      ["Belch", 26],
+      ["Gunk Shot", 2],
+      ["Foul Play", 0]
+    ]
+  },
+  {
+    "name": "Onix",
+    "points": -28817,
+    "topMoves": [
+      ["Head Smash", 73],
+      ["Earthquake", 15],
+      ["Earth Power", 3]
+    ]
+  },
+  {
+    "name": "Vullaby",
+    "points": -29035,
+    "topMoves": [
+      ["Brave Bird", 110],
+      ["Foul Play", 28],
+      ["Heat Wave", 5],
+      ["Dark Pulse", 2]
+    ]
+  },
+  {
+    "name": "Axew",
+    "points": -29046,
+    "topMoves": [
+      ["Outrage", 59],
+      ["Superpower", 27],
+      ["First Impression", 10],
+      ["Iron Tail", 7]
+    ]
+  },
+  {
+    "name": "Darumaka",
+    "points": -29097,
+    "topMoves": [
+      ["Flare Blitz", 106],
+      ["Focus Punch", 27],
+      ["Rock Slide", 9],
+      ["Bite", 0]
+    ]
+  },
+  {
+    "name": "Vulpix",
+    "points": -29200,
+    "topMoves": [
+      ["Overheat", 74],
+      ["Energy Ball", 8],
+      ["Flare Blitz", 5],
+      ["Iron Tail", 5]
+    ]
+  },
+  {
+    "name": "Mamoswine",
+    "points": -29203,
+    "topMoves": [
+      ["Earthquake", 85],
+      ["Icicle Crash", 34],
+      ["Iron Head", 13],
+      ["Bite", 11]
+    ]
+  },
+  {
+    "name": "Pawniard",
+    "points": -29684,
+    "topMoves": [
+      ["Foul Play", 48],
+      ["Iron Head", 23],
+      ["Brick Break", 16],
+      ["Poison Jab", 12]
+    ]
+  },
+  { "name": "Coalossal", "points": -29708, "topMoves": [["Explosion", 178]] },
+  {
+    "name": "Liepard",
+    "points": -29795,
+    "topMoves": [
+      ["Foul Play", 52],
+      ["Gunk Shot", 27],
+      ["Dark Pulse", 18],
+      ["Seed Bomb", 16]
+    ]
+  },
+  {
+    "name": "Oddish",
+    "points": -29877,
+    "topMoves": [
+      ["Petal Dance", 58],
+      ["Sludge Bomb", 36],
+      ["Moonblast", 9]
+    ]
+  },
+  {
+    "name": "Squirtle",
+    "points": -30232,
+    "topMoves": [
+      ["Water Spout", 83],
+      ["Blizzard", 6],
+      ["Iron Tail", 5],
+      ["Rock Tomb", 2]
+    ]
+  },
+  {
+    "name": "Lombre",
+    "points": -30479,
+    "topMoves": [
+      ["Hydro Pump", 70],
+      ["Energy Ball", 24],
+      ["Blizzard", 15],
+      ["Seed Bomb", 4]
+    ]
+  },
+  {
+    "name": "Linoone",
+    "points": -30583,
+    "topMoves": [
+      ["Gunk Shot", 27],
+      ["Blizzard", 20],
+      ["Throat Chop", 16],
+      ["Thunder", 16]
+    ]
+  },
+  {
+    "name": "Rotom",
+    "points": -30606,
+    "topMoves": [
+      ["Thunder", 75],
+      ["Shadow Ball", 22],
+      ["Uproar", 22],
+      ["Foul Play", 1]
+    ]
+  },
+  {
+    "name": "Diglett",
+    "points": -30672,
+    "topMoves": [
+      ["Earthquake", 30],
+      ["Rock Slide", 4],
+      ["Ancient Power", 0]
+    ]
+  },
+  {
+    "name": "Charmander",
+    "points": -30728,
+    "topMoves": [
+      ["Overheat", 69],
+      ["Flare Blitz", 11],
+      ["Iron Tail", 6],
+      ["Rock Slide", 3]
+    ]
+  },
+  {
+    "name": "Bulbasaur",
+    "points": -30734,
+    "topMoves": [
+      ["Leaf Storm", 64],
+      ["Sludge Bomb", 28],
+      ["Power Whip", 5]
+    ]
+  },
+  {
+    "name": "Swoobat",
+    "points": -30763,
+    "topMoves": [
+      ["Future Sight", 65],
+      ["Air Slash", 32],
+      ["Energy Ball", 18],
+      ["Heat Wave", 11]
+    ]
+  },
+  {
+    "name": "Shuckle",
+    "points": -30798,
+    "topMoves": [
+      ["Stone Edge", 43],
+      ["Earthquake", 7],
+      ["Sludge Wave", 6],
+      ["Bug Bite", 2]
+    ]
+  },
+  {
+    "name": "Trubbish",
+    "points": -30905,
+    "topMoves": [
+      ["Explosion", 67],
+      ["Gunk Shot", 23],
+      ["Belch", 9],
+      ["Seed Bomb", 4]
+    ]
+  },
+  {
+    "name": "Duosion",
+    "points": -30906,
+    "topMoves": [
+      ["Future Sight", 80],
+      ["Thunder", 19],
+      ["Energy Ball", 17],
+      ["Shadow Ball", 10]
+    ]
+  },
+  {
+    "name": "Hattrem",
+    "points": -31342,
+    "topMoves": [
+      ["Psychic", 47],
+      ["Giga Drain", 28],
+      ["Mystical Fire", 27],
+      ["Dazzling Gleam", 8]
+    ]
+  },
+  {
+    "name": "Riolu",
+    "points": -31598,
+    "topMoves": [
+      ["High Jump Kick", 47],
+      ["Earthquake", 9],
+      ["Blaze Kick", 8],
+      ["Iron Tail", 5]
+    ]
+  },
+  {
+    "name": "Appletun",
+    "points": -31752,
+    "topMoves": [
+      ["Energy Ball", 55],
+      ["Outrage", 48],
+      ["Superpower", 27],
+      ["Earthquake", 27]
+    ]
+  },
+  {
+    "name": "Budew",
+    "points": -31854,
+    "topMoves": [
+      ["Leaf Storm", 60],
+      ["Sludge Bomb", 21],
+      ["Shadow Ball", 1],
+      ["Dazzling Gleam", 0]
+    ]
+  },
+  {
+    "name": "Charjabug",
+    "points": -32124,
+    "topMoves": [
+      ["Wild Charge", 46],
+      ["Discharge", 25],
+      ["Bug Bite", 21],
+      ["Crunch", 12]
+    ]
+  },
+  {
+    "name": "Honedge",
+    "points": -32129,
+    "topMoves": [
+      ["Close Combat", 32],
+      ["Iron Head", 21],
+      ["Rock Slide", 18],
+      ["Psycho Cut", 7]
+    ]
+  },
+  {
+    "name": "Vibrava",
+    "points": -32146,
+    "topMoves": [
+      ["Earthquake", 35],
+      ["Outrage", 22],
+      ["Superpower", 16],
+      ["Giga Drain", 6]
+    ]
+  },
+  {
+    "name": "Corvisquire",
+    "points": -32452,
+    "topMoves": [
+      ["Brave Bird", 130],
+      ["Revenge", 0]
+    ]
+  },
+  {
+    "name": "Dottler",
+    "points": -32631,
+    "topMoves": [
+      ["Future Sight", 57],
+      ["Bug Buzz", 22],
+      ["Energy Ball", 18],
+      ["Leech Life", 3]
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "points": -32696,
+    "topMoves": [
+      ["Volt Tackle", 35],
+      ["Thunder", 19],
+      ["Iron Tail", 7],
+      ["Play Rough", 6]
+    ]
+  },
+  {
+    "name": "Nuzleaf",
+    "points": -32908,
+    "topMoves": [
+      ["Explosion", 54],
+      ["Foul Play", 23],
+      ["Energy Ball", 21],
+      ["Leaf Blade", 20]
+    ]
+  },
+  {
+    "name": "Piloswine",
+    "points": -32911,
+    "topMoves": [
+      ["Earthquake", 84],
+      ["Stone Edge", 19],
+      ["Superpower", 15],
+      ["Blizzard", 12]
+    ]
+  },
+  {
+    "name": "Litten",
+    "points": -32998,
+    "topMoves": [
+      ["Overheat", 56],
+      ["Flare Blitz", 31],
+      ["Outrage", 2],
+      ["Thrash", 1]
+    ]
+  },
+  {
+    "name": "Duskull",
+    "points": -33009,
+    "topMoves": [
+      ["Shadow Ball", 16],
+      ["Blizzard", 15],
+      ["Future Sight", 12],
+      ["Body Slam", 2]
+    ]
+  },
+  {
+    "name": "Vanillite",
+    "points": -33139,
+    "topMoves": [
+      ["Explosion", 38],
+      ["Blizzard", 38],
+      ["Icicle Crash", 0],
+      ["Uproar", 0]
+    ]
+  },
+  {
+    "name": "Rhydon",
+    "points": -33152,
+    "topMoves": [
+      ["Earthquake", 50],
+      ["Stone Edge", 38],
+      ["Megahorn", 20],
+      ["Superpower", 14]
+    ]
+  },
+  {
+    "name": "Natu",
+    "points": -33309,
+    "topMoves": [
+      ["Future Sight", 46],
+      ["Air Slash", 18],
+      ["Heat Wave", 6],
+      ["Giga Drain", 6]
+    ]
+  },
+  {
+    "name": "Phantump",
+    "points": -33665,
+    "topMoves": [
+      ["Wood Hammer", 46],
+      ["Poison Jab", 8],
+      ["Shadow Claw", 8],
+      ["Rock Slide", 7]
+    ]
+  },
+  {
+    "name": "Popplio",
+    "points": -33858,
+    "topMoves": [
+      ["Hydro Pump", 51],
+      ["Moonblast", 15],
+      ["Blizzard", 13],
+      ["Iron Tail", 9]
+    ]
+  },
+  {
+    "name": "Kirlia",
+    "points": -33994,
+    "topMoves": [
+      ["Future Sight", 46],
+      ["Dazzling Gleam", 12],
+      ["Thunderbolt", 6],
+      ["Magical Leaf", 4]
+    ]
+  },
+  {
+    "name": "Mareanie",
+    "points": -34068,
+    "topMoves": [
+      ["Gunk Shot", 46],
+      ["Hydro Pump", 34],
+      ["Blizzard", 9],
+      ["Sludge Wave", 4]
+    ]
+  },
+  {
+    "name": "Croagunk",
+    "points": -34153,
+    "topMoves": [
+      ["Focus Blast", 32],
+      ["Gunk Shot", 22],
+      ["Belch", 19],
+      ["Earthquake", 4]
+    ]
+  },
+  {
+    "name": "Pumpkaboo",
+    "points": -34300,
+    "topMoves": [
+      ["Seed Bomb", 37],
+      ["Fire Blast", 20],
+      ["Energy Ball", 14],
+      ["Psychic", 5]
+    ]
+  },
+  {
+    "name": "Pupitar",
+    "points": -34627,
+    "topMoves": [
+      ["Stone Edge", 39],
+      ["Earthquake", 35],
+      ["Superpower", 10],
+      ["Iron Tail", 9]
+    ]
+  },
+  {
+    "name": "Jangmo-o",
+    "points": -34783,
+    "topMoves": [
+      ["Outrage", 36],
+      ["Focus Punch", 22],
+      ["Earthquake", 11],
+      ["Dragon Pulse", 5]
+    ]
+  },
+  {
+    "name": "Electrike",
+    "points": -34814,
+    "topMoves": [
+      ["Thunder", 48],
+      ["Flamethrower", 18],
+      ["Ice Fang", 2],
+      ["Iron Tail", 2]
+    ]
+  },
+  {
+    "name": "Sizzlipede",
+    "points": -34902,
+    "topMoves": [
+      ["Burn Up", 57],
+      ["Power Whip", 12],
+      ["Lunge", 8],
+      ["Fire Lash", 4]
+    ]
+  },
+  {
+    "name": "Shellder",
+    "points": -34923,
+    "topMoves": [
+      ["Hydro Pump", 25],
+      ["Liquidation", 20],
+      ["Blizzard", 7],
+      ["Facade", 1]
+    ]
+  },
+  {
+    "name": "Chinchou",
+    "points": -34934,
+    "topMoves": [
+      ["Hydro Pump", 65],
+      ["Thunder", 40],
+      ["Blizzard", 16],
+      ["Wild Charge", 3]
+    ]
+  },
+  {
+    "name": "Scorbunny",
+    "points": -34935,
+    "topMoves": [
+      ["Overheat", 29],
+      ["High Jump Kick", 28],
+      ["Gunk Shot", 16],
+      ["Blaze Kick", 14]
+    ]
+  },
+  {
+    "name": "Corphish",
+    "points": -34969,
+    "topMoves": [
+      ["Crabhammer", 32],
+      ["Hydro Pump", 13],
+      ["Superpower", 12],
+      ["Body Slam", 3]
+    ]
+  },
+  {
+    "name": "Wingull",
+    "points": -35073,
+    "topMoves": [
+      ["Hurricane", 54],
+      ["Scald", 10],
+      ["Blizzard", 7],
+      ["Liquidation", 0]
+    ]
+  },
+  {
+    "name": "Drizzile",
+    "points": -35109,
+    "topMoves": [
+      ["Surf", 105],
+      ["Liquidation", 4],
+      ["Mud Shot", 1],
+      ["Sucker Punch", 1]
+    ]
+  },
+  {
+    "name": "Litwick",
+    "points": -35159,
+    "topMoves": [
+      ["Overheat", 75],
+      ["Energy Ball", 6],
+      ["Shadow Ball", 6],
+      ["Psychic", 1]
+    ]
+  },
+  {
+    "name": "Morelull",
+    "points": -35172,
+    "topMoves": [
+      ["Moonblast", 27],
+      ["Energy Ball", 23],
+      ["Sludge Bomb", 16],
+      ["Pollen Puff", 2]
+    ]
+  },
+  {
+    "name": "Grookey",
+    "points": -35559,
+    "topMoves": [
+      ["Wood Hammer", 61],
+      ["Hammer Arm", 9],
+      ["Mega Kick", 6],
+      ["Energy Ball", 5]
+    ]
+  },
+  {
+    "name": "Thievul",
+    "points": -35614,
+    "topMoves": [
+      ["Dark Pulse", 67],
+      ["Foul Play", 30],
+      ["Psychic", 11],
+      ["Play Rough", 5]
+    ]
+  },
+  {
+    "name": "Arcanine",
+    "points": -35643,
+    "topMoves": [
+      ["Thrash", 144],
+      ["Burn Up", 0]
+    ]
+  },
+  {
+    "name": "Karrablast",
+    "points": -35661,
+    "topMoves": [
+      ["Megahorn", 65],
+      ["Energy Ball", 8],
+      ["Drill Run", 4],
+      ["Night Slash", 3]
+    ]
+  },
+  {
+    "name": "Goldeen",
+    "points": -35678,
+    "topMoves": [
+      ["Aqua Tail", 29],
+      ["Megahorn", 19],
+      ["Blizzard", 7],
+      ["Poison Jab", 7]
+    ]
+  },
+  {
+    "name": "Cutiefly",
+    "points": -35692,
+    "topMoves": [
+      ["Moonblast", 31],
+      ["Energy Ball", 15],
+      ["Bug Buzz", 12],
+      ["Play Rough", 6]
+    ]
+  },
+  {
+    "name": "Swirlix",
+    "points": -35693,
+    "topMoves": [
+      ["Energy Ball", 27],
+      ["Dazzling Gleam", 25],
+      ["Flamethrower", 25],
+      ["Play Rough", 23]
+    ]
+  },
+  {
+    "name": "Pancham",
+    "points": -35762,
+    "topMoves": [
+      ["Superpower", 60],
+      ["Stone Edge", 18],
+      ["Gunk Shot", 14],
+      ["Foul Play", 5]
+    ]
+  },
+  {
+    "name": "Yamask",
+    "points": -35809,
+    "topMoves": [
+      ["Shadow Ball", 31],
+      ["Energy Ball", 27],
+      ["Psychic", 11]
+    ]
+  },
+  {
+    "name": "Joltik",
+    "points": -35954,
+    "topMoves": [
+      ["Bug Buzz", 27],
+      ["Thunderbolt", 26],
+      ["Energy Ball", 10],
+      ["Poison Jab", 7]
+    ]
+  },
+  {
+    "name": "Pichu",
+    "points": -36032,
+    "topMoves": [
+      ["Volt Tackle", 16],
+      ["Thunder", 6],
+      ["Iron Tail", 3],
+      ["Surf", 1]
+    ]
+  },
+  {
+    "name": "Dwebble",
+    "points": -36101,
+    "topMoves": [
+      ["Stone Edge", 54],
+      ["Earthquake", 16],
+      ["Bug Bite", 8],
+      ["Poison Jab", 6]
+    ]
+  },
+  {
+    "name": "Klink",
+    "points": -36708,
+    "topMoves": [
+      ["Flash Cannon", 27],
+      ["Power Gem", 18],
+      ["Zap Cannon", 13],
+      ["Assurance", 3]
+    ]
+  },
+  {
+    "name": "Helioptile",
+    "points": -36815,
+    "topMoves": [
+      ["Thunder", 59],
+      ["Surf", 4],
+      ["Iron Tail", 3],
+      ["Bulldoze", 1]
+    ]
+  },
+  {
+    "name": "Spritzee",
+    "points": -36819,
+    "topMoves": [
+      ["Moonblast", 73],
+      ["Flash Cannon", 16],
+      ["Thunderbolt", 16],
+      ["Energy Ball", 16]
+    ]
+  },
+  {
+    "name": "Larvitar",
+    "points": -37284,
+    "topMoves": [
+      ["Stone Edge", 24],
+      ["Earthquake", 21],
+      ["Superpower", 9],
+      ["Iron Tail", 8]
+    ]
+  },
+  { "name": "Carkol", "points": -37383, "topMoves": [["Explosion", 121]] },
+  {
+    "name": "Ralts",
+    "points": -37491,
+    "topMoves": [
+      ["Future Sight", 26],
+      ["Dazzling Gleam", 6],
+      ["Shadow Ball", 1],
+      ["Thunderbolt", 1]
+    ]
+  },
+  {
+    "name": "Ninjask",
+    "points": -37560,
+    "topMoves": [
+      ["Leech Life", 40],
+      ["Aerial Ace", 20],
+      ["Giga Drain", 9],
+      ["Bug Bite", 8]
+    ]
+  },
+  {
+    "name": "Dewpider",
+    "points": -37701,
+    "topMoves": [
+      ["Surf", 14],
+      ["Giga Drain", 12],
+      ["Bug Buzz", 8],
+      ["Poison Jab", 6]
+    ]
+  },
+  {
+    "name": "Clefairy",
+    "points": -37710,
+    "topMoves": [
+      ["Blizzard", 24],
+      ["Moonblast", 22],
+      ["Fire Blast", 20],
+      ["Thunder", 13]
+    ]
+  },
+  {
+    "name": "Boldore",
+    "points": -37736,
+    "topMoves": [
+      ["Stone Edge", 66],
+      ["Explosion", 21],
+      ["Earthquake", 14],
+      ["Body Press", 0]
+    ]
+  },
+  {
+    "name": "Barboach",
+    "points": -37906,
+    "topMoves": [
+      ["Earthquake", 27],
+      ["Hydro Pump", 23],
+      ["Blizzard", 8],
+      ["Future Sight", 6]
+    ]
+  },
+  { "name": "Indeedee", "points": -38101, "topMoves": [["Extrasensory", 97]] },
+  {
+    "name": "Rowlet",
+    "points": -38467,
+    "topMoves": [
+      ["Brave Bird", 64],
+      ["Leaf Blade", 19],
+      ["Energy Ball", 16]
+    ]
+  },
+  {
+    "name": "Solosis",
+    "points": -38702,
+    "topMoves": [
+      ["Future Sight", 40],
+      ["Thunder", 11],
+      ["Energy Ball", 8],
+      ["Shadow Ball", 1]
+    ]
+  },
+  {
+    "name": "Rookidee",
+    "points": -38778,
+    "topMoves": [
+      ["Brave Bird", 52],
+      ["Air Slash", 0]
+    ]
+  },
+  {
+    "name": "Inkay",
+    "points": -38805,
+    "topMoves": [
+      ["Foul Play", 32],
+      ["Future Sight", 15],
+      ["Superpower", 11],
+      ["Rock Slide", 5]
+    ]
+  },
+  {
+    "name": "Arrokuda",
+    "points": -38843,
+    "topMoves": [
+      ["Liquidation", 15],
+      ["Close Combat", 11],
+      ["Thrash", 7],
+      ["Poison Jab", 4]
+    ]
+  },
+  {
+    "name": "Elgyem",
+    "points": -38873,
+    "topMoves": [
+      ["Psychic", 40],
+      ["Energy Ball", 14],
+      ["Thunderbolt", 12],
+      ["Rock Slide", 4]
+    ]
+  },
+  {
+    "name": "Sinistea",
+    "points": -38977,
+    "topMoves": [
+      ["Shadow Ball", 26],
+      ["Giga Drain", 17],
+      ["Psychic", 11],
+      ["Foul Play", 0]
+    ]
+  },
+  {
+    "name": "Morgrem",
+    "points": -39021,
+    "topMoves": [
+      ["Dark Pulse", 38],
+      ["Foul Play", 26],
+      ["Dazzling Gleam", 19],
+      ["Leech Life", 6]
+    ]
+  },
+  {
+    "name": "Skorupi",
+    "points": -39042,
+    "topMoves": [
+      ["Poison Jab", 27],
+      ["Rock Tomb", 6],
+      ["Sludge Bomb", 6],
+      ["Brick Break", 5]
+    ]
+  },
+  {
+    "name": "Trapinch",
+    "points": -39074,
+    "topMoves": [
+      ["Earthquake", 27],
+      ["Superpower", 12],
+      ["Rock Slide", 11],
+      ["First Impression", 3]
+    ]
+  },
+  {
+    "name": "Stufful",
+    "points": -39114,
+    "topMoves": [
+      ["Thrash", 36],
+      ["Superpower", 32],
+      ["Focus Blast", 11],
+      ["Earthquake", 11]
+    ]
+  },
+  {
+    "name": "Gothita",
+    "points": -39199,
+    "topMoves": [
+      ["Future Sight", 43],
+      ["Energy Ball", 10],
+      ["Thunderbolt", 5],
+      ["Rock Slide", 1]
+    ]
+  },
+  { "name": "Magikarp", "points": -39358, "topMoves": [["Hydro Pump", 8]] },
+  {
+    "name": "Wimpod",
+    "points": -39376,
+    "topMoves": [
+      ["Leech Life", 7],
+      ["Waterfall", 5],
+      ["Surf", 4],
+      ["Bug Buzz", 2]
+    ]
+  },
+  {
+    "name": "Deino",
+    "points": -39452,
+    "topMoves": [
+      ["Head Smash", 23],
+      ["Outrage", 16],
+      ["Crunch", 15],
+      ["Superpower", 9]
+    ]
+  },
+  {
+    "name": "Togepi",
+    "points": -39454,
+    "topMoves": [
+      ["Fire Blast", 18],
+      ["Dazzling Gleam", 15],
+      ["Ancient Power", 3],
+      ["Shadow Ball", 1]
+    ]
+  },
+  {
+    "name": "Gossifleur",
+    "points": -39513,
+    "topMoves": [
+      ["Leaf Storm", 44],
+      ["Pollen Puff", 5],
+      ["Facade", 0]
+    ]
+  },
+  { "name": "Rolycoly", "points": -39531, "topMoves": [["Explosion", 31]] },
+  {
+    "name": "Steenee",
+    "points": -39676,
+    "topMoves": [
+      ["Leaf Storm", 58],
+      ["Play Rough", 5],
+      ["Dazzling Gleam", 0],
+      ["Zen Headbutt", 0]
+    ]
+  },
+  {
+    "name": "Feebas",
+    "points": -39696,
+    "topMoves": [
+      ["Blizzard", 2],
+      ["Iron Tail", 1],
+      ["Surf", 1],
+      ["Waterfall", 0]
+    ]
+  },
+  {
+    "name": "Cherubi",
+    "points": -39747,
+    "topMoves": [
+      ["Energy Ball", 35],
+      ["Pollen Puff", 12],
+      ["Dazzling Gleam", 6],
+      ["Petal Blizzard", 2]
+    ]
+  },
+  {
+    "name": "Cottonee",
+    "points": -39823,
+    "topMoves": [
+      ["Energy Ball", 30],
+      ["Dazzling Gleam", 15],
+      ["Seed Bomb", 2]
+    ]
+  },
+  {
+    "name": "Clobbopus",
+    "points": -39973,
+    "topMoves": [
+      ["Superpower", 46],
+      ["Muddy Water", 7],
+      ["Focus Blast", 5],
+      ["Sucker Punch", 4]
+    ]
+  },
+  {
+    "name": "Goomy",
+    "points": -39974,
+    "topMoves": [
+      ["Outrage", 31],
+      ["Thunderbolt", 11],
+      ["Dragon Pulse", 5],
+      ["Sludge Wave", 3]
+    ]
+  },
+  {
+    "name": "Hippopotas",
+    "points": -40069,
+    "topMoves": [
+      ["Earthquake", 38],
+      ["Superpower", 17],
+      ["Rock Slide", 13],
+      ["Iron Tail", 7]
+    ]
+  },
+  {
+    "name": "Cubchoo",
+    "points": -40095,
+    "topMoves": [
+      ["Blizzard", 33],
+      ["Focus Punch", 24],
+      ["Rock Tomb", 4],
+      ["Play Rough", 3]
+    ]
+  },
+  {
+    "name": "Meowth",
+    "points": -40284,
+    "topMoves": [
+      ["Last Resort", 23],
+      ["Gunk Shot", 12],
+      ["Foul Play", 3],
+      ["Thunder", 3]
+    ]
+  },
+  {
+    "name": "Bonsly",
+    "points": -40407,
+    "topMoves": [
+      ["Rock Slide", 41],
+      ["Brick Break", 13],
+      ["Stomping Tantrum", 4],
+      ["Foul Play", 3]
+    ]
+  },
+  {
+    "name": "Shellos",
+    "points": -40590,
+    "topMoves": [
+      ["Hydro Pump", 67],
+      ["Earth Power", 16],
+      ["Blizzard", 12],
+      ["Ancient Power", 6]
+    ]
+  },
+  {
+    "name": "Espurr",
+    "points": -40726,
+    "topMoves": [
+      ["Psychic", 36],
+      ["Energy Ball", 10],
+      ["Iron Tail", 10],
+      ["Thunderbolt", 9]
+    ]
+  },
+  {
+    "name": "Seedot",
+    "points": -40767,
+    "topMoves": [
+      ["Explosion", 31],
+      ["Energy Ball", 9],
+      ["Seed Bomb", 1],
+      ["Foul Play", 0]
+    ]
+  },
+  {
+    "name": "Drilbur",
+    "points": -40781,
+    "topMoves": [
+      ["Earthquake", 45],
+      ["Rock Slide", 18],
+      ["Poison Jab", 9],
+      ["Submission", 7]
+    ]
+  },
+  {
+    "name": "Roggenrola",
+    "points": -41366,
+    "topMoves": [
+      ["Explosion", 33],
+      ["Stone Edge", 26],
+      ["Earthquake", 5]
+    ]
+  },
+  {
+    "name": "Chewtle",
+    "points": -41410,
+    "topMoves": [
+      ["Liquidation", 25],
+      ["Hydro Pump", 20],
+      ["Ice Fang", 5],
+      ["Jaw Lock", 4]
+    ]
+  },
+  {
+    "name": "Snom",
+    "points": -41580,
+    "topMoves": [
+      ["Bug Buzz", 16],
+      ["Icy Wind", 4],
+      ["Fairy Wind", 0]
+    ]
+  },
+  {
+    "name": "Purrloin",
+    "points": -41763,
+    "topMoves": [
+      ["Foul Play", 14],
+      ["Seed Bomb", 9],
+      ["Gunk Shot", 8],
+      ["Dark Pulse", 5]
+    ]
+  },
+  {
+    "name": "Snorunt",
+    "points": -41775,
+    "topMoves": [
+      ["Blizzard", 48],
+      ["Icicle Crash", 9],
+      ["Crunch", 1],
+      ["Rollout", 0]
+    ]
+  },
+  {
+    "name": "Sobble",
+    "points": -41823,
+    "topMoves": [
+      ["Surf", 53],
+      ["Liquidation", 2],
+      ["Sucker Punch", 0],
+      ["Mud Shot", 0]
+    ]
+  },
+  {
+    "name": "Bronzor",
+    "points": -41918,
+    "topMoves": [
+      ["Future Sight", 41],
+      ["Flash Cannon", 17],
+      ["Earthquake", 8],
+      ["Rock Slide", 5]
+    ]
+  },
+  {
+    "name": "Minccino",
+    "points": -41982,
+    "topMoves": [
+      ["Last Resort", 36],
+      ["Gunk Shot", 16],
+      ["Seed Bomb", 5],
+      ["Play Rough", 3]
+    ]
+  },
+  {
+    "name": "Meltan",
+    "points": -42000,
+    "topMoves": [
+      ["Flash Cannon", 41],
+      ["Thunderbolt", 12],
+      ["Headbutt", 0]
+    ]
+  },
+  {
+    "name": "Combee",
+    "points": -42026,
+    "topMoves": [
+      ["Bug Buzz", 15],
+      ["Bug Bite", 1]
+    ]
+  },
+  {
+    "name": "Nincada",
+    "points": -42117,
+    "topMoves": [
+      ["Leech Life", 10],
+      ["Bug Buzz", 5],
+      ["Giga Drain", 2],
+      ["Night Slash", 0]
+    ]
+  },
+  {
+    "name": "Hatenna",
+    "points": -42242,
+    "topMoves": [
+      ["Giga Drain", 13],
+      ["Psychic", 10],
+      ["Mystical Fire", 10],
+      ["Dazzling Gleam", 4]
+    ]
+  },
+  {
+    "name": "Noibat",
+    "points": -42249,
+    "topMoves": [
+      ["Hurricane", 30],
+      ["Heat Wave", 2],
+      ["Outrage", 2],
+      ["Psychic", 0]
+    ]
+  },
+  {
+    "name": "Tyrogue",
+    "points": -42454,
+    "topMoves": [
+      ["High Jump Kick", 17],
+      ["Rock Slide", 5],
+      ["Earthquake", 1],
+      ["Thief", 0]
+    ]
+  },
+  { "name": "Blipbug", "points": -42466, "topMoves": [["Struggle Bug", 3]] },
+  {
+    "name": "Lotad",
+    "points": -42542,
+    "topMoves": [
+      ["Energy Ball", 23],
+      ["Blizzard", 4],
+      ["Seed Bomb", 3],
+      ["Surf", 2]
+    ]
+  },
+  {
+    "name": "Woobat",
+    "points": -42596,
+    "topMoves": [
+      ["Future Sight", 33],
+      ["Air Slash", 21],
+      ["Energy Ball", 14],
+      ["Heat Wave", 5]
+    ]
+  },
+  {
+    "name": "Impidimp",
+    "points": -42805,
+    "topMoves": [
+      ["Foul Play", 18],
+      ["Dazzling Gleam", 10],
+      ["Dark Pulse", 8],
+      ["Play Rough", 2]
+    ]
+  },
+  {
+    "name": "Tranquill",
+    "points": -43199,
+    "topMoves": [
+      ["Air Slash", 27],
+      ["Facade", 18],
+      ["Uproar", 9],
+      ["Steel Wing", 8]
+    ]
+  },
+  {
+    "name": "Sandaconda",
+    "points": -43296,
+    "topMoves": [
+      ["Dragon Rush", 91],
+      ["Earthquake", 0]
+    ]
+  },
+  { "name": "Dreepy", "points": -43367, "topMoves": [["Dragon Tail", 5]] },
+  {
+    "name": "Machop",
+    "points": -43525,
+    "topMoves": [
+      ["Superpower", 45],
+      ["Earthquake", 7],
+      ["Focus Blast", 5],
+      ["Fire Blast", 5]
+    ]
+  },
+  {
+    "name": "Zigzagoon",
+    "points": -43567,
+    "topMoves": [
+      ["Gunk Shot", 7],
+      ["Blizzard", 5],
+      ["Take Down", 4],
+      ["Seed Bomb", 3]
+    ]
+  },
+  {
+    "name": "Milcery",
+    "points": -43696,
+    "topMoves": [
+      ["Dazzling Gleam", 26],
+      ["Last Resort", 16]
+    ]
+  },
+  {
+    "name": "Drifloon",
+    "points": -44045,
+    "topMoves": [
+      ["Explosion", 72],
+      ["Thunder", 21],
+      ["Shadow Ball", 12],
+      ["Psychic", 1]
+    ]
+  },
+  {
+    "name": "Munna",
+    "points": -44212,
+    "topMoves": [
+      ["Future Sight", 55],
+      ["Energy Ball", 19],
+      ["Moonblast", 7],
+      ["Shadow Ball", 6]
+    ]
+  },
+  {
+    "name": "Bergmite",
+    "points": -44439,
+    "topMoves": [
+      ["Stone Edge", 33],
+      ["Blizzard", 12],
+      ["Ice Fang", 6],
+      ["Crunch", 2]
+    ]
+  },
+  {
+    "name": "Rhyhorn",
+    "points": -44646,
+    "topMoves": [
+      ["Earthquake", 36],
+      ["Stone Edge", 23],
+      ["Megahorn", 9],
+      ["Superpower", 7]
+    ]
+  },
+  {
+    "name": "Grubbin",
+    "points": -44719,
+    "topMoves": [
+      ["Bug Bite", 12],
+      ["Discharge", 8],
+      ["Acrobatics", 5],
+      ["Wild Charge", 4]
+    ]
+  },
+  {
+    "name": "Bounsweet",
+    "points": -44881,
+    "topMoves": [
+      ["Energy Ball", 15],
+      ["Seed Bomb", 4],
+      ["Play Rough", 3],
+      ["Dazzling Gleam", 2]
+    ]
+  },
+  {
+    "name": "Hoothoot",
+    "points": -45435,
+    "topMoves": [
+      ["Hurricane", 47],
+      ["Moonblast", 5],
+      ["Heat Wave", 3],
+      ["Steel Wing", 1]
+    ]
+  },
+  {
+    "name": "Skwovet",
+    "points": -45640,
+    "topMoves": [
+      ["Last Resort", 62],
+      ["Seed Bomb", 5],
+      ["Crunch", 3],
+      ["Belch", 3]
+    ]
+  },
+  {
+    "name": "Wooper",
+    "points": -45662,
+    "topMoves": [
+      ["Earthquake", 23],
+      ["Hydro Pump", 7],
+      ["Blizzard", 4],
+      ["Aqua Tail", 4]
+    ]
+  },
+  {
+    "name": "Wooloo",
+    "points": -45753,
+    "topMoves": [
+      ["Take Down", 16],
+      ["Wild Charge", 7],
+      ["Payback", 1],
+      ["Round", 0]
+    ]
+  },
+  {
+    "name": "Nickit",
+    "points": -46178,
+    "topMoves": [
+      ["Foul Play", 13],
+      ["Snarl", 2],
+      ["Play Rough", 1]
+    ]
+  },
+  {
+    "name": "Cleffa",
+    "points": -46212,
+    "topMoves": [
+      ["Fire Blast", 16],
+      ["Play Rough", 8],
+      ["Magical Leaf", 6],
+      ["Shadow Ball", 1]
+    ]
+  },
+  {
+    "name": "Pidove",
+    "points": -47013,
+    "topMoves": [
+      ["Air Slash", 21],
+      ["Facade", 4],
+      ["Uproar", 3],
+      ["Night Slash", 1]
+    ]
+  },
+  { "name": "Bunnelby", "points": -48411, "topMoves": [["Rollout", 1]] },
+  {
+    "name": "Swinub",
+    "points": -48510,
+    "topMoves": [
+      ["Icicle Crash", 5],
+      ["Superpower", 5],
+      ["Blizzard", 3],
+      ["Earthquake", 2]
+    ]
+  },
+  {
+    "name": "Growlithe",
+    "points": -48542,
+    "topMoves": [
+      ["Thrash", 39],
+      ["Overheat", 0]
+    ]
+  },
+  {
+    "name": "Wishiwashi",
+    "points": -48883,
+    "topMoves": [
+      ["Hydro Pump", 6],
+      ["Ice Beam", 2],
+      ["Earthquake", 1],
+      ["Aqua Tail", 0]
+    ]
+  },
+  { "name": "Applin", "points": -49116, "topMoves": [["Sucker Punch", 2]] },
+  { "name": "Toxel", "points": -49560, "topMoves": [] },
+  { "name": "Baltoy", "points": -49580, "topMoves": [] },
+  { "name": "Binacle", "points": -49889, "topMoves": [["Night Slash", 2]] },
+  {
+    "name": "Caterpie",
+    "points": -50190,
+    "topMoves": [
+      ["Bug Bite", 7],
+      ["Electroweb", 0]
+    ]
+  },
+  { "name": "Silicobra", "points": -51075, "topMoves": [["Dragon Rush", 20]] },
+  { "name": "Tympole", "points": -51519, "topMoves": [["Water Pulse", 11]] },
+  { "name": "Metapod", "points": -53402, "topMoves": [["Electroweb", 2]] },
+  { "name": "Scraggy", "points": -53738, "topMoves": [["Fake Out", 0]] },
+  { "name": "Shelmet", "points": -54250, "topMoves": [] },
+  { "name": "Palpitoad", "points": -54773, "topMoves": [["Water Pulse", 42]] },
+  { "name": "Eevee", "points": -56184, "topMoves": [] },
+  { "name": "Barbaracle", "points": -56506, "topMoves": [["Night Slash", 32]] },
+  {
+    "name": "Seismitoad",
+    "points": -56603,
+    "topMoves": [
+      ["Water Pulse", 77],
+      ["Hydro Pump", 0]
+    ]
+  },
+  { "name": "Golett", "points": -57766, "topMoves": [] },
+  { "name": "Yamper", "points": -57852, "topMoves": [] },
+  { "name": "Snover", "points": -58132, "topMoves": [] },
+  { "name": "Claydol", "points": -58369, "topMoves": [["Explosion", 0]] },
+  {
+    "name": "Flareon",
+    "points": -58594,
+    "topMoves": [
+      ["Double Kick", 7],
+      ["Flare Blitz", 0]
+    ]
+  },
+  {
+    "name": "Conkeldurr",
+    "points": -58843,
+    "topMoves": [
+      ["Mach Punch", 71],
+      ["Focus Punch", 0]
+    ]
+  },
+  {
+    "name": "Leafeon",
+    "points": -59302,
+    "topMoves": [
+      ["Double Kick", 5],
+      ["Last Resort", 0]
+    ]
+  },
+  { "name": "Stunky", "points": -59393, "topMoves": [["Smog", 1]] },
+  { "name": "Scrafty", "points": -60322, "topMoves": [["Fake Out", 0]] },
+  { "name": "Glaceon", "points": -60404, "topMoves": [["Blizzard", 0]] },
+  { "name": "Jolteon", "points": -60504, "topMoves": [["Thunder", 0]] },
+  { "name": "Gurdurr", "points": -60741, "topMoves": [["Mach Punch", 36]] },
+  { "name": "Espeon", "points": -60801, "topMoves": [] },
+  { "name": "Timburr", "points": -61334, "topMoves": [["Mach Punch", 15]] },
+  { "name": "Boltund", "points": -62207, "topMoves": [["Thunder", 0]] },
+  { "name": "Perrserker", "points": -62417, "topMoves": [["Iron Tail", 0]] },
+  { "name": "Mudbray", "points": -62466, "topMoves": [["Earthquake", 0]] },
+  { "name": "Cufant", "points": -63483, "topMoves": [] },
+  { "name": "Toxtricity", "points": -64627, "topMoves": [["Belch", 0]] },
+  { "name": "Eiscue", "points": -64811, "topMoves": [["Head Smash", 0]] },
+  { "name": "Accelgor", "points": -66799, "topMoves": [["Bug Buzz", 0]] },
+  { "name": "Diggersby", "points": -68651, "topMoves": [["Rollout", 1]] },
+  { "name": "Zeraora", "points": -70333, "topMoves": [["Thunder", 0]] },
+  { "name": "Abomasnow", "points": -71044, "topMoves": [["Leaf Storm", 0]] },
+  {
+    "name": "Lapras",
+    "points": -72737,
+    "topMoves": [
+      ["Ancient Power", 55],
+      ["Hydro Pump", 0]
+    ]
+  },
+  { "name": "Silvally", "points": -73040, "topMoves": [["Explosion", 0]] },
+  { "name": "Sylveon", "points": -73179, "topMoves": [["Moonblast", 0]] },
+  { "name": "Umbreon", "points": -73302, "topMoves": [] },
+  {
+    "name": "Skuntank",
+    "points": -73985,
+    "topMoves": [
+      ["Smog", 9],
+      ["Explosion", 1]
+    ]
+  },
+  { "name": "Mudsdale", "points": -75310, "topMoves": [["Earthquake", 0]] },
+  { "name": "Copperajah", "points": -84575, "topMoves": [["Double-Edge", 0]] },
+  {
+    "name": "Vaporeon",
+    "points": -87888,
+    "topMoves": [
+      ["Hydro Pump", 0],
+      ["Double Kick", 0]
+    ]
+  },
+  { "name": "Wailmer", "points": -88462, "topMoves": [] },
+  { "name": "Munchlax", "points": -90300, "topMoves": [["Last Resort", 0]] },
+  { "name": "Snorlax", "points": -100718, "topMoves": [["Last Resort", 0]] },
+  { "name": "Wailord", "points": -105685, "topMoves": [] }
+]
