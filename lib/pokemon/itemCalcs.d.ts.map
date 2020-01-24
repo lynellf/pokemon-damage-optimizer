@@ -1,0 +1,1 @@
+{"version":3,"file":"itemCalcs.d.ts","sourceRoot":"","sources":["../../src/pokemon/itemCalcs.ts"],"names":[],"mappings":"AAEA,aAAK,KAAK,GAAG;IAAE,IAAI,EAAE,MAAM,CAAC;IAAC,UAAU,EAAE,MAAM,EAAE,CAAA;CAAE,CAAC;AACpD,aAAK,GAAG,GAAG,CAAC,IAAI,EAAE,KAAK,KAAK,MAAM,EAAE,GAAG,SAAS,CAAC;AACjD,QAAA,MAAM,KAAK,20DAAwB,CAAC;AAgDpC,eAAe,KAAK,CAAC"}

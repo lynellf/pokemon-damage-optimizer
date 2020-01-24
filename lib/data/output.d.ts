@@ -21492,6 +21492,11 @@ export declare const pokemon: {
     "Rotom": {
         "name": string;
         "moves": {
+            "Hydro Pump": string[];
+            "Overheat": string[];
+            "Blizzard": string[];
+            "Air Slash": string[];
+            "Leaf Storm": string[];
             "Max Flare": string[];
             "Max Lightning": string[];
             "Max Strike": string[];
