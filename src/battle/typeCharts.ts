@@ -1,213 +1,98 @@
-import dataSource from "../data/output.json";
 import Monster, { CleanTypes } from "../pokemon/pokemon";
+type TAttack = typeof Monster.prototype.attackList[0];
 
-type Moves = typeof dataSource["moves"];
-type MoveKeys = keyof Moves;
-type MonsterKeys = keyof typeof dataSource["pokemon"];
-type TMoveFormatted = {
-  name: string;
-  power: number;
-  type: string;
-  category: string | undefined;
-};
+export const weaknesses: Map<CleanTypes, CleanTypes[]> = new Map();
+weaknesses.set("normal", ["fighting"]);
+weaknesses.set("fighting", ["flying", "psychic", "fairy"]);
+weaknesses.set("flying", ["rock", "electric", "ice"]);
+weaknesses.set("poison", ["ground", "psychic"]);
+weaknesses.set("ground", ["water", "grass", "ice"]);
+weaknesses.set("rock", ["fighting", "ground", "steel", "grass", "water"]);
+weaknesses.set("bug", ["flying", "rock", "fire"]);
+weaknesses.set("ghost", ["ghost", "dark"]);
+weaknesses.set("steel", ["fighting", "ground", "fire"]);
+weaknesses.set("fire", ["ground", "rock", "water"]);
+weaknesses.set("water", ["grass", "electric"]);
+weaknesses.set("grass", ["flying", "poison", "bug", "fire", "ice"]);
+weaknesses.set("electric", ["ground"]);
+weaknesses.set("psychic", ["bug", "ghost", "dark"]);
+weaknesses.set("ice", ["fighting", "rock", "steel", "fire"]);
+weaknesses.set("dragon", ["ice", "dragon", "fairy"]);
+weaknesses.set("dark", ["fighting", "bug", "fairy"]);
+weaknesses.set("fairy", ["poison", "steel"]);
 
-function roundDown(number: number, decimals: number) {
-  decimals = decimals || 0;
-  return Math.floor(number * Math.pow(10, decimals)) / Math.pow(10, decimals);
+export const resistances: Map<CleanTypes, CleanTypes[]> = new Map();
+resistances.set("normal", ["ghost"]);
+resistances.set("fighting", ["rock", "bug"]);
+resistances.set("flying", ["fighting", "bug", "grass"]);
+resistances.set("poison", ["fighting", "poison", "bug", "grass", "fairy"]);
+resistances.set("ground", ["poison", "rock"]);
+resistances.set("rock", ["normal", "flying", "poison", "fire"]);
+resistances.set("bug", ["fighting", "ground", "grass"]);
+resistances.set("ghost", ["poison", "bug"]);
+resistances.set("steel", [
+  "normal",
+  "flying",
+  "rock",
+  "bug",
+  "steel",
+  "grass",
+  "psychic",
+  "ice",
+  "dragon",
+  "fairy"
+]);
+resistances.set("fire", ["bug", "fire", "grass", "ice"]);
+resistances.set("water", ["steel", "fire", "water", "ice"]);
+resistances.set("grass", ["ground", "water", "grass", "electric"]);
+resistances.set("electric", ["flying", "steel", "electric"]);
+resistances.set("psychic", ["fighting", "psychic"]);
+resistances.set("ice", ["ice"]);
+resistances.set("dragon", ["fire", "water", "grass", "electric"]);
+resistances.set("dark", ["ghost", "dark"]);
+resistances.set("fairy", ["fighting", "bug", "dark"]);
+
+export const immunities: Map<CleanTypes, CleanTypes[]> = new Map();
+immunities.set("normal", ["ghost"]);
+immunities.set("flying", ["ground"]);
+immunities.set("ground", ["electric"]);
+immunities.set("ghost", ["normal", "fighting"]);
+immunities.set("steel", ["poison"]);
+immunities.set("dark", ["psychic"]);
+immunities.set("fairy", ["dragon"]);
+
+export function getImmunities(mon: Monster) {
+  const types = mon.types.map(t => t.toLowerCase()) as CleanTypes[];
+  const imm = types
+    .flatMap(t => immunities.get(t))
+    .filter(t => t !== undefined);
+  return imm as CleanTypes[];
+}
+export function getWeaknesses(mon: Monster) {
+  const types = mon.types.map(t => t.toLowerCase()) as CleanTypes[];
+  const wkns = types.flatMap(t => weaknesses.get(t)!);
+  return wkns;
 }
 
-function lower(str: string) {
-  return str.toLowerCase();
+export function getResistances(mon: Monster) {
+  const types = mon.types.map(t => t.toLowerCase()) as CleanTypes[];
+  const rst = types.flatMap(t => resistances.get(t)!);
+  return rst;
 }
 
-const multiTurnMoveList: string[] = [
-  "blast burn",
-  "bounce",
-  "dig",
-  "dive",
-  "eternabeam",
-  "fly",
-  "freeze shock",
-  "frenzy plant",
-  "geomancy",
-  "giga impact",
-  "hydro cannon",
-  "hyper beam",
-  "ice burn",
-  "meteor assault",
-  "phantom force",
-  "prismatic laser",
-  "razor wind",
-  "roar of time",
-  "rock wrecker",
-  "shadow force",
-  "shadow half",
-  "skull bash",
-  "sky attack",
-  "sky drop",
-  "solar beam",
-  "solar blade"
-];
-
-function maxMoveFilter(maxMoves: boolean, names: MoveKeys[]) {
-  return maxMoves ? names : names.filter(i => !i.toLowerCase().includes("max"));
+export function weaknessCheck(attack: TAttack, weaknesses: CleanTypes[]) {
+  return weaknesses.includes(attack.type as CleanTypes);
 }
 
-function multiTurnFilter(multiturn: boolean, names: MoveKeys[]) {
-  return multiturn
-    ? names
-    : names.filter(i => !multiTurnMoveList.includes(i.toLowerCase()));
+export function immunityCheck(attack: TAttack, immunities: CleanTypes[]) {
+  return !immunities.includes(attack.type as CleanTypes);
 }
 
-function attackFilter(moveList: TMoveFormatted[]) {
-  return moveList.filter(m => !isNaN(m.power));
+export function resistanceCheck(attack: TAttack, resistances: CleanTypes[]) {
+  return !resistances.includes(attack.type as CleanTypes);
 }
 
-type TGetAttacks = {
-  mon: MonsterKeys;
-  maxMoves?: boolean;
-  multiTurnMoves?: boolean;
-};
-
-export function getAttacks({
-  mon,
-  maxMoves = false,
-  multiTurnMoves = false
-}: TGetAttacks) {
-  let query = dataSource.pokemon[mon];
-  let moveIndex = Object.keys(query.moves) as MoveKeys[];
-  moveIndex = maxMoveFilter(maxMoves, moveIndex);
-  moveIndex = multiTurnFilter(multiTurnMoves, moveIndex);
-
-  let attacks = moveIndex.map(i => {
-    const move = dataSource.moves[i];
-    return {
-      name: move.moveName,
-      power: Number(move.movePower),
-      type: move.moveType.trim().toLowerCase(),
-      category: move.moveCategory?.trim().toLowerCase()
-    };
-  });
-  attacks = attackFilter(attacks);
-  attacks = attacks.filter(
-    a => a.category !== null && a.category !== undefined
-  );
-
-  return attacks as typeof attacks;
-}
-function applyDmgMultipliers(
-  moveDamage: number,
-  atkTypes: string[],
-  defTypes: string[],
-  moveType: CleanTypes,
-  cse: any
-) {
-  const hasSTAB = atkTypes.map(lower).includes(moveType);
-  const typeBonuses = defTypes.reduce((total, defType, _index) => {
-    const multiplier = applyTypeBonus(
-      moveType as CleanTypes,
-      lower(defType) as CleanTypes
-    );
-    return total * multiplier;
-  }, 1);
-
-  const randMulti = cse === "best" ? 1 : roundDown(85/100, 2);
-  const stabMultiplier = hasSTAB ? 1.5 : 1;
-  return roundDown(typeBonuses * randMulti * stabMultiplier * moveDamage, 2);
-}
-
-type CalculateMoveDmg = {
-  attackerAtk: number;
-  attackerTypes: string[];
-  defenderDef: number;
-  defenderHp: number;
-  defenderName: string;
-  defenderTypes: string[];
-  level: number;
-  move: TMoveFormatted;
-  cse: "best" | "worst";
-};
-
-function calculateMoveDmg({
-  attackerAtk,
-  attackerTypes,
-  cse,
-  defenderDef,
-  defenderHp,
-  defenderName,
-  defenderTypes,
-  level,
-  move
-}: CalculateMoveDmg) {
-  const { type: moveType, category, power: movePower, name } = move;
-  const atkVsDef = roundDown(attackerAtk / defenderDef, 2);
-  const levelModifier = roundDown((2 * level) / 5 + 2, 2);
-  const rawDmg = roundDown(
-    levelModifier * ((movePower * atkVsDef) / level) + 2,
-    2
-  );
-  const totalDmg = applyDmgMultipliers(
-    rawDmg,
-    attackerTypes,
-    defenderTypes,
-    moveType as CleanTypes,
-    cse
-  );
-
-  const movePct = parseFloat((totalDmg / defenderHp).toFixed(2));
-  return {
-    category,
-    defenderName,
-    defenderHp,
-    movePct,
-    name,
-    totalDmg
-  };
-}
-
-type TDamageCalc = {
-  move: TMoveFormatted;
-  attacker: Monster;
-  defender: Monster;
-  cse: "best" | "worst";
-};
-
-export function performDamageCalculation({
-  attacker,
-  defender,
-  move,
-  cse
-}: TDamageCalc) {
-  // console.log(`Now Battling: ${attacker.name} vs ${defender.name}`)
-  if (move !== undefined) {
-    const { category } = move;
-    const { stats: attackerTotals, types: attackerTypes, level } = attacker;
-    const { stats: defenderTotals, types: defenderTypes } = defender;
-    const isSpecial = category === "special move";
-    const attackerAtk = isSpecial ? attackerTotals.spa : attackerTotals.atk;
-    const defenderDef = isSpecial ? defenderTotals.spd : defenderTotals.def;
-    const defenderHp = defenderTotals.hp;
-    const defenderName = defender.name;
-
-    return calculateMoveDmg({
-      attackerAtk,
-      attackerTypes,
-      cse,
-      defenderDef,
-      defenderHp,
-      defenderName,
-      defenderTypes,
-      level,
-      move
-    });
-  } else {
-    throw new Error(
-      `Battle between ${attacker.name} and ${defender.name} has an undefined move!`
-    );
-  }
-}
-
-function applyTypeBonus(moveType: CleanTypes, defType: CleanTypes) {
+export function applyTypeBonus(moveType: CleanTypes, defType: CleanTypes) {
   const normalTable = {
     normal: 1,
     fighting: 1,
